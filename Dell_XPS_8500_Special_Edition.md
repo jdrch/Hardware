@@ -18,7 +18,7 @@
 
 **RAM** 
 
-32 GB (4 x 8 GB) Crucial
+32 GB (2 x [Crucial 16GB Kit (2 x 8GB) DDR3L-1600 UDIMM](https://www.crucial.com/usa/en/ct2k102464bd160b))
 
 **Storage**
 
@@ -84,9 +84,41 @@ Dell Inspiron 560
 * [John's Background Switcher for Windows](https://johnsad.ventures/software/backgroundswitcher/)
 * Duplicati
 * StableBit DrivePool
-* qBittorrent
+* [qBittorrent](https://www.qbittorrent.org)
 * [Pushbullet](https://www.pushbullet.com/)
 
-**UPS**
+**Peripherals**
+
+*Mouse & Keyboard*
+
+[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)
+
+*Docks*
+
+[StarTech USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/HDD/Docking/2-bay-usb-3-1-gen-2-sata-dock~SDOCK2U313)
+
+*UPS*
 
 [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
+
+*External Monitors*
+
+* Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs)
+* Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk)
+* Left, 1200p, DVI-D: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q)
+
+*Printers*
+
+HP Deskjet
+
+*Scanners*
+
+[Epson WorkForce GT-1500](https://epson.com/Support/Scanners/WorkForce-Series/Epson-WorkForce-GT-1500/s/SPT_B11B190011)
+
+*Webcam*
+
+[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam)
+
+*Fingerprint Reader*
+
+[Kensington VeriMark™ Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)

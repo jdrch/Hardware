@@ -40,11 +40,11 @@ Hitachi 2.5" 1 TB SATA III 5400 RPM HDD (NTFS)
 
 ## Graphics
 
-[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparenlty no longer has a product page for this GPU)
+[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparently no longer has a product page for this model)
 
 # Optical Disc Drive
 
-DVD-RW/Blu-ray
+LG 5.25" SATA III DVD-RW/Blu-ray
 
 # Backup
 

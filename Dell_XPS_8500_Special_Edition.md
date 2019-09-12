@@ -4,7 +4,7 @@
 
 # Operating System
 
-[Microsoft Windows 10 Pro 64-bit](https://www.microsoft.com/en-us/p/windows-10-pro/df77x4d43rkt)
+[Microsoft Windows 10 Pro Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview#semi-annual-channel)
 
 # Role(s)
 

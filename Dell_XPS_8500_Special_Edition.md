@@ -36,7 +36,9 @@ Hitachi 2.5" 1 TB SATA III 5400 RPM HDD (NTFS)
 * Seagate Barracuda 3.5" 500 GB 7200 RPM HDD (NTFS)
 * 2.5" 500 GB 5400 RPM HDD (NTFS)
 
-# Graphics
+# Expansion Cards
+
+## Graphics
 
 [AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparenlty no longer has a product page for this GPU)
 

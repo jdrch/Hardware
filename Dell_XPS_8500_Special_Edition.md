@@ -9,7 +9,7 @@
 # Role(s)
 
 * Main PC
-* [Plex](https://www.plex.tv) server
+* [Plex Media Server](https://www.plex.tv/media-server-downloads/)
 * Offsite backup client
 
 # CPU
@@ -79,7 +79,7 @@ DVD-RW/Blu-ray
 
 * [TeamViewer for Windows](https://www.teamviewer.com/en-us/download/windows/)
 * [CyberPower PowerPanel Personal Windows](https://www.cyberpowersystems.com/product/software/powerpanel-personal-windows/)
-* Plex
+* Plex Media Server
 * Resilio Sync Home Pro
 * Veeam Agent for Windows Free
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
@@ -90,6 +90,7 @@ DVD-RW/Blu-ray
 * [qBittorrent](https://www.qbittorrent.org)
 * [Pushbullet](https://www.pushbullet.com/)
 * [AMD Catalyst Control Center](https://www.amd.com/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-ghz-edition)
+* [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro)
 
 # Peripherals
 

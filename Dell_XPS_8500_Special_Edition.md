@@ -122,3 +122,11 @@ HP Deskjet
 ## Fingerprint Reader
 
 [Kensington VeriMark™ Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+
+## Speakers
+
+[Logitech Z-2300 2.1 Speaker System](https://support.logi.com/hc/en-us/articles/360024328433)
+
+## Headphones
+
+[Sony MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506)

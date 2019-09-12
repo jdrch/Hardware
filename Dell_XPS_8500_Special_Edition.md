@@ -75,6 +75,7 @@ DVD-RW/Blu-ray
 
 # 24/7/52 Applications
 
+* [TeamViewer for Windows](https://www.teamviewer.com/en-us/download/windows/)
 * [CyberPower PowerPanel Personal Windows](https://www.cyberpowersystems.com/product/software/powerpanel-personal-windows/)
 * Plex
 * Resilio Sync Home Pro

@@ -89,6 +89,7 @@ DVD-RW/Blu-ray
 * StableBit DrivePool
 * [qBittorrent](https://www.qbittorrent.org)
 * [Pushbullet](https://www.pushbullet.com/)
+* [AMD Catalyst Control Center](https://www.amd.com/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-ghz-edition)
 
 # Peripherals
 

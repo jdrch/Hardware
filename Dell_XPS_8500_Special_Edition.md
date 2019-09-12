@@ -28,7 +28,7 @@
 
 *User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)*
 
-Hitachi 2.5" 1 TB SATA III 5400 RPM HDD form (NTFS)
+Hitachi 2.5" 1 TB SATA III 5400 RPM HDD (NTFS)
 
 *[StableBit DrivePool](https://stablebit.com/DrivePool)*
 
@@ -86,3 +86,7 @@ Dell Inspiron 560
 * StableBit DrivePool
 * qBittorrent
 * [Pushbullet](https://www.pushbullet.com/)
+
+**UPS**
+
+[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)

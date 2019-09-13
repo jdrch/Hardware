@@ -27,9 +27,9 @@
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 
-* [Toshiba MQ01ABD100 1 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABDxxx-Product-Overview.pdf) (SATA 3.0, NTFS)
-* [Toshiba MQ01ABF050 500 GB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABFxxx-Product-Overview.pdf) (SATA 2.0, NTFS)
-* [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://www.seagate.com/staticfiles/support/disc/manuals/desktop/Barracuda%207200.12/100529369b.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#docks), NTFS) - Long term plan is to replace Blu-ray drive with this
+* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA, NTFS)
+* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA, NTFS) - Long term plan is to replace Blu-ray drive with this
+* [WD Gold WD101KRYZ 10 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-800074.pdf) (USB 3.1 Gen 1, NTFS) - Long term plan is to move this to internal SATA port
 
 # Expansion Cards
 

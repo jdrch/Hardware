@@ -108,9 +108,9 @@ LG 5.25" SATA III DVD-RW/Blu-ray
 
 ## External Monitors
 
-* Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs)
-* Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk)
-* Left, 1200p, DVI-D: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q)
+* Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs). HDMI port is connected to Raspberry Pi 3 Model B+
+* Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). HDMI port is connected to Dell OptiPlex 390
+* Left, 1200p, DVI-D: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). HDMI port is connected to dongle for Samsung Galaxy Note9
 
 ## Printers
 

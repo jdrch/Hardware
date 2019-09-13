@@ -37,4 +37,31 @@ Not gonna lie, yes. This is a very involved hobby. That said, setting OSes to au
 
 ### Why didn't you build any of your machines?
 
-Getting there eventually.
+Getting there eventually. I'll probably build my next new desktop myself.
+
+### How do you buy new PCs and parts?
+
+1. Go go OEM website
+2. Get part number
+3. Search Google shopping for part number
+4. Select the in-stock store that has a rating of at least 4 stars with the lowest total price (including shipping)
+
+The above method can get you brand new stuff for as much as half off MSRP.
+
+### What are the minimum specs you recommend for any new PC?
+
+1. CPU: ≥ 4C/8T for mainstream use, ≥ 6C/12T for gaming
+2. RAM: Max supported RAM ≥ 16 GB
+3. LAN: ≥ 1000BASE-T Ethernet
+4. Bluetooth: ≥ 5.0
+5. Wi-Fi: ≥ 2x2 802.11ac. Do not buy Wi-Fi 6/802.11ax yet as it has not been ratified
+6. USB: ≥ USB 3.1 Gen 1
+7. Storage: NVMe SSD at the least
+
+
+### What are the minimum specs you recommend for any used PC?
+
+1. CPU: ≥ 2C/4T. Must be covered by Intel speculative execution security patches 
+2. RAM: Max supported RAM ≥ 8 GB
+3. USB: ≥ USB 2.0
+4. Storage: Available port for SATA SSD

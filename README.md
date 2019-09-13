@@ -4,7 +4,7 @@ This repository is intended to be a list of my machines, their components, roles
 
 ## General Principles
 
-* OSes and apps are on the latest stable release at the very least and patched very aggressively
+* OSes, firmwares/BIOSes, and apps are on the latest stable release at the very least and patched very aggressively
 * Drivers are on the latest stable release
 
 ## Resilio Sync Home Pro

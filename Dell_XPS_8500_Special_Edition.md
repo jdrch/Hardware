@@ -48,8 +48,8 @@ LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drive
 
 There is no product page for it but, per HWiNFO64, its features are:
 
-* CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
-* CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
+* Can read: CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
+* Can write: CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
 
 # Backup
 

@@ -46,6 +46,11 @@
 
 LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) - Long term plan is to replace this with the [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
 
+There is no product page for it but, per HWiNFO64, its features are:
+
+* CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
+* CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
+
 # Backup
 
 ## Device Backup Target Application

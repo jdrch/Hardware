@@ -7,6 +7,10 @@ This repository is intended to be a list of my machines, their components, roles
 * OSes and apps are on the latest stable release at the very least and patched very aggressively
 * Drivers are on the latest stable release
 
+## Resilio Sync Home Pro
+
+* This is my P2P sync backend that replicates (desired subsets of) my folder hierarchy on all my PCs, Pis, and Android devices.
+
 ## FAQ
 
 ### Why are there no Macs?

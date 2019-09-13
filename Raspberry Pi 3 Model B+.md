@@ -72,4 +72,4 @@ Dell USB
 
 ## External Monitors
 
-1440p, HDMI: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs) - Pi is connected at 1200p or 1080p; don't recall which
+1080 or 1200p, HDMI: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs). DisplayPort is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)

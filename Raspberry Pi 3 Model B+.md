@@ -44,9 +44,9 @@ SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card 
 
 [Raspberry Pi Universal Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)
 
-## Backup
+# Backup
 
-# Real-time P2P File Sync
+## Real-time P2P File Sync
 
 [Resilio Sync Home Pro](https://www.resilio.com/individuals/)
 

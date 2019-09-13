@@ -54,10 +54,11 @@ The above method can get you brand new stuff for as much as half off MSRP.
 2. RAM: Max supported RAM ≥ 16 GB
 3. LAN: ≥ 1000BASE-T Ethernet
 4. Bluetooth: ≥ 5.0
-5. Wi-Fi: ≥ 2x2 802.11ac. Do not buy Wi-Fi 6/802.11ax yet as it has not been ratified
+5. Wi-Fi: ≥ 2x2 802.11ac
 6. USB: ≥ USB 3.1 Gen 1
 7. Storage: NVMe SSD at the least
-
+8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
+9. Display: 1080p
 
 ### What are the minimum specs you recommend for any used PC?
 
@@ -65,3 +66,5 @@ The above method can get you brand new stuff for as much as half off MSRP.
 2. RAM: Max supported RAM ≥ 8 GB
 3. USB: ≥ USB 2.0
 4. Storage: Available port for SATA SSD
+5. GPU/video out: ≥ HDMI
+6. Display: ≥ 768p

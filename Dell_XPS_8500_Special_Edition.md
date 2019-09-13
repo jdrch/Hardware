@@ -95,7 +95,10 @@ There is no product page for it but, per HWiNFO64, its features are:
 * [Pushbullet](https://www.pushbullet.com/)
 * [AMD Catalyst Control Center](https://www.amd.com/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-ghz-edition)
 * [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro)
-* Intel Rapid Storage Technology
+* [No-IP Dynamic DNS Update Client (DUC) for Windows](https://www.noip.com/download?page=win)
+* OneDrive
+* Bluetooth Devices
+* Windows Security
 
 # Peripherals
 

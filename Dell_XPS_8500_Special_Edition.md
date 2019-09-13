@@ -24,7 +24,7 @@
 
 ## Boot/OS
 
-[Samsung 860 EVO mSATA 1 TB SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-msata-1tb-mz-m6e1t0bw/) (NTFS)
+[Samsung 860 EVO mSATA 1 TB SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-msata-1tb-mz-m6e1t0bw/) (SATA 3.0, NTFS)
 
 ## User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 

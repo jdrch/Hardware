@@ -45,7 +45,7 @@ CD/DVD SATA
 
 ## Device Backup Target 
 
-SMB folder on [Dell XPS 8500](https://github.com/jdrch/Hardware/blob/master/Dell_XPS_8500_Special_Edition.md) - Short term plan is to switch this to [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on Dell Inspiron 560
+SMB folder on [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell_XPS_8500_Special_Edition.md) - Short term plan is to switch this to [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on Dell Inspiron 560
 
 ## Device Backup Source Application
 

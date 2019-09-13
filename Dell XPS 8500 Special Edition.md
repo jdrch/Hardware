@@ -34,17 +34,17 @@
 
 * [Toshiba MQ01ABD100 1 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABDxxx-Product-Overview.pdf) (SATA 3.0, NTFS)
 * [Toshiba MQ01ABF050 500 GB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABFxxx-Product-Overview.pdf) (SATA 2.0, NTFS)
-* [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://www.seagate.com/staticfiles/support/disc/manuals/desktop/Barracuda%207200.12/100529369b.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#docks), NTFS) - Long term plan is to replace Blu-ray drive with this
+* [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://www.seagate.com/staticfiles/support/disc/manuals/desktop/Barracuda%207200.12/100529369b.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#docks), NTFS). Long term plan is to replace Blu-ray drive with this
 
 # Expansion Cards
 
 ## Graphics
 
-[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparently no longer has a product page for this model)
+[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339). AMD apparently no longer has a product page for this model
 
 # Optical Disc Drive
 
-LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) - Long term plan is to replace this with the [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
+LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm). Long term plan is to replace this with the [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
 
 There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), its features are:
 
@@ -116,7 +116,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## External Monitors
 
-* Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs). HDMI port is connected to Raspberry Pi 3 Model B+
+* Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs). HDMI port is connected to [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md)
 * Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). HDMI port is connected to Dell OptiPlex 390
 * Left, 1200p, DVI-D: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). HDMI port is connected to dongle for Samsung Galaxy Note9
 

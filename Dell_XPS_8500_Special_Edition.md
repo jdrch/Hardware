@@ -28,12 +28,13 @@
 
 ## User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-Hitachi 2.5" 1 TB SATA III 5400 RPM HDD (NTFS)
+[HGST Travelstar 7K1000 0J22423 1 TB HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/hgst/travelstar-7k-series/data-sheet-travelstar-7k1000.pdf) (SATA 3.0, NTFS)
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 
-* Toshiba 2.5" 1 TB 5400 RPM HDD (NTFS)
-* Seagate Barracuda 3.5" 500 GB 7200 RPM HDD (NTFS)
+* [Toshiba MQ01ABD100 1 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABDxxx-Product-Overview.pdf) (SATA 3.0, NTFS)
+* [Toshiba MQ01ABF050 500 GB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABFxxx-Product-Overview.pdf) (SATA 2.0, NTFS)
+* [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://www.seagate.com/staticfiles/support/disc/manuals/desktop/Barracuda%207200.12/100529369b.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#docks), NTFS) - Long term plan is to replace Blu-ray drive with this
 * 2.5" 500 GB 5400 RPM HDD (NTFS)
 
 # Expansion Cards
@@ -44,7 +45,7 @@ Hitachi 2.5" 1 TB SATA III 5400 RPM HDD (NTFS)
 
 # Optical Disc Drive
 
-LG 5.25" SATA III DVD-RW/Blu-ray
+LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) - Long term plan is to replace this with the [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
 
 # Backup
 
@@ -74,7 +75,6 @@ LG 5.25" SATA III DVD-RW/Blu-ray
 
 [Resilio Sync Home Pro](https://www.resilio.com/individuals/)
 
-
 # 24/7/52 Applications
 
 * [TeamViewer for Windows](https://www.teamviewer.com/en-us/download/windows/)
@@ -100,7 +100,7 @@ LG 5.25" SATA III DVD-RW/Blu-ray
 
 ## Docks
 
-[StarTech USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/HDD/Docking/2-bay-usb-3-1-gen-2-sata-dock~SDOCK2U313)
+[StarTech USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/HDD/Docking/2-bay-usb-3-1-gen-2-sata-dock~SDOCK2U313) - Contains [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
 
 ## UPS
 
@@ -114,7 +114,7 @@ LG 5.25" SATA III DVD-RW/Blu-ray
 
 ## Printers
 
-HP Deskjet
+[HP Deskjet 5650](https://support.hp.com/us-en/product/hp-deskjet-5650-printer-series/304441)
 
 ## Scanners
 

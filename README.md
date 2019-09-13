@@ -68,3 +68,4 @@ The above method can get you brand new stuff for as much as half off MSRP.
 4. Storage: Available port for SATA SSD
 5. GPU/video out: ≥ HDMI
 6. Display: ≥ 768p
+7. LAN: ≥ 1000BASE-T Ethernet

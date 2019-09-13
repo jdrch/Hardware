@@ -33,24 +33,19 @@
 
 # Expansion Cards
 
-## Graphics
+## USB 3.1
 
-[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparently no longer has a product page for this model)
+[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V) - The onboard HDMI port does not work when this is installed
 
 # Optical Disc Drive
 
-LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) - Long term plan is to replace this with the [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
-
-There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), its features are:
-
-* Can read: CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
-* Can write: CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
+CD/DVD SATA
 
 # Backup
 
-## Device Backup Target Application
+## Device Backup Target 
 
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on Dell Inspiron 560
+SMB folder on [Dell XPS 8500](https://github.com/jdrch/Hardware/blob/master/Dell_XPS_8500_Special_Edition.md) - Short term plan is to switch this to [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on Dell Inspiron 560
 
 ## Device Backup Source Application
 
@@ -65,11 +60,6 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 [System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference)
 
-## Offsite Files Backup
-
-* [Duplicati](https://www.duplicati.com/)
-* OneDrive for [Office 365 Home](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm)
-
 ## Real-time P2P File Sync
 
 [Resilio Sync Home Pro](https://www.resilio.com/individuals/)
@@ -78,32 +68,28 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 * [TeamViewer for Windows](https://www.teamviewer.com/en-us/download/windows/)
 * [CyberPower PowerPanel Personal Windows](https://www.cyberpowersystems.com/product/software/powerpanel-personal-windows/)
-* Plex Media Server
 * Resilio Sync Home Pro
 * Veeam Agent for Windows Free
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
 * [PowerToys](https://github.com/microsoft/PowerToys)
-* [John's Background Switcher for Windows](https://johnsad.ventures/software/backgroundswitcher/)
-* Duplicati
 * StableBit DrivePool
-* [qBittorrent](https://www.qbittorrent.org)
-* [Pushbullet](https://www.pushbullet.com/)
-* [AMD Catalyst Control Center](https://www.amd.com/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-ghz-edition)
 * [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro)
-* [No-IP Dynamic DNS Update Client (DUC) for Windows](https://www.noip.com/download?page=win)
 * OneDrive
-* Bluetooth Devices
 * Windows Security
 
 # Peripherals
 
-## Mouse & Keyboard
+## Mouse 
 
-[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)
+[Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.anker.com/products/variant/anker-24g-wireless-vertical-ergonomic-optical-mouse/A7852011)
+
+## Keyboard
+
+Dell USB
 
 ## Docks
 
-[StarTech USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/HDD/Docking/2-bay-usb-3-1-gen-2-sata-dock~SDOCK2U313) - Contains [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)
+[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313) - Contains [WD Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell_Inspiron_560.md#stablebit-drivepool)
 
 ## UPS
 
@@ -111,21 +97,11 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## External Monitors
 
-* Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs). HDMI port is connected to Raspberry Pi 3 Model B+
-* Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). HDMI port is connected to Dell OptiPlex 390
-* Left, 1200p, DVI-D: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). HDMI port is connected to dongle for Samsung Galaxy Note9
-
-## Printers
-
-[HP Deskjet 5650](https://support.hp.com/us-en/product/hp-deskjet-5650-printer-series/304441)
-
-## Scanners
-
-[Epson WorkForce GT-1500](https://epson.com/Support/Scanners/WorkForce-Series/Epson-WorkForce-GT-1500/s/SPT_B11B190011)
+1080p, VGA: [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
 
 ## Webcam
 
-[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam)
+HP USB
 
 ## Fingerprint Reader
 
@@ -133,8 +109,4 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## Speakers
 
-[Logitech Z-2300 2.1 Speaker System](https://support.logi.com/hc/en-us/articles/360024328433)
-
-## Headphones
-
-[Sony MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506)
+Dell 2.0

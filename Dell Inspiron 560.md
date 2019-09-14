@@ -91,7 +91,7 @@ Dell 0Y526K USB
 
 ## Docks
 
-[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313) - Contains [WD Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell_Inspiron_560.md#stablebit-drivepool)
+[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313) - Contains [WD Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 
 ## UPS
 

@@ -85,7 +85,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 * [CyberPower PowerPanel Personal Windows](https://www.cyberpowersystems.com/product/software/powerpanel-personal-windows/)
 * Plex Media Server
 * Resilio Sync Home Pro
-* Veeam Agent for Windows Free
+* Veeam Agent for Windows FREE
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
 * [PowerToys](https://github.com/microsoft/PowerToys)
 * [John's Background Switcher for Windows](https://johnsad.ventures/software/backgroundswitcher/)

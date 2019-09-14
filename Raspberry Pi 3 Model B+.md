@@ -22,7 +22,7 @@
 
 ## Boot/OS & User Folders
 
-SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card (ext4?)
+SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card (ext4)
 
 # Case
 
@@ -64,7 +64,7 @@ SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card 
 
 ## Keyboard
 
-Dell USB
+[Dell Multimedia Keyboard-KB216 - US International (QWERTY) - Black](https://www.dell.com/en-us/shop/dell-multimedia-keyboard-kb216-us-international-qwerty-black/apd/580-admt/pc-accessories)
 
 ## UPS
 

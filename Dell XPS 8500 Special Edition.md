@@ -34,7 +34,7 @@
 
 * [Toshiba MQ01ABD100 1 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABDxxx-Product-Overview.pdf) (SATA 3.0, NTFS)
 * [Toshiba MQ01ABF050 500 GB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABFxxx-Product-Overview.pdf) (SATA 2.0, NTFS)
-* [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://www.seagate.com/staticfiles/support/disc/manuals/desktop/Barracuda%207200.12/100529369b.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#docks), NTFS). Long term plan is to replace Blu-ray drive with this
+* [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://www.seagate.com/staticfiles/support/disc/manuals/desktop/Barracuda%207200.12/100529369b.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#docks), NTFS). Long term plan is to replace Blu-ray drive with this
 
 # Expansion Cards
 

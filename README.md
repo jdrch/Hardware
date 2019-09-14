@@ -17,6 +17,7 @@ This repository is intended to be a list of my machines, their components, roles
 
 * Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to used enterprise PCs that work just as well and are more repairable and upgradable
 * I'm philosophically opposed to much of Apple's computing vision
+* I already run an open source UNIX implementation (BSD) anyway
 
 ### Did you buy everything new?
 

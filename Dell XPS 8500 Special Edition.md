@@ -72,7 +72,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## Offsite Files Backup
 
-* [Duplicati](https://www.duplicati.com/) to OneDrive for [Office 365 Home](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm)
+[Duplicati](https://www.duplicati.com/) to OneDrive for [Office 365 Home](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm)
 
 ## Real-time P2P File Sync
 

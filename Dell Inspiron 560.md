@@ -87,7 +87,7 @@ SMB folder on [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/
 
 ## Keyboard
 
-Dell 0Y526K USB
+[Dell SK-8185 Black 104 Key Slim Sleek USB Keyboard](https://www.amazon.com/Dell-Keyboard-Computer-Connectors-Compatible/dp/B005OZMBOE)
 
 ## Docks
 

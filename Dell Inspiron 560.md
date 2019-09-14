@@ -23,13 +23,13 @@
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://www.crucial.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10151&langId=-1&productId=2427502) (SATA, NTFS)
+[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://www.crucial.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10151&langId=-1&productId=2427502) (SATA 2.0, NTFS)
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 
-* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA, NTFS)
-* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA, NTFS) - Long term plan is to replace Blu-ray drive with this
-* [WD Gold WD101KRYZ 10 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-800074.pdf) (USB 3.1 Gen 1, NTFS) - Long term plan is to move this to internal SATA port
+* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0, NTFS)
+* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0, NTFS) - Long term plan is to replace Blu-ray drive with this
+* [WD Gold WD101KRYZ 10 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-800074.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#docks), NTFS) - Long term plan is to move this to internal SATA port
 
 # Expansion Cards
 
@@ -39,7 +39,9 @@
 
 # Optical Disc Drive
 
-CD/DVD SATA
+[HL-DT-ST DVD+-RW GH70N](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=8690n)
+* Drive can read: CD-R, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL
+* Drive can write: CD-R, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL
 
 # Backup
 
@@ -85,7 +87,7 @@ SMB folder on [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/
 
 ## Keyboard
 
-Dell USB
+Dell 0Y526K USB
 
 ## Docks
 
@@ -109,4 +111,4 @@ HP USB
 
 ## Speakers
 
-Dell 2.0
+[Dell AX210 USB 2.0 Powered Speaker](https://www.dell.com/support/home/us/en/04/product-support/product/dell-ax210/overview)

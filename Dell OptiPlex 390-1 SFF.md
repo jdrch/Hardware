@@ -78,6 +78,10 @@
 
 [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
 
-## External Monitors
+## Bluetooth
+
+[Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://www.tripplite.com/mini-bluetooth-4.0-class-1-usb-adapter~U261001BT4). Connects to the [Logitech MK850 Performance](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse--keyboard).
+
+# External Monitors
 
 1080p, HDMI: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). Monitor DisplayPort is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)

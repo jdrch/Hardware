@@ -116,7 +116,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 ## External Monitors
 
 * Right (Main), 1440p, DisplayPort: [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs). Monitor HDMI port is connected to [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md)
-* Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). Monitor HDMI port is connected to [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
+* Center, 2160p, DisplayPort: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). Monitor HDMI port is connected to [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#external-monitors)
 * Left, 1200p, DVI-D: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). Monitor HDMI port is connected to dongle for Samsung Galaxy Note9
 
 ## Printers

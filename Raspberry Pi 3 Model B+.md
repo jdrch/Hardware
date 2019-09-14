@@ -22,7 +22,7 @@
 
 ## Boot/OS & User Folders
 
-SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card (ext4)
+[SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card](https://www.newegg.com/sandisk-32gb-microsdhc/p/N82E16820173122?Item=N82E16820173122) (ext4)
 
 # Case
 

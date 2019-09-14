@@ -104,7 +104,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## Mouse & Keyboard
 
-[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)
+[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo). Shared with Dell OptiPlex 390 and Samsung Galaxy Note9
 
 ## Docks
 

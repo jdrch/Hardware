@@ -50,11 +50,11 @@
 
 ## Filesystem Versioning
 
-[Back In Time](https://github.com/bit-team/backintime) to [Btrfs raid1]()
+[Back In Time](https://github.com/bit-team/backintime) to [Btrfs raid1 with `autodefrag`](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
 
 ## OS Versioning
 
-[Timeshift](https://github.com/teejee2008/Timeshift)
+[Timeshift](https://github.com/teejee2008/Timeshift) to [Btrfs raid1 with `autodefrag`](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
 
 ## Real-time P2P File Sync
 

@@ -48,7 +48,7 @@
 
 # 24/7/52 Applications
 
-* Resilio Sync Home Pro
+Resilio Sync Home Pro
 
 # Peripherals
 

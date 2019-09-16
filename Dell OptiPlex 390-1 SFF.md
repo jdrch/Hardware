@@ -36,7 +36,7 @@
 
 ## SATA 3.0
 
-[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I). The [HBA SATA Toshiba L200](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag) is connected to this.
+[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I). The [HBA SATA Toshiba L200](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag) is connected to this
 
 # Backup
 
@@ -76,11 +76,11 @@
 
 ## UPS
 
-[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/). Also backs up and protects [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#ups) and [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups).
+[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/). Also backs up and protects [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#ups) and [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups)
 
 ## Bluetooth
 
-[Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://www.tripplite.com/mini-bluetooth-4.0-class-1-usb-adapter~U261001BT4). Connects to the [Logitech MK850 Performance](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse--keyboard).
+[Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://www.tripplite.com/mini-bluetooth-4.0-class-1-usb-adapter~U261001BT4). Connects to the [Logitech MK850 Performance](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse--keyboard)
 
 # External Monitors
 

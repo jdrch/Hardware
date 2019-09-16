@@ -76,7 +76,7 @@
 
 ## UPS
 
-[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
+[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/). Also backs up and protects [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#ups) and [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups).
 
 ## Bluetooth
 

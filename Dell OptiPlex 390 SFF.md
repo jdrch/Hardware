@@ -62,7 +62,7 @@ Resilio Sync Home Pro
 
 ## UPS
 
-[Back UPS PRO BR 1350VA, SineWave, 10 Outlets, 2 USB Charging Ports, AVR, LCD interface](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
+[APC Back UPS PRO BR 1350VA, SineWave, 10 Outlets, 2 USB Charging Ports, AVR, LCD interface](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
 
 # External Monitors
 

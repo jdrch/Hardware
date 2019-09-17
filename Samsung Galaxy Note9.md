@@ -54,6 +54,10 @@ Primary Phone
 
 [Plantronics Voyager Edge](https://www.plantronics.com/us/en/product/voyager-edge)
 
+## Headphones
+
+[SoundPEATS QY8 Wireless](https://www.rtings.com/headphones/reviews/soundpeats/qy8-wireless)
+
 # External Monitors
 
 1200p, HDMI: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). Connected via [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter). Monitor DVI-D is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)

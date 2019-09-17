@@ -66,7 +66,8 @@ Resilio Sync Home Pro
 
 ## Audio Switch
 
-[SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://www.sescom.com/products/view/product/productslug/ses-ipod-ab-ipod-stereo-audio-mp3-flac-wma-player-ab-switch-35mm-18-). Connected to Sony Studio Monitors
+[SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://www.sescom.com/products/view/product/productslug/ses-ipod-ab-ipod-stereo-audio-mp3-flac-wma-player-ab-switch-35mm-18-). Connected to [Sony Studio Monitors](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#headphones
+) and [Audioengine A2](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#speakers).
 
 ## Headphones
 

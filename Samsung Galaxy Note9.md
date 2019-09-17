@@ -58,7 +58,7 @@ Primary Phone
 
 ## Vehicle Mount
 
-[RAM® X-Grip® Large Phone Mount with RAM-A-CAN™ II Cup Holder Base](https://www.rammount.com/part/RAP-299-3-UN10U)
+[RAM X-Grip Large Phone Mount with RAM-A-CAN II Cup Holder Base](https://www.rammount.com/part/RAP-299-3-UN10U)
 
 ## Desk Stand 
 

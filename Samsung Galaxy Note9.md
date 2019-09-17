@@ -50,6 +50,10 @@ Primary Phone
 
 [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo). Shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse--keyboard) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#mouse--keyboard)
 
+## Headset
+
+[Plantronics Voyager Edge](https://www.plantronics.com/us/en/product/voyager-edge)
+
 # External Monitors
 
 1200p, HDMI: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). Connected via [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter). Monitor DVI-D is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)

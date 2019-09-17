@@ -40,7 +40,7 @@
 
 ## Filesystem & OS Versioning
 
-[zfsnap](https://www.zfsnap.org/)
+[`zfsnap`](https://www.zfsnap.org/)
 
 ## Real-time P2P File Sync
 

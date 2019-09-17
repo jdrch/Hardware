@@ -25,7 +25,7 @@ No. I bought all the non-Windows x86 machines used IRL. Generally speaking, buyi
 
 ### You should run *insert OS here*
 
-Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to be either FreeNAS, Fedora, or Manjaro.
+Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to be either FreeNAS, Fedora, or Manjaro. My next Windows SKU will be Windows 10 Pro for Workstations. 
 
 ### What do you use for VMs?
 
@@ -52,6 +52,22 @@ Getting there eventually. I'll probably build my next new desktop myself.
 4. Select the in-stock store that has a rating of at least 4 stars with the lowest total price (including shipping)
 
 The above method can get you brand new stuff for as much as half off MSRP.
+
+### What's your main OS?
+
+Windows 10.
+
+### You should switch from Windows because *insert reasons here*
+
+No(t for now.) At the very least, because:
+
+1. Windows GUI-first approach makes everything cognitively easy and is generally tolerant of mistakes. Point, click, done
+2. Linux and BSD are relatively unforgiving 
+3. Windows services management is the best of all modern OSes
+4. NTFS supports seamless on-disk snapshots, which ext4 does (ZFS does, but BSD doesn't have the app libary or dev support to be my main OS)
+5. Windows is a 1st class citizen when it comes to dev support
+6. Veeam, the best backup system currently available to me, supports Windows best
+7. I have the most experience (25+ years?) and am therefore most familiar with Windows
 
 ### What are the minimum specs you recommend for any new PC?
 

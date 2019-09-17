@@ -23,7 +23,7 @@ Primary Phone
 ## Boot/OS & User Folders
 
 * Onboard: 512 GB [UFS 2.1](https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_9#Specifications) (ext4)
-* Portable: [SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I Card](https://www.sandisk.com/home/memory-cards/microsd-cards/ultra-microsd-400gb) (exFAT?)
+* Portable: [SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://www.sandisk.com/home/memory-cards/microsd-cards/ultra-microsd-400gb) (exFAT?)
 
 # Case
 

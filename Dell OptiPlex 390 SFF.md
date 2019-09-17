@@ -34,7 +34,7 @@
 
 ## SATA 3.0
 
-[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I). The [HBA SATA Hitachi Travelstar 5K250](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag) is connected to this
+[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I). The [HBA SATA Hitachi Travelstar 5K250](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror) is connected to this
 
 # Backup
 
@@ -64,12 +64,20 @@ Resilio Sync Home Pro
 
 [APC Back UPS PRO BR 1350VA, SineWave, 10 Outlets, 2 USB Charging Ports, AVR, LCD interface](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
 
+## Audio Switch
+
+[SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://www.sescom.com/products/view/product/productslug/ses-ipod-ab-ipod-stereo-audio-mp3-flac-wma-player-ab-switch-35mm-18-). Connected to Sony Studio Monitors
+
+## Headphones
+
+Sony Studio Monitors
+
+## Speakers
+
+[Audioengine A2](https://www.crutchfield.com/S-bXW2qqMqe1W/p_772A2B/Audioengine-A2-Satin-black.html)
+
+
 # External Monitors
 
 * Left (Main), 1080p, HDMI: [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
 * Right, 768p, VGA: [Dell IN1920f](https://www.dell.com/support/home/us/en/04/product-support/product/dell-in1920/docs)
-
-
-
-
-

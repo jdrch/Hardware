@@ -44,7 +44,7 @@ Primary Phone
 
 ## USB-C Adapter
 
-[Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to [ASUS ProArt PA248Q]9https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) HDMI port
+[Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to [ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) HDMI port
 
 ## Mouse & Keyboad
 
@@ -52,7 +52,7 @@ Primary Phone
 
 # External Monitors
 
-1200p, HDMI: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). Monitor DVI-D is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
+1200p, HDMI: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). Connected via [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter). Monitor DVI-D is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
 
 # Accessories
 

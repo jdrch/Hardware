@@ -73,7 +73,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## Offsite Files Backup
 
-[Duplicati](https://www.duplicati.com/) to OneDrive for [Office 365 Home](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm)
+[Duplicati](https://www.duplicati.com/) to OneDrive for [Office 365 Home](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm). Since files are synced among clients using [Resilio Sync Home Pro](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#real-time-p2p-file-sync), only 1 offsite backup client PC is needed
 
 ## Real-time P2P File Sync
 

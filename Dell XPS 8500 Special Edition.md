@@ -41,7 +41,7 @@
 
 ## Graphics
 
-[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339). AMD apparently no longer has a product page for this model
+[AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparently no longer has a product page for this model)
 
 # Optical Disc Drive
 

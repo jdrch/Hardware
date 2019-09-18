@@ -9,6 +9,7 @@
 
 # Role(s)
 
+* Main laptop
 * Client PC
 
 # CPU

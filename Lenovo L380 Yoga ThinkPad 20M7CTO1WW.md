@@ -70,6 +70,10 @@
 
 # Accessories
 
+## 3rd Party Power Adapter
+
+[Nekteck 5-Port 111W USB Wall Charger with Type-C 87W Power Delivery PD](https://www.nekteck.com/product/usb-if-certified-usb-c-charger-nekteck-5-port-111w-usb-wall-charger-with-type-c-87w-power-delivery-pd-charger-station-compatible-with-2017-macbook-pro-pixel-32xl-galaxy-s9-plus-ipad-pro-2018/)
+
 ## Sleeves
 
 * [Aqua Quest Monsoon 13'' Laptop Case](http://aquaquestwaterproof.com/products/monsoon-13-laptop-case?variant=12446152360034)

@@ -61,7 +61,7 @@
 
 # Peripherals
 
-## 1000BASE-T
+## Gigabit Ethernet
 
 [Lenovo ThinkPad Ethernet Extension Cable](https://www.lenovo.com/ca/en/accessories-and-monitors/cables-and-adapters/adapters/CABLE-BO-TP-Ethernet-Ext-Cable/p/4X90F84315)
 

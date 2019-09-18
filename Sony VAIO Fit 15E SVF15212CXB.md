@@ -8,7 +8,7 @@
 
 # Role(s)
 
-* Client PC
+Client PC
 
 # CPU
 

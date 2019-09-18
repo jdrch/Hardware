@@ -66,4 +66,8 @@
 
 ## Fingerprint Reader
 
-[Kensington VeriMark™ Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+
+## WLAN
+
+[ASUS USB-AC56 Dual-band AC1300 USB 3.0 Wi-Fi Adapter](https://www.asus.com/us/Networking/USBAC56/). Used only when Ethernet connection is unavailable (rarely). Detached from host otherwise

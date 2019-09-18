@@ -127,7 +127,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 ## Fingerprint Reader
 
-[Kensington VeriMark™ Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
 
 ## Speakers
 

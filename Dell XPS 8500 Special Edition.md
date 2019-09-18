@@ -8,7 +8,8 @@
 
 # Role(s)
 
-* Main PC
+* Main destkop
+* Client PC
 * [Plex Media Server](https://www.plex.tv/media-server-downloads/)
 * Offsite backup client
 

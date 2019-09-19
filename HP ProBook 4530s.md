@@ -37,7 +37,7 @@ Client PC
 
 ## Filesystem & OS Versioning
 
-[Back In Time](https://github.com/bit-team/backintime) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s%20Notebook%20PC.md#bootos--home)
+[Back In Time](https://github.com/bit-team/backintime) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
 
 ## Real-time P2P File Sync
 

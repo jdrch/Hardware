@@ -24,7 +24,7 @@
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Samsung SSD 970 EVO NVMe M.2 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/)
+[Samsung SSD 970 EVO NVMe M.2 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/) (NVMe, NTFS)
 
 # Backup
 

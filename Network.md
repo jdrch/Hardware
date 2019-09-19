@@ -16,13 +16,13 @@ Technicolor
 
 [Ubiquiti UniFi HD UAP-AC-HD 802.11ac Wave 2 Enterprise Wi-Fi Access Point](https://dl.ubnt.com/datasheets/unifi/UniFi_UAP-AC-HD_DS.pdf)
 * Managed by [UniFi Controller](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#roles)
-* UPS backup: [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/)
-* Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch]
+* UPS backup: [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/). Shared with [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches) and Sony PlayStation 4 Pro
+* Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 ## Switches
 
 * 5 x [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
-* [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
+* [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf). UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups)
 * [NETGEAR GS605v4 5 Port Gigabit Ethernet Unmanaged Switch](https://www.netgear.com/support/product/GS605v4)
 
 ## MoCA Adapter
@@ -31,7 +31,7 @@ Technicolor
 
 ## Network Tuner
 
-[Silicon Dust HDHomeRun CONNECT QUATRO](https://www.silicondust.com/product/hdhomerun-connect-quatro/). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch]
+[Silicon Dust HDHomeRun CONNECT QUATRO](https://www.silicondust.com/product/hdhomerun-connect-quatro/). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 ## OTA Broadcast TV
 

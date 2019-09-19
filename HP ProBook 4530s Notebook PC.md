@@ -4,11 +4,11 @@
 
 # Operating Systems
 
-* [Ubuntu Desktop](https://ubuntu.com/download/desktop)
+[Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
 # Role(s)
 
-* Client PC
+Client PC
 
 # CPU
 
@@ -28,6 +28,7 @@
 # Backup
 
 ## Device Backup Target 
+
 [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md)
 
 ## Device Backup Source Application
@@ -36,7 +37,7 @@
 
 ## Filesystem & OS Versioning
 
-* [Back In Time](https://github.com/bit-team/backintime) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)]
+[Back In Time](https://github.com/bit-team/backintime) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)]
 
 ## Real-time P2P File Sync
 

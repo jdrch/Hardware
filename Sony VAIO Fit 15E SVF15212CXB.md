@@ -22,7 +22,7 @@ Client PC
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/)
+[Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/) (SATA 3.0, NTFS)
 
 # Backup
 

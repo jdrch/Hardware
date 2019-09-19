@@ -22,7 +22,7 @@ Client PC
 
 ## Boot/OS & `/home`
 
-* [Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ex4 on LVM)
+* [Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM)
 * [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://www.bhphotovideo.com/c/product/1132692-REG/sandisk_sdsdquan_200g_a4a_200gb_ultra_uhs_i_microsdxc.html) (ext4)
 
 # Backup

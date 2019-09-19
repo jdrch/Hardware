@@ -57,6 +57,9 @@ Client PC
 * OneDrive
 * [Pushbullet](https://www.pushbullet.com/)
 * [VAIO Update](https://www.sony.com/electronics/support/laptop-pc-svf-series/svf15212cxb/downloads)
+* Intel HD Graphics
+* Intel Driver & Support Assistant
+* Skype
 
 # Peripherals
 

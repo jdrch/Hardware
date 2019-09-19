@@ -90,3 +90,11 @@ No(t for now.) At the very least, because:
 5. GPU/video out: ≥ HDMI
 6. Display: ≥ 768p
 7. LAN: ≥ 1000BASE-T Ethernet
+
+## Why did you choose the BR500? Isn't it a terrible product
+
+If you're trying to use it as advertised, it is. However, its performance, ease of use, and stability as a non-Insight OpenVPN gateway is excellent. Emphasis on the "ease of use" part of that; the BR500 has the easiest OpenVPN deployment I'm aware of. 
+
+## Why don't you use pfSense? 
+
+That's what the [Dell OptiPlex 3010](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs) is for (eventually).

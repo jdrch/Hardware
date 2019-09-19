@@ -58,6 +58,9 @@
 * [Windows Defender Security Center](https://www.microsoft.com/en-us/windows/comprehensive-security)
 * OneDrive
 * [Pushbullet](https://www.pushbullet.com/)
+* Intel HD Graphics
+* Intel Driver & Support Assistant
+* Skype
 
 # Peripherals
 

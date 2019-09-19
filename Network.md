@@ -35,15 +35,15 @@ Technicolor
 
 ## OTA Broadcast TV
 
-# Outdoor Antenna
+### Outdoor Antenna
 
 [Channel Master EXTREMEtenna 80](https://www.channelmaster.com/Digital_HDTV_Outdoor_TV_Antenna_p/cm-4228hd.htm)
 
-# Outdoor Antenna Mount
+### Outdoor Antenna Mount
 
 [Channel Master Universal Antenna Mount](https://www.channelmaster.com/Universal_Antenna_Mount_p/cm-3090.htm)
 
-# Preamplifier
+### Preamplifier (Indoor)
 
 [Channel Master Amplify Adjustable Gain Preamplifier](https://www.channelmaster.com/Amplify_TV_Antenna_Preamplifier_p/cm-7777hd.htm)
 

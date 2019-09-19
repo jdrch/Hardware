@@ -31,7 +31,7 @@ PS4 Camera
 ### Storage
 
 * Internal 2 TB HDD
-* Western Digital Passport 320 GB HDD (USB 3.1 Gen 1)
+* Western Digital Passport 320 GB HDD ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
 
 ### Peripherals
 

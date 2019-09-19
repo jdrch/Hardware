@@ -64,7 +64,6 @@
 
 * [TeamViewer for Linux](https://www.teamviewer.com/en-us/download/linux/)
 * Resilio Sync Home Pro
-* Veeam Agent for Linux FREE
 * Pi-hole
 * dnscrypt-proxy
 

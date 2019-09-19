@@ -98,3 +98,7 @@ If you're trying to use it as advertised, it is. However, its performance, ease 
 ## Why don't you use pfSense? 
 
 That's what the [Dell OptiPlex 3010](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs) is for (eventually).
+
+## Why don't you have a rack and actual server hardware?
+
+Castoff client PCs are less expensive than the above and run the same applications appromixately as well. And exception to the latter part of that statement is ECC RAM, but that isn't an issue for my use case (yet?)

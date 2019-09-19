@@ -31,7 +31,7 @@ PS4 Camera
 ### Storage
 
 * Internal 2 TB HDD
-* Western Digital Passport 320 GB HDD
+* Western Digital Passport 320 GB HDD (USB 3.1 Gen 1)
 
 ### Peripherals
 
@@ -66,7 +66,7 @@ Internal 60 GB HDD
 * 3 x Black
 * 1 x Red
 
-## Sony PlayStation 3 80 GB
+## Sony PlayStation 3
 
 ### Storage
 

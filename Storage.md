@@ -23,6 +23,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#bootos--user-known-folders)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#bootos--home)
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
+* [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
 
 ### 3.5 in
 
@@ -84,7 +85,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 #### SSD
 
 * Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD
-* Samsung SSD 860 EVO 2.5" SATA III 1 TB
+* 2 x Samsung SSD 860 EVO 2.5" SATA III 1 TB
 * Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
@@ -105,6 +106,11 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 
 ## Brand
 
+### Crucial 
+
+* Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD
+* Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD
+
 ### Hitachi/HGST
 
 * Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD
@@ -113,7 +119,7 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 
 ### Samsung
 
-* Samsung SSD 860 EVO 2.5" SATA III 1 TB
+* 2 x Samsung SSD 860 EVO 2.5" SATA III 1 TB
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD

@@ -16,7 +16,8 @@ THE NEW VERIZON PLAN UNLIMITED
 
 # Role(s)
 
-Primary Phone
+* Primary Phone
+* OpenVPN Client
 
 # CPU
 

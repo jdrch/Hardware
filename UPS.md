@@ -1,6 +1,6 @@
 # UPSes
 
-# [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Basement)
+# [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Unit 1)
 
 ## Battery Backed Up Devices
 
@@ -12,7 +12,7 @@
 * [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://github.com/jdrch/Hardware/blob/master/Network.md#internet-modem)
 * [Hitron MoCA Adapter](https://github.com/jdrch/Hardware/blob/master/Network.md#moca-adapter)
 
-# [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Living Room)
+# [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Unit 2)
 
 ## Battery Backed Up Devices
 
@@ -27,5 +27,7 @@
 [Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#ups)
 
 # [APC Back UPS PRO BR 1350VA](https://www.apc.com/shop/us/en/products/Back-UPS-PRO-BR-1350VA-SineWave-10-Outlets-2-USB-Charging-Ports-AVR-LCD-interface/P-BR1350MS)
+
+## Battery Backed Up Devices
 
 [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#ups)

@@ -16,7 +16,7 @@ Technicolor
 
 [Ubiquiti UniFi HD UAP-AC-HD 802.11ac Wave 2 Enterprise Wi-Fi Access Point](https://dl.ubnt.com/datasheets/unifi/UniFi_UAP-AC-HD_DS.pdf)
 * Managed by [UniFi Controller](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#roles)
-* UPS backup: [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/). Shared with [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches) and Sony PlayStation 4 Pro
+* UPS backup: [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/). Shared with [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches) and [Sony PlayStation 4 Pro](https://github.com/jdrch/Hardware/blob/master/Consoles.md#sony-playstation-4-pro)
 * Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 ## Switches

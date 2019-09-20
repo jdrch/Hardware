@@ -39,8 +39,8 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 * DVI-D, 1920x1200, Left: Dell XPS 8500 Special Edition
 * HDMI, 1920x1200, Center (Main): [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter)
 
-# [ASUS MB169B+ Portable monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
+## [ASUS MB169B+ Portable monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
 
 ### Connected Devices (Not 24/7/52)
 
-* USB 3.1 Gen 1, 1920x1080, Right: [Lenovo L380 Yoga ThinkPad 20M7CTO1WW]
+* USB 3.1 Gen 1, 1920x1080, Right: [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#external-monitor)

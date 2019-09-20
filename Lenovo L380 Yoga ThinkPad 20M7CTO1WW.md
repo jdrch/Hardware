@@ -70,7 +70,7 @@
 
 # External Monitor
 
-[ASUS MB169B+ Portable monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
+[ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)
 
 # Accessories
 

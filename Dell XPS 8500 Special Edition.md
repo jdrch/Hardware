@@ -10,7 +10,7 @@
 
 * Main destkop
 * Client PC
-* [Plex Media Server](https://www.plex.tv/media-server-downloads/)
+* [Plex Media Server](https://www.plex.tv/media-server-downloads/) server
 * Offsite backup client
 
 # CPU

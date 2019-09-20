@@ -1,6 +1,6 @@
 # Model
 
-[Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview)
+[Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 1)
 
 # Operating System
 
@@ -80,5 +80,5 @@ Sony Studio Monitors. Connected to [SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLA
 
 # External Monitors
 
-* [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
-* [Dell IN1920f](https://www.dell.com/support/home/us/en/04/product-support/product/dell-in1920/docs)
+* [Dell S2240L](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices)
+* [Dell IN1920f](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-1)

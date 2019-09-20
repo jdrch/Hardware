@@ -141,6 +141,6 @@ External Monitors
 
 # External Monitors
 
-* [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs)
-* [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk)
-* [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q)
+* [Dell UltraSharp U2713HM](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-3)
+* [NEC EA275UHD-BK](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-2)
+* [ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-4)

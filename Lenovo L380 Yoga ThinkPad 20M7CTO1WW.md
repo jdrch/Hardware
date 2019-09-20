@@ -11,6 +11,7 @@
 
 * Main laptop
 * Client PC
+* OpenVPN client
 
 # CPU
 

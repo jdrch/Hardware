@@ -78,7 +78,7 @@ Primary Phone
 
 ## Desk Stand 
 
-Also used with Samsung Galaxy S5. Constructed from the following components (in ascending order):
+Also used with [Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#desk-stand). Constructed from the following components (in ascending order):
 
 * [RAM Tripod Base with Ball](https://www.rammount.com/part/RAM-B-205U)
 * [RAM Composite Double Socket Arm](https://www.rammount.com/part/RAP-B-201U)

@@ -110,4 +110,4 @@ HP USB
 
 # External Monitors
 
-1080p, VGA: [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)

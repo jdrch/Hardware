@@ -14,13 +14,14 @@
 
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#cpu)
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#cpu)
-* [HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#cpus#cpu)
-* 2 x[Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
+* [HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#cpu)
+* 2 x [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
 
 ##### 3rd 
 
 * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#cpu)
 * [Sony VAIO Fit 15E SVF15212CXB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#cpu)
+* [Dell OptiPlex 3010 SFF](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
 
 ##### 8th 
 
@@ -36,6 +37,7 @@
 * HP ProBook 4530s
 * 2 x Dell OptiPlex 390 MT
 * Sony VAIO Fit 15E SVF15212CXB
+* Dell OptiPlex 3010 SFF
 
 ##### i5
 

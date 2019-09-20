@@ -68,7 +68,7 @@
 
 ## UPS
 
-[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/). Also backs up and protects [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#ups) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#ups).
+[CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
 ## External Monitors
 

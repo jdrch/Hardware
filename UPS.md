@@ -12,7 +12,7 @@
 * [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://github.com/jdrch/Hardware/blob/master/Network.md#internet-modem)
 * [Hitron MoCA Adapter](https://github.com/jdrch/Hardware/blob/master/Network.md#moca-adapter)
 
-# # [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Living Room)
+# [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Living Room)
 
 ## Battery Backed Up Devices
 

@@ -99,6 +99,7 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 * OneDrive
 * Bluetooth Devices
 * Windows Security
+* Skype
 
 # Peripherals
 

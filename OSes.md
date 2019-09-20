@@ -1,6 +1,6 @@
 # OSes
 
-## Windows 10 64-bit
+## Windows 64-bit
 
 ### Channels
 

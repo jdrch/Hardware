@@ -38,7 +38,7 @@ Mini Wi-Fi tablet
 # 24/7/52 Applications
 
 * [TeamViewer Host](https://www.teamviewer.com/en-us/download/linux/)
-* Resilio Sync Home Pro
+* Resilio Sync
 
 ## Headphones
 

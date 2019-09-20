@@ -1,6 +1,6 @@
 # Model
 
-[Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview)
+[Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 2)
 
 # Operating System
 
@@ -83,4 +83,4 @@
 
 # External Monitors
 
-[NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk)
+[NEC EA275UHD-BK](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-2)

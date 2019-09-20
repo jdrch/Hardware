@@ -16,7 +16,7 @@
 * [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md)
 * [Sony VAIO Fit 15E SVF15212CXB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md)
 
-## IoT
+## SBC
 
 [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md)
 

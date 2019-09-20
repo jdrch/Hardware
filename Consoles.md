@@ -1,6 +1,6 @@
 # Consoles
 
-## Sony PlayStation 4 Pro
+## [Sony PlayStation 4 Pro](https://www.playstation.com/en-us/explore/ps4-pro/)
 
 ### Storage
 
@@ -12,11 +12,11 @@
 
 ### Peripherals
 
-#### Controllers
+#### [DualShock 4 Controllers](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/)
 
-* 2 x black DualShock 4
-* Silver DualShock 4
-* Red Dualshock 4
+* 2 x Jet Black
+* Silver
+* Magma Red
 
 #### Remote Control 
 
@@ -24,9 +24,9 @@
 
 #### Camera
 
-PS4 Camera
+[PlayStation Camera](https://www.playstation.com/en-us/explore/accessories/vr-accessories/playstation-camera/)
 
-## Microsoft Xbox One S 2 TB
+## [Microsoft Xbox One S 2 TB](https://www.eurogamer.net/articles/2016-08-08-it-looks-like-the-white-xbox-one-s-2tb-has-sold-out-for-good)
 
 ### Storage
 
@@ -35,11 +35,11 @@ PS4 Camera
 
 ### Peripherals
 
-#### Controllers
+#### Xbox Wireless Controllers
 
-* 2 x White 
-* 1 x Black
-* 1 x Blue
+* 2 x [White](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-wireless-controller)
+* [Black](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-black-wireless-controller)
+* [Blue](https://www.xbox.com/en-US/xbox-one/accessories/controllers/blue-wireless-controller)
 
 #### Dock
 
@@ -47,11 +47,11 @@ PS4 Camera
 
 #### Camera
 
-Kinect
+[Xbox One Kinect Sensor](https://support.xbox.com/en-US/browse/xbox-one/accessories/Kinect)
 
 #### Remote Control
 
-Xbox One Media Remote
+[Xbox One Media Remote](https://support.xbox.com/en-US/xbox-one/accessories/xbox-one-media-remote-info)
 
 ## Microsoft Xbox 360 
 
@@ -63,8 +63,7 @@ Internal 60 GB HDD
 
 #### Controllers
 
-* 3 x Black
-* 1 x Red
+White
 
 ## Sony PlayStation 3
 

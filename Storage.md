@@ -35,7 +35,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 #### NVMe
 
-* [Samsung PM961 MZVLW256HEHP 256 GB SSD]https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#bootos)
+* [Samsung PM961 MZVLW256HEHP 256 GB SSD](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#bootos)
 * [Samsung SSD 970 EVO NVMe M.2 1TB](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#bootos--user-known-folders)
 
 #### SATA

@@ -36,6 +36,10 @@
 
 [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#operating-system)
 
+#### Stable on Microsoft Windows Subsystem for Linux
+
+[Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#operating-systems)
+
 #### -Based Raspbian Stable
 
 [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#operating-system)
@@ -43,10 +47,6 @@
 #### -Based Ubuntu Desktop
 
 [HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#operating-systems)
-
-#### WSL
-
-[Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#operating-systems)
 
 ## BSD
 

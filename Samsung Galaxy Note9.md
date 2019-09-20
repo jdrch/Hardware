@@ -2,6 +2,14 @@
 
 [Samsung Galaxy Note9 512GB (Verizon)](https://www.samsung.com/us/business/products/mobile/phones/galaxy-note/galaxy-note9-512gb-verizon-sm-n960uzbfvzw/)
 
+# Carrier
+
+Verizon
+
+# Carrier Plan
+
+THE NEW VERIZON PLAN UNLIMITED
+
 # Operating System
 
 [Samsung One UI](https://www.samsung.com/us/apps/one-ui/) (Android)
@@ -60,7 +68,7 @@ Primary Phone
 
 # External Monitors
 
-1200p, HDMI: [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q). Connected via [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter). Monitor DVI-D is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
+[ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#asus-proart-pa248q)
 
 # Accessories
 

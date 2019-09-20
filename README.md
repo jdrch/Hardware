@@ -10,6 +10,7 @@ This repository is intended to be a list of my machines, their components, roles
 ## Product Information
 
 * I've made my best attempt to link to OEM product info or support pages or spec sheets for each part. Where I've been unable to find these, I've substituted a reliable 3rd party source
+* When not indexed or hyperlinked, separate identical product mentions can be assumed to be the same physical item
 
 ## FAQ
 

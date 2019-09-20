@@ -2,7 +2,7 @@
 
 ### Internet Modem
 
-[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/)
+[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/). UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups); shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#ups), [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#ups), [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups), [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://github.com/jdrch/Hardware/blob/master/Network.md#internet-modem), [Netgear BR500 Insight Instant VPN Router](https://github.com/jdrch/Hardware/blob/master/Network.md#router), [Hitron MoCA adapter](https://github.com/jdrch/Hardware/blob/master/Network.md#moca-adapter), and [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 ### VoIP Phone Modem
 
@@ -27,7 +27,7 @@ Technicolor
 
 ## MoCA Adapter
 
-* Hi-Tron(?)
+* Hitron(?)
 
 ## Network Tuner
 

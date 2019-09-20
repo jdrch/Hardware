@@ -18,7 +18,7 @@
 
 * [Ubiquiti UniFi HD UAP-AC-HD 802.11ac Wave 2 Enterprise Wi-Fi Access Point](https://github.com/jdrch/Hardware/blob/master/Network.md#wireless-access-point)
 * [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
-* [Sony PlayStation 4 Pro](https://github.com/jdrch/Hardware/blob/master/Consoles.md#sony-playstation-4-pro)
+* [Sony PlayStation 4 Pro](https://github.com/jdrch/Hardware/blob/master/Consoles.md#ups)
 
 # [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Unit 2)
 

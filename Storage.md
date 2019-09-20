@@ -28,7 +28,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 * [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 * [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
-* [WD Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
+* [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 * [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 
 ### M.2

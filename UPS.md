@@ -5,7 +5,7 @@
 ## Battery Backed Up Devices
 
 * [Dell XPS 8500](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#ups)
-* [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#ups)
+* [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#ups) (Unit 2)
 * [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#ups)
 * [NETGEAR BR500 Insight Instant VPN Router](https://github.com/jdrch/Hardware/blob/master/Network.md#router)
 * [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
@@ -30,4 +30,4 @@
 
 ## Battery Backed Up Devices
 
-[Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#ups)
+[Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#ups) (Unit 1)

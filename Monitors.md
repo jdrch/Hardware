@@ -39,7 +39,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 * DVI-D, 1920x1200, Left: Dell XPS 8500 Special Edition
 * HDMI, 1920x1200, Center (Main): [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter)
 
-## [ASUS MB169B+ Portable monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
+## [ASUS MB169B+ Portable Monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
 
 ### Connected Devices (Not 24/7/52)
 

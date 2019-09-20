@@ -83,4 +83,4 @@
 
 # External Monitors
 
-1080p, HDMI: [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk). Monitor DisplayPort is connected to [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
+[NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk)

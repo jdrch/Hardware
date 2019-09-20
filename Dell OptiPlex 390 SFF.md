@@ -80,5 +80,5 @@ Sony Studio Monitors. Connected to [SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLA
 
 # External Monitors
 
-* Left (Main), 1080p, HDMI: [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
-* Right, 768p, VGA: [Dell IN1920f](https://www.dell.com/support/home/us/en/04/product-support/product/dell-in1920/docs)
+* [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+* [Dell IN1920f](https://www.dell.com/support/home/us/en/04/product-support/product/dell-in1920/docs)

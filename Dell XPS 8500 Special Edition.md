@@ -88,7 +88,6 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 * Veeam Agent for Windows FREE
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
 * [PowerToys](https://github.com/microsoft/PowerToys)
-* [John's Background Switcher for Windows](https://johnsad.ventures/software/backgroundswitcher/)
 * Duplicati
 * StableBit DrivePool
 * [qBittorrent](https://www.qbittorrent.org)

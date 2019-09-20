@@ -23,6 +23,9 @@ Client PC
 ## Boot/OS & `/home`
 
 * [Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225)
+
+## MicroSD
+
 * [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://www.bhphotovideo.com/c/product/1132692-REG/sandisk_sdsdquan_200g_a4a_200gb_ultra_uhs_i_microsdxc.html) (ext4)
 
 # Backup

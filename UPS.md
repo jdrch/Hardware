@@ -12,7 +12,7 @@
 * [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://github.com/jdrch/Hardware/blob/master/Network.md#internet-modem)
 * [Hitron MoCA Adapter](https://github.com/jdrch/Hardware/blob/master/Network.md#moca-adapter)
 
-# [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Unit 2)
+# [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) 
 
 ## Battery Backed Up Devices
 
@@ -20,7 +20,7 @@
 * [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 * [Sony PlayStation 4 Pro](https://github.com/jdrch/Hardware/blob/master/Consoles.md#sony-playstation-4-pro)
 
-# [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Basement, separate from identical unit)
+# [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Unit 2)
 
 ## Battery Backed Up Devices
 

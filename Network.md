@@ -14,7 +14,7 @@ Technicolor
 
 [Netgear BR500 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR500.pdf)
 
-* Also serves as OpenVPN gateway
+* OpenVPN gateway
 * Not connected to Insight due to stability issues
 * UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 

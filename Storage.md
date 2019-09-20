@@ -94,11 +94,11 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
 
-##### Prosumer
+### Prosumer
 
 Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 
-##### Datacenter
+### Datacenter
 
 * Seagate Exos X12 ST12000NM0007 12 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD

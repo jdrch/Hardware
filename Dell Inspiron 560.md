@@ -77,6 +77,7 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 * [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro)
 * OneDrive
 * Windows Security
+* Skype
 
 # Peripherals
 

@@ -118,6 +118,13 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
 
+### SanDisk
+
+* SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)
+* SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card
+* SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card
+* SanDisk Ultra microSD Class 10 128 GB Card
+
 ### Seagate
 
 * Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD

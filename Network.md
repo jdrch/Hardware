@@ -55,6 +55,6 @@ Hitron(?)
 
 [Channel Master Amplify Adjustable Gain Preamplifier](https://www.channelmaster.com/Amplify_TV_Antenna_Preamplifier_p/cm-7777hd.htm)
 
-## Backbone Ethernet Cable (between main patch panel and rooms)
+## Backbone Ethernet Cable (Between Main Patch Panel and Rooms)
 
 Category 6A, plenum rated

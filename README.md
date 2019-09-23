@@ -103,3 +103,8 @@ That's what the [Dell OptiPlex 3010](https://github.com/jdrch/Hardware/blob/mast
 ## Why don't you have a rack and actual server hardware?
 
 Castoff client PCs are less expensive than the above and run the same applications appromixately as well. And exception to the latter part of that statement is ECC RAM, but that isn't an issue for my use case (yet?)
+
+## How can I contact you?/You're wrong about something here/Corrections/Errata/etc. 
+
+* [Twitter](https://twitter.com/jdrch)
+* [Reddit](https://www.reddit.com/user/jdrch)

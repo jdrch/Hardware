@@ -71,7 +71,8 @@ Resilio Sync Home Pro
 
 ## Headphones
 
-Sony Studio Monitors. Connected to [SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#audio-switch)
+
+[Sony MDR-V600 Studio Monitor headphones](https://www.bhphotovideo.com/c/product/150378-REG/Sony_MDRV600_MDR_V600_Headphone.html/specs). Connected to [SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#audio-switch)
 
 ## Speakers
 

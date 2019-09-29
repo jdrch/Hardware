@@ -22,7 +22,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 ### Connected Devices 
 
-* HDMI, 1920x1080, Center (Main): [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#external-monitors) (Unit 2)
+* HDMI, 1920x1080, Left (Main): [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#external-monitors) (Unit 2)
 * DisplayPort, 3840x2160, Center (Main): [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
 
 ## [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs)

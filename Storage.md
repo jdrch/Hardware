@@ -9,7 +9,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 #### HDD
 
 * [Western Digital WS20SPZX 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
-* [Western Digital Passport 320 GB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-1)
+* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-1)
 * [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror)
 * [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror)
 * 2 x [Toshiba L200 HDWL120XZSTA 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
@@ -65,7 +65,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 #### HDD
 
 * Western Digital WS20SPZX 2 TB HDD
-* Western Digital Passport 320 GB HDD
+* Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD
 * Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD
 * Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD
 * 2 x Toshiba L200 HDWL120XZSTA 2 TB HDD
@@ -146,6 +146,6 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 ### Western Digital
 
 * Western Digital WS20SPZX 2 TB HDD
-* Western Digital Passport 320 GB HDD
+* Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD
 * Western Digital WD10SPZX-24Z10T0 1 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD

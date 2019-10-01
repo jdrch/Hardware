@@ -6,9 +6,9 @@
 
 * UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
-### VoIP Phone Modem
+### VoIP Gateway
 
-Technicolor
+[Technicolor CGM4231MDC DOCSIS 3.1 Wireless Residential Gateway with Digital Voice Adapter](https://mediacomcc.custhelp.com/euf/assets/documents/modem%20user%20guides/Technicolor_CGM4231_user_guide.pdf)
 
 ## Router
 

@@ -31,7 +31,7 @@
 ### Storage
 
 * Internal 2 TB HDD
-* Western Digital Passport 320 GB HDD ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
+* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](http://www.farnell.com/datasheets/576433.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
 
 ### Peripherals
 

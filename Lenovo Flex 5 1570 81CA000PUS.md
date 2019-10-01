@@ -62,7 +62,7 @@ Client PC
 * OneDrive
 * [Pushbullet](https://www.pushbullet.com/)
 * Intel HD Graphics
-* Intel Driver & Support Assistant
+* [Intel Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html)
 * Skype
 
 # Peripherals

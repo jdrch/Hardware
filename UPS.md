@@ -10,7 +10,7 @@
 * [NETGEAR BR500 Insight Instant VPN Router](https://github.com/jdrch/Hardware/blob/master/Network.md#router)
 * [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 * [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://github.com/jdrch/Hardware/blob/master/Network.md#internet-modem)
-* [Hitron MoCA Adapter](https://github.com/jdrch/Hardware/blob/master/Network.md#moca-adapter)
+* [Hitron HT-EM2](https://github.com/jdrch/Hardware/blob/master/Network.md#moca-adapter)
 
 # [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) 
 

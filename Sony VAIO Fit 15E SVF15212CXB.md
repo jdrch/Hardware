@@ -58,7 +58,7 @@ Client PC
 * [Pushbullet](https://www.pushbullet.com/)
 * [VAIO Update](https://www.sony.com/electronics/support/laptop-pc-svf-series/svf15212cxb/downloads)
 * Intel HD Graphics
-* Intel Driver & Support Assistant
+* [Intel Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html)
 * Skype
 
 # Peripherals

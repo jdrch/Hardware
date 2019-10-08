@@ -50,3 +50,4 @@ Client PC
 
 * [TeamViewer for Linux](https://www.teamviewer.com/en-us/download/linux/)
 * Resilio Sync Home Pro
+* Cockpit

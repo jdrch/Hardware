@@ -67,6 +67,7 @@
 * Pi-hole
 * dnscrypt-proxy
 * Cockpit
+* NFS kernel server
 
 # Peripherals
 

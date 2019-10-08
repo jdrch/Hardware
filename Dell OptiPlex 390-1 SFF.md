@@ -66,6 +66,7 @@
 * Resilio Sync Home Pro
 * Pi-hole
 * dnscrypt-proxy
+* Cockpit
 
 # Peripherals
 

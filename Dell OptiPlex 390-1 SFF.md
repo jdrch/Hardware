@@ -11,7 +11,7 @@
 * [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) DNS server
 * [Pi-hole](https://pi-hole.net/) DNS server
 * Pi-hole DHCP server
-* NFS (on Btrfs raid1 array) server
+* NFSv4 (on Btrfs raid1 array) kernel server
 
 # CPU
 

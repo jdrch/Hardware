@@ -43,6 +43,16 @@
 
 [AMD Radeon 7870 HD GHz Edition](https://www.techpowerup.com/gpu-specs/radeon-hd-7870-ghz-edition.c339) (AMD apparently no longer has a product page for this model)
 
+# Network Interface Cards
+
+## Wired
+
+RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+
+## Wireless
+
+[Intel Dual Band Wireless-AC 7260 AC 2x2 HMC WiFi Adapter](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/dual-band-wireless-ac-7260-bluetooth-brief.pdf) (Shipped with [Atheros AR5B225](https://www.amazon.com/Atheros-AR5B225-Wireless-Bluetooth-Better/dp/B00BTWI81G))
+
 # Optical Disc Drive
 
 LiteOn(?) [PLDS BD-RE DH-8B2SH](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm). Long term plan is to replace this with the [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/HardwareDetails/blob/master/Dell_XPS_8500_Special_Edition.md#stablebit-drivepool)

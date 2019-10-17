@@ -2,6 +2,15 @@
 
 This repository is intended to be a list of my machines, their components, roles, and what runs on them.
 
+## Release Versioning System
+
+*A*.*B*.*C*.*D*, where:
+
+* *A* = New hardware added or previously installed hardware removed, e.g. new laptop acquired or desktop sold
+* *B* = Layout change of currently installed hardware, e.g. HDD moved from Computer1 to Computer2
+* *C* = New software added or previously installed software removed, e.g. New backup software not previously run on any other machine added, or previously present software removed so that it no longer runs on any of my machines
+* *D* = Layout change of currently installed software, e.g. Pi-hole moved from Computer1 to Computer2
+
 ## General Principles
 
 * OSes, firmwares/BIOSes, and apps are on the latest stable release at the very least and patched very aggressively
@@ -26,7 +35,15 @@ No. I bought all the non-Windows x86 machines used IRL. Generally speaking, buyi
 
 ### You should run *insert OS here*
 
-Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to be either FreeNAS, Fedora, or Manjaro. My next Windows SKU will be Windows 10 Pro for Workstations. 
+Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to one of:
+
+* GhostBSD
+* FreeNAS
+* Fedora
+* OpenSUSE
+* Manjaro
+
+My next Windows SKU will be Windows 10 Pro for Workstations. 
 
 ### What do you use for VMs?
 
@@ -34,7 +51,7 @@ Aside from Linux on Dex, I don't have a use case for VMs. Translation: none of m
 
 ### Is managing all of this difficult?
 
-Not gonna lie, yes. This is a very involved hobby. That said, setting OSes to automatically update themselves where that feature is available as well as sticking to repository/ports tree apps significantly reduces the workload
+Not gonna lie, yes. This is a very involved hobby. That said, setting OSes to automatically update themselves where that feature is available as well as sticking to repository/ports tree apps significantly reduces the workload.
 
 ### What's the point?
 
@@ -45,9 +62,9 @@ Not gonna lie, yes. This is a very involved hobby. That said, setting OSes to au
 
 Getting there eventually. I'll probably build my next new desktop myself.
 
-### How do you buy new PCs and parts?
+### How do you shop for new PCs and parts?
 
-1. Go go OEM website
+1. Go go the OEM website
 2. Get OEM part number. Avoid products you can't find an OEM product page for; it's usually indicative of poor support
 3. Search Google Shopping for part number
 4. Select the in-stock store that has a rating of at least 4 stars with the lowest total price (including shipping)
@@ -92,7 +109,7 @@ No(t for now.) At the very least, because:
 6. Display: ≥ 768p
 7. LAN: ≥ 1000BASE-T Ethernet
 
-## Why did you choose the BR500? Isn't it a terrible product
+## Why did you choose the BR500? Isn't it a terrible product?
 
 If you're trying to use it as advertised, it is. However, its performance, ease of use, and stability as a non-Insight OpenVPN gateway is excellent. Emphasis on the "ease of use" part of that; the BR500 has the easiest OpenVPN deployment I'm aware of. 
 

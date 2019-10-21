@@ -55,12 +55,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 # Optical Disc Drive
 
-Philips/Lite-on [PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm)
-
-There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), its features are:
-
-* Can read: CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
-* Can write: CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD+R DL, BD, BD-RE
+[Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) (SATA 3.0) installed in [Vantec NexStar DX]((https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#enclosures)
 
 # Backup
 
@@ -116,9 +111,9 @@ There is no product page for it but, per [HWiNFO64](https://www.hwinfo.com/), it
 
 [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo). Shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and Samsung Galaxy Note9
 
-## Docks
+## Enclosures
 
-[StarTech USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/HDD/Docking/2-bay-usb-3-1-gen-2-sata-dock~SDOCK2U313) - Contains [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
+[Vantec NexStar DX](http://www.vantecusa.com/products_detail.php?p_id=51&p_name=Vantec) - Contains [Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#optical-disc-drive)
 
 ## UPS
 

@@ -29,7 +29,6 @@
 
 * [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0, NTFS)
 * [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0, NTFS) - Long term plan is to replace optical disc drive with this
-* [Western Digital Gold WD101KRYZ 10 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-800074.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#docks), NTFS) - Long term plan is to move this to internal SATA port
 
 # Expansion Cards
 
@@ -91,7 +90,7 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 ## Docks
 
-[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313) - Contains [WD Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
+[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313)
 
 ## UPS
 

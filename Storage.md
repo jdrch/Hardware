@@ -13,7 +13,6 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror)
 * [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror)
 * 2 x [Toshiba L200 HDWL120XZSTA 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
-* [Toshiba MQ01ABD100 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Toshiba MQ01ABF050 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#user-known-folders)
 * [HGST Travelstar 7K1000 0J22423 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
@@ -69,7 +68,6 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD
 * Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD
 * 2 x Toshiba L200 HDWL120XZSTA 2 TB HDD
-* Toshiba MQ01ABD100 1 TB HDD
 * Toshiba MQ01ABF050 500 GB HDD
 * Western Digital WD10SPZX-24Z10T0 1 TB HDD
 * Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD
@@ -140,7 +138,6 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 ### Toshiba
 
 * 2 x Toshiba L200 HDWL120XZSTA 2 TB HDD
-* Toshiba MQ01ABD100 1 TB HDD
 * Toshiba MQ01ABF050 500 GB HDD
 
 ### Western Digital

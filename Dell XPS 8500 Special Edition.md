@@ -55,7 +55,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 # Optical Disc Drive
 
-[Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) (SATA 3.0) installed in [Vantec NexStar DX](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#enclosures)
+[Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) (SATA 3.0) - Installed in [Vantec NexStar DX](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#enclosures)
 
 # Backup
 
@@ -113,7 +113,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Enclosures
 
-[Vantec NexStar DX](http://www.vantecusa.com/products_detail.php?p_id=51&p_name=Vantec) - Contains [Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#optical-disc-drive)
+[Vantec NexStar DX](http://www.vantecusa.com/products_detail.php?p_id=51&p_name=Vantec) (USB 3.1 Gen 1) - Contains [Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#optical-disc-drive)
 
 ## UPS
 

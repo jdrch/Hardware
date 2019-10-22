@@ -35,7 +35,7 @@ No. I bought all the non-Windows x86 machines used IRL. Generally speaking, buyi
 
 ### You should run *insert OS here*
 
-Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to one of:
+Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to be one of:
 
 * GhostBSD
 * FreeNAS
@@ -47,7 +47,7 @@ My next Windows SKU will be Windows 10 Pro for Workstations.
 
 ### What do you use for VMs?
 
-Aside from Linux on Dex, I don't have a use case for VMs. Translation: none of my current workflows would be improved via running a VM. 
+I don't have a use case for VMs. Translation: none of my current workflows would be improved via running a VM. 
 
 ### Is managing all of this difficult?
 

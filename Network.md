@@ -1,12 +1,20 @@
 # Network
 
-### Internet Modem
+## ISP
+
+Mediacom
+
+## Internet Plan
+
+[Mediacom Internet 200](https://mediacomcable.com/products/internet/)
+
+## Internet Modem
 
 [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) 
 
 * UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
-### VoIP Gateway
+## VoIP Gateway
 
 [Technicolor CGM4231MDC DOCSIS 3.1 Wireless Residential Gateway with Digital Voice Adapter](https://mediacomcc.custhelp.com/euf/assets/documents/modem%20user%20guides/Technicolor_CGM4231_user_guide.pdf)
 

@@ -87,29 +87,7 @@ No(t for now.) At the very least, because:
 6. Veeam, the best backup system currently available to me, supports Windows best
 7. I have the most experience (25+ years?) and am therefore most familiar with Windows
 
-### What are the minimum specs you recommend for any new PC?
-
-1. CPU: ≥ 4C/8T for mainstream use, ≥ 6C/12T for gaming
-2. RAM: Max supported RAM ≥ 16 GB
-3. LAN: ≥ 1000BASE-T Ethernet
-4. Bluetooth: ≥ 5.0
-5. Wi-Fi: ≥ 2x2 802.11ac
-6. USB: ≥ USB 3.1 Gen 1
-7. Storage: NVMe SSD at the least
-8. GPU/video out: HDMI ≥ 1.4 or DisplayPort ≥ 1.2
-9. Display: 1080p
-
-### What are the minimum specs you recommend for any used PC?
-
-1. CPU: ≥ 2C/4T. Must be covered by Intel speculative execution security patches 
-2. RAM: Max supported RAM ≥ 8 GB
-3. USB: ≥ USB 2.0
-4. Storage: Available port for SATA SSD
-5. GPU/video out: ≥ HDMI
-6. Display: ≥ 768p
-7. LAN: ≥ 1000BASE-T Ethernet
-
-## Why did you choose the BR500? Isn't it a terrible product?
+## Why did you choose the NETGEAR BR500? Isn't it a terrible product?
 
 If you're trying to use it as advertised, it is. However, its performance, ease of use, and stability as a non-Insight OpenVPN gateway is excellent. Emphasis on the "ease of use" part of that; the BR500 has the easiest OpenVPN deployment I'm aware of. 
 

@@ -30,6 +30,9 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 * [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 * [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
+* [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Unused.md#35-in)
+* [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Unused.md#35-in)
+* [Seagate Barracuda ST250DM000 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Unused.md#35-in)
 
 ### M.2
 
@@ -72,6 +75,9 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Western Digital WD10SPZX-24Z10T0 1 TB HDD
 * Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD
 * HGST Travelstar 7K1000 0J22423 1 TB HDD
+* Western Digital Caviar Blue WD2500AAKX 250 GB HDD
+* Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
+* Seagate Barracuda ST250DM000 250 GB HDD
 
 #### MicroSD
 
@@ -134,6 +140,8 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD
 * Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Seagate Exos X12 ST12000NM0007 12 TB HDD
+* Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
+* Seagate Barracuda ST250DM000 250 GB HDD
 
 ### Toshiba
 
@@ -146,3 +154,4 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD
 * Western Digital WD10SPZX-24Z10T0 1 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD
+* Western Digital Caviar Blue WD2500AAKX 250 GB HDD

@@ -17,7 +17,7 @@
 
 # RAM
 
-8 GB (4 x 2 GB) - Near term plan is to attempt to upgrade this to [G.SKILL F3-1600C9Q-16GAB](http://www.gskill.com/product/165/178/1532589947/F3-1600C9Q-16GABAresDDR3-1600MHz-CL9-9-9-1.50V16GB-(4x4GB)) (4 x 4 GB)
+8 GB (4 x 2 GB) - Does not POST with [G.SKILL F3-1600C9Q-16GAB](http://www.gskill.com/product/165/178/1532589947/F3-1600C9Q-16GABAresDDR3-1600MHz-CL9-9-9-1.50V16GB-(4x4GB)) (4 x 4 GB) installed
 
 # Storage
 

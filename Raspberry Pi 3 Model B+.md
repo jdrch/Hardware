@@ -54,7 +54,7 @@
 
 * [TeamViewer Host for Raspberry Pi](https://www.teamviewer.com/en-us/download/linux/)
 * Resilio Sync Home Pro
-* UniFi Controller
+* [UniFi Controller](https://dl.ubnt.com/guides/UniFi/UniFi_Controller_V5_UG.pdf)
 * Cockpit
 
 # Peripherals

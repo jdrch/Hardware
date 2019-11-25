@@ -66,7 +66,7 @@
 * Resilio Sync Home Pro
 * Pi-hole
 * dnscrypt-proxy
-* Cockpit
+* [Cockpit](https://cockpit-project.org/)
 * NFS kernel server
 
 # Peripherals

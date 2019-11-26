@@ -51,7 +51,7 @@ I don't have a use case for VMs. Translation: none of my current workflows would
 
 ### Is managing all of this difficult?
 
-Not gonna lie, yes. This is a very involved hobby. That said, setting OSes to automatically update themselves where that feature is available as well as sticking to repository/ports tree apps significantly reduces the workload.
+Setup is difficult, yes. This is a very involved hobby. That said, setting OSes to automatically update themselves where that feature is available as well as sticking to repository/ports tree apps significantly reduces post-setup workload. From then on you're basically only addressing stuff that breaks, which is rare.
 
 ### What's the point?
 

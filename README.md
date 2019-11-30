@@ -14,7 +14,8 @@ This repository is intended to be a list of my machines, their components, roles
 ## General Principles
 
 * OSes, firmwares/BIOSes, and apps are on the latest stable release at the very least and patched very aggressively
-* Drivers are on the latest stable release
+* Drivers are on the latest stable release. Beta drivers are not used unless they provide a critical feature or security patch unavailable in the latest stable release
+* Maintenance of existing hardware is prioritized over deployment of new hardware, e.g. An existing machine will be migrated from one OS to another before a new machine is set up from scratch (assuming both are on the to-do list)
 
 ## Product Information
 

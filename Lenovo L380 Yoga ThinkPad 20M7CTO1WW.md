@@ -5,7 +5,7 @@
 # Operating Systems
 
 * [Microsft Windows 10 Pro Insider Slow Ring 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)
-* [Debian Stable on Microsoft Windows Subsystem for Linux](https://www.microsoft.com/en-us/p/debian/9msvkqc78pk6). X11 forwarding to Windows 10 desktop via [MobaXterm](https://mobaxterm.mobatek.net/)
+* ~~[Debian Stable on Microsoft Windows Subsystem for Linux](https://www.microsoft.com/en-us/p/debian/9msvkqc78pk6). X11 forwarding to Windows 10 desktop via [MobaXterm](https://mobaxterm.mobatek.net/)~~ Use of WSL(2) is on hold until WSL2 is stable, due to this [known issue](https://github.com/microsoft/WSL/issues/4103)
 
 # Role(s)
 

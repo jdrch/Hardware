@@ -4,7 +4,7 @@
 
 # Operating System
 
-[Project Trident STABLE](https://project-trident.org/download/) (FreeBSD)
+[GhostBSD](https://www.ghostbsd.org/download) (FreeBSD)
 
 # Role(s)
 

@@ -9,7 +9,7 @@
 # Role(s)
 
 * Client PC
-* zpool mirror backup repository
+* Mirror zpool backup repository
 
 # CPU
 

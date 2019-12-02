@@ -16,9 +16,7 @@ RAIDZ1 zpool backup repository (planned)
 
 # RAM
 
-8 GB (4 x 2 GB). To be replaced with [G.SKILL F3-1600C11D-16GNT](http://www.gskill.com/product/165/186/1532584719/F3-1600C11D-16GNTValueDDR3-1600MHz-CL11-11-11-1.50V16GB-(2x8GB))
-
-
+8 GB (4 x 2 GB) (To be replaced with [G.SKILL F3-1600C11D-16GNT](http://www.gskill.com/product/165/186/1532584719/F3-1600C11D-16GNTValueDDR3-1600MHz-CL11-11-11-1.50V16GB-(2x8GB)))
 
 # Storage
 

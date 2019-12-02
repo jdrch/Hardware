@@ -36,3 +36,23 @@ RAIDZ1 zpool backup repository (planned)
 * [iStarUSA TC-ISTORM7 2x5.25" to 3x3.5" Internal Mounting Cooling Kit with Removable Filter](http://www.istarusa.com/en/istarusa/products.php?model=TC-ISTORM7), powered by StarTech.com LP4SATAFM6IN 6in SATA to LP4 Power Cable Adapter - F/M (see below)
 * [StarTech.com LP4SATAFM6IN 6in SATA to LP4 Power Cable Adapter - F/M](https://www.startech.com/Cables/Computer-Power/Internal/6inch-SATA-to-LP4-Power-Cable-Adapter-Female-to-Male~LP4SATAFM6IN), powered by Rocstor Y10C224-B1 SATA Power Splitter Cable (see below)
 * [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://rocstor.com/product-tag/y10c224-b1/)
+
+# Backup
+
+# Device Backup Target
+
+TBD
+
+## Device, Filesytem, & OS Versioning Backup 
+
+[Time Slider](https://docs.oracle.com/cd/E26502_01/html/E29027/timeslider.html)
+
+# Peripherals
+
+## Mouse 
+
+[Dell M-UAV-DEL8 (P/N J66OD) Laser Mouse](https://www.dell.com/support/home/us/en/19/product-support/product/dell-lasr-mouse/docs)
+
+## Keyboard
+
+[Logitech Classic Keyboard 200](https://support.logi.com/hc/en-us/articles/360023464873-K200-Technical-Specifications)

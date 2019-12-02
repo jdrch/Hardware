@@ -4,7 +4,8 @@
 
 ### Connected Devices (Input, Resolution, Position from OS Display Manager Perspective)
 
-VGA, 1920x1080, Center (Main): [Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#external-monitors)
+* VGA, 1920x1080, Center (Main): [Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#external-monitors)
+* HDMI, 1920x1080, Center (Main): [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#external-monitors)
 
 ## Dell S2240L (Unit 2)
 

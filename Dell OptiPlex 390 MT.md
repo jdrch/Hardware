@@ -57,6 +57,10 @@ TBD
 
 [Logitech Classic Keyboard 200](https://support.logi.com/hc/en-us/articles/360023464873-K200-Technical-Specifications)
 
+## UPS
+
+[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
+
 # External Monitors
 
 [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)

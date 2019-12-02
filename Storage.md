@@ -30,9 +30,9 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 * [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
 * [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
-* [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Unused.md#35-in)
-* [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Unused.md#35-in)
-* [Seagate Barracuda ST250DM000 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Unused.md#35-in)
+* [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
+* [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
+* [Seagate Barracuda ST250DM000 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
 
 ### M.2
 
@@ -54,7 +54,8 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 ### mSATA
 
-[Samsung 860 EVO mSATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#bootos)
+* [Samsung 860 EVO mSATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#bootos)
+* [Samsung SSD PM830 mSATA 32 GB](https://www.pc-specs.com/storage/Samsung/PM830_mSATA_32GB/822)
 
 ### USB
 
@@ -94,6 +95,8 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
+* Samsung SSD PM830 mSATA 32 GB
+* Samsung 860 EVO mSATA 1 TB SSD
 
 #### USB
 
@@ -127,6 +130,8 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
+* Samsung SSD PM830 mSATA 32 GB
+* Samsung 860 EVO mSATA 1 TB SSD
 
 ### SanDisk
 

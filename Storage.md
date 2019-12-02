@@ -59,7 +59,8 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 ### USB
 
-2x [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#os)
+* 2x [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#os)
+* [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://www.adata.com/us/specification/204#)
 
 ## Type
 
@@ -100,7 +101,8 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 #### USB
 
-2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
+* 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
+* ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 
 ### Prosumer
 
@@ -112,6 +114,10 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD
 
 ## Brand
+
+### ADATA
+
+ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 
 ### Crucial 
 

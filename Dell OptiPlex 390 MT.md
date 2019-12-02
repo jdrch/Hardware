@@ -22,7 +22,7 @@ RAIDZ1 zpool backup repository (planned)
 
 ## Boot/OS
 
-[Samsung SSD PM830 mSATA 32 GB](https://www.pc-specs.com/storage/Samsung/PM830_mSATA_32GB/822) (SATA 2.0, ZFS) installed in Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay
+[Samsung SSD PM830 mSATA 32 GB](https://www.pc-specs.com/storage/Samsung/PM830_mSATA_32GB/822) (SATA 2.0, ZFS) installed in [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#internal-accessories)
 
 ## RAIDZ1 zpool (planned)
 

@@ -47,6 +47,11 @@ TBD
 
 [Time Slider](https://docs.oracle.com/cd/E26502_01/html/E29027/timeslider.html)
 
+# 24/7/52 Applications
+
+* [napp-it free](https://napp-it.org)
+* [SSH](https://www.openssh.com/) (server)
+
 # Peripherals
 
 ## Mouse 

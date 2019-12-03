@@ -56,7 +56,8 @@ Restic
 
 # 24/7/52 Applications
 
-Resilio Sync Home Pro
+* Resilio Sync Home Pro
+* [SSH](https://www.openssh.com/) (server)
 
 # Peripherals
 

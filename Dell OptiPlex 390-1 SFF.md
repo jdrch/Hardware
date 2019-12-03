@@ -68,6 +68,7 @@
 * dnscrypt-proxy
 * [Cockpit](https://cockpit-project.org/)
 * NFS kernel server
+* [SSH](https://www.openssh.com/) (server)
 
 # Peripherals
 

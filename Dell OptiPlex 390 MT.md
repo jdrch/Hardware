@@ -51,6 +51,7 @@ TBD
 
 * [napp-it free](https://napp-it.org)
 * [SSH](https://www.openssh.com/) (server)
+* VNC server
 
 # Peripherals
 

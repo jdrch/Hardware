@@ -56,6 +56,7 @@
 * Resilio Sync Home Pro
 * [UniFi Controller](https://dl.ubnt.com/guides/UniFi/UniFi_Controller_V5_UG.pdf)
 * Cockpit
+* [SSH](https://www.openssh.com/) (server)
 
 # Peripherals
 

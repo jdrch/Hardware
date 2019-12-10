@@ -4,7 +4,7 @@
 
 # Operating System
 
-[OpenIndiana Hipster Desktop](https://www.openindiana.org/download/)
+[OpenIndiana Hipster GUI](https://www.openindiana.org/download/)
 
 # Role(s)
 

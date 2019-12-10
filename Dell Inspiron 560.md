@@ -4,7 +4,7 @@
 
 # Operating System
 
-[Microsoft Windows 10 Home Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview#semi-annual-channel)
+[Microsoft Windows Home Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview#semi-annual-channel)
 
 # Role(s)
 

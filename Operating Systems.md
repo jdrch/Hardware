@@ -46,6 +46,12 @@
 
 # Windows
 
+## Home
+
+### Semi-Annual Channel 64-bit
+
+[Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#operating-system)
+
 ## Pro
 
 ### Insider
@@ -59,9 +65,3 @@
 
 * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#operating-system)
 * [Lenovo Flex 5 1570 81CA000PUS](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#operating-system)
-
-## Home
-
-### Semi-Annual Channel 64-bit
-
-[Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#operating-system)

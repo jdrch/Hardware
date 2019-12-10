@@ -4,7 +4,7 @@
 
 # Operating System
 
-[Microsft Windows 10 Pro Insider Slow Ring 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)
+[Microsft Windows Pro Insider Slow Ring 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)
 
 # Role(s)
 

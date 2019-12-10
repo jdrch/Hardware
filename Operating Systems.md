@@ -26,11 +26,15 @@
 
 # Linux
 
-## Debian Stable
+## Debian 
+
+### Stable
 
 [Dell OptiPlex 390 SFF (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#operating-system)
 
 ## Raspbian Stable
+
+### with desktop and recommended software
 
 [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#operating-system)
 

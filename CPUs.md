@@ -16,8 +16,8 @@
 
 ###### Core i3-2100 Processor
 
-* [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#cpu)
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#cpu)
+* [Dell OptiPlex 390 SFF (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#cpu)
 
 ###### Core i3-2310M Processor
 
@@ -27,7 +27,7 @@
 
 ###### Core™ i5-2400 Processor
 
-* [Dell OptiPlex 390 MT)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#cpu)
+* [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#cpu)
 * [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
 
 #### Core 3rd Generation

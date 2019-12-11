@@ -6,7 +6,8 @@
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md)
 * [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
-* 2 x [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
+* [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md)
+* [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
 * [Dell OptiPlex 3010 SFF](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
 
 ## Laptop

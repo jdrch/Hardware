@@ -19,7 +19,7 @@
 * [Dell OptiPlex 390 SFF (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
 * [Dell OptiPlex 3010 SFF](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
 
-#### XPS
+### XPS
 
 [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
 

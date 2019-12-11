@@ -1,4 +1,4 @@
-# Computer OEM Brands
+# Device OEM Brands
 
 ## Dell
 

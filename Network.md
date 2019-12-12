@@ -26,11 +26,11 @@ Mediacom
 * Not connected to Insight due to stability issues
 * UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
-# DCHP Server
+## DCHP Server
 
 Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#roles)
 
-# DNS Server(s)
+## DNS Server(s)
 
 * Pi-hole on Dell OptiPlex 390
 * dnscrypt-proxy on Dell OptiPlex 390

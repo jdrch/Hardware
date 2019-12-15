@@ -24,7 +24,7 @@ RAIDZ1 zpool backup repository (planned)
 
 [Samsung SSD PM830 mSATA 32 GB](https://www.pc-specs.com/storage/Samsung/PM830_mSATA_32GB/822) (SATA 2.0, ZFS) installed in [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#internal-accessories)
 
-## RAIDZ1 zpool (planned)
+## RAIDZ1 zpool
 
 * [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://www.farnell.com/datasheets/650649.pdf) (SATA 2.0)
 * [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://www.seagate.com/docs/pdf/datasheet/disc/barracuda-7200-12-ds1668-6-1101us.pdf) (SATA 2.0)

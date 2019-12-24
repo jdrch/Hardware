@@ -73,3 +73,7 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 # Backbone Ethernet Cable (Between Main Patch Panel and Rooms)
 
 Category 6A, plenum rated
+
+# AIOs
+
+[Brother MFCJ985DW Work Smart All-in-One](https://www.brother-usa.com/products/mfcj985dw)

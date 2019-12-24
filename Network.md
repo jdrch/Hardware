@@ -76,4 +76,4 @@ Category 6A, plenum rated
 
 # AIOs
 
-[Brother MFCJ985DW Work Smart All-in-One](https://www.brother-usa.com/products/mfcj985dw)
+[Brother MFCJ985DW Work Smart All-in-One](https://www.brother-usa.com/products/mfcj985dw). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)

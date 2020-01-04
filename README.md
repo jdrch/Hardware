@@ -38,9 +38,8 @@ No. I bought all the non-Windows x86 machines used IRL. Generally speaking, buyi
 
 ### You should run *insert OS here*
 
-Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to be one of:
+Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wiki/If_and_only_if) they fit into my workflow (read: if I'm sure I'd use them for something practical). My next non-Windows OS is likely to be one of (in no order):
 
-* GhostBSD
 * FreeNAS
 * Fedora
 * OpenSUSE

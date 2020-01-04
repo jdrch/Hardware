@@ -11,6 +11,8 @@ This repository is intended to be a list of my machines, their components, roles
 * *C* = New software added or previously installed software removed, e.g. New backup software not previously run on any other machine added, or previously present software removed so that it no longer runs on any of my machines
 * *D* = Layout change of currently installed software, e.g. Pi-hole moved from Computer1 to Computer2
 
+Temporary, stopgap measures, such as substituting a surge protector for a failed UPS, are not considered (for) hardware release versions unless they become permanent.
+
 ## General Principles
 
 * OSes, firmwares/BIOSes, and apps are on the latest stable release at the very least and patched very aggressively

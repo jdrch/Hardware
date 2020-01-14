@@ -10,7 +10,7 @@ Mediacom
 
 [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) 
 
-* UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+* UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
 # VoIP Gateway
 
@@ -22,7 +22,7 @@ Mediacom
 
 * OpenVPN gateway
 * Not connected to Insight due to stability issues
-* UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+* UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
 # DCHP Server
 
@@ -44,13 +44,13 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 
 * 5 x [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
 * [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
-  * UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+  * UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 * [NETGEAR GS605v4 5 Port Gigabit Ethernet Unmanaged Switch](https://www.netgear.com/support/product/GS605v4)
 
 # MoCA Adapter
 
 [Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/)
-* UPS backup: [CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+* UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
 # Network Tuner
 

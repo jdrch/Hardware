@@ -78,7 +78,7 @@
 
 ## UPS
 
-[CyberPower CP1500PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+[APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
 ## Bluetooth
 

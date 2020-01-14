@@ -65,7 +65,7 @@ TBD
 
 ## UPS
 
-[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
+[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2)
 
 # External Monitors
 

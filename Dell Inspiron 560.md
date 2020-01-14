@@ -94,7 +94,7 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 ## UPS
 
-[CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/)
+[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2)
 
 ## Webcam
 

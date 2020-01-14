@@ -1,6 +1,6 @@
 # UPSes
 
-# [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Unit 1)
+# [APC Back UPS PRO BR 1500VA](https://www.apc.com/shop/us/en/products/Back-UPS-PRO-BR-1500VA-SineWave-10-Outlets-2-USB-Charging-Ports-AVR-LCD-interface/P-BR1500MS)
 
 ## Battery Backed Up Devices
 
@@ -20,7 +20,7 @@
 * [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 * [Sony PlayStation 4 Pro](https://github.com/jdrch/Hardware/blob/master/Consoles.md#ups)
 
-# [CyberPower CP1500PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1500pfclcd/) (Unit 2)
+# [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Unit 2)
 
 ## Battery Backed Up Devices
 

@@ -87,7 +87,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 # 24/7/52 Applications
 
 * [TeamViewer for Windows](https://www.teamviewer.com/en-us/download/windows/)
-* [CyberPower PowerPanel Personal Windows](https://www.cyberpowersystems.com/product/software/powerpanel-personal-windows/)
+* [APC PowerChute Personal Edition](https://www.apc.com/shop/us/en/products//P-SFPCPE31)
 * Plex Media Server
 * Resilio Sync Home Pro
 * Veeam Agent for Windows FREE

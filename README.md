@@ -70,6 +70,7 @@ Getting there eventually. I'll probably build my next new desktop myself.
 2. Get OEM part number. Avoid products you can't find an OEM product page for; it's usually indicative of poor support
 3. Search Google Shopping for part number
 4. Select the in-stock store that has a rating of at least 4 stars with the lowest total price (including shipping)
+5. Always select the lowest cost shipping method. 99.9% of the time you don't absolutely need the part *right now* and most sites ship fairly rapidly due to competition from Amazon Prime
 
 The above method can get you brand new stuff for as much as half off MSRP.
 

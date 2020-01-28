@@ -10,6 +10,38 @@
 
 [Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
 
+## BSD
+
+### FreeBSD
+
+#### TrueOS
+
+##### GhostBSD
+
+[Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
+
+## Linux
+
+### Debian 
+
+#### Stable AMD64 Port
+
+[Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#operating-system)
+
+#### ~~Stable on Microsoft Windows Subsystem for Linux~~
+
+~~Lenovo L380 Yoga ThinkPad 20M7CTO1WW~~
+
+#### -Based Raspbian Stable
+
+[Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#operating-system)
+
+#### -Based Ubuntu Desktop
+
+[HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#operating-systems)
+
+
+
 ## Windows 64-bit
 
 ### Channels
@@ -37,33 +69,3 @@
 #### Home
 
 Dell Inspiron 560
-
-## Linux
-
-### Debian 
-
-#### Stable AMD64 Port
-
-[Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#operating-system)
-
-#### ~~Stable on Microsoft Windows Subsystem for Linux~~
-
-~~Lenovo L380 Yoga ThinkPad 20M7CTO1WW~~
-
-#### -Based Raspbian Stable
-
-[Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#operating-system)
-
-#### -Based Ubuntu Desktop
-
-[HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#operating-systems)
-
-## BSD
-
-### FreeBSD
-
-#### TrueOS
-
-##### GhostBSD
-
-[Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)

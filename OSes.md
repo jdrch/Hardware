@@ -54,7 +54,7 @@ Lenovo L380 Yoga ThinkPad 20M7CTO1WW
 
 #### TrueOS
 
-##### Project Trident
+##### GhostBSD
 
 [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
 

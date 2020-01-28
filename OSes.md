@@ -1,5 +1,15 @@
 # OSes
 
+## Android
+
+### LineageOS
+
+[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#operating-system)
+
+### Samsung One UI
+
+[Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
+
 ## Windows 64-bit
 
 ### Channels
@@ -57,13 +67,3 @@ Dell Inspiron 560
 ##### GhostBSD
 
 [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
-
-## Android
-
-### LineageOS
-
-[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#operating-system)
-
-### Samsung One UI
-
-[Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)

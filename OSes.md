@@ -20,6 +20,12 @@
 
 [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
 
+## Illumos
+
+### OpenIndiana Hipster GUI
+
+[Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
+
 ## Linux
 
 ### Debian 
@@ -39,8 +45,6 @@
 #### -Based Ubuntu Desktop
 
 [HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#operating-systems)
-
-
 
 ## Windows 64-bit
 

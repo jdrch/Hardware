@@ -36,9 +36,9 @@ Dell Inspiron 560
 
 [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#operating-system)
 
-#### Stable on Microsoft Windows Subsystem for Linux
+#### ~~Stable on Microsoft Windows Subsystem for Linux~~
 
-Lenovo L380 Yoga ThinkPad 20M7CTO1WW
+~~Lenovo L380 Yoga ThinkPad 20M7CTO1WW~~
 
 #### -Based Raspbian Stable
 

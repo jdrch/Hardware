@@ -24,6 +24,16 @@ Temporary, stopgap measures, such as substituting a surge protector for a failed
 * I've made my best attempt to link to OEM product info or support pages or spec sheets for each part. Where I've been unable to find these, I've substituted a reliable 3rd party source
 * Where not indexed (e.g. "Unit *n*," no quotes, where *n* is a positive integer) or hyperlinked, separate identical product mentions can be assumed to be the same physical item
 
+## Project vs. Issue
+
+### Project
+
+A Project is anything that requires multiple dissimilar steps to fix or implement, even if said steps occur on the same machine or installation. The machines and installations to be addressed are tracked via labels, and the individual steps are tracked via issues (see below).
+
+### Issue
+
+An Issue is anything that requires multiple similar steps to fix or implement, even if said steps occur on the different machines. The machines and installations to be addressed are tracked via labels.
+
 ## FAQ
 
 ### Why are there no Macs?

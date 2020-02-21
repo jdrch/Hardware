@@ -70,6 +70,7 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 * [CyberPower PowerPanel Personal Windows](https://www.cyberpowersystems.com/product/software/powerpanel-personal-windows/)
 * Resilio Sync Home Pro
 * Veeam Agent for Windows FREE
+* Veeam Backup & Replication Community Edition
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
 * [PowerToys](https://github.com/microsoft/PowerToys)
 * StableBit DrivePool

@@ -52,7 +52,7 @@
 
 ## Device Backup Source Application
 
-[`rpi-clone`](https://github.com/billw2/rpi-clone) `cron` job
+[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66)
 
 ## Real-time P2P File Sync
 

@@ -4,7 +4,7 @@
 
 # Operating System
 
-[GhostBSD](https://www.ghostbsd.org/download) (FreeBSD)
+[FuryBSD](https://www.furybsd.org/) KDE Plasma flavor
 
 # Role(s)
 
@@ -40,25 +40,25 @@
 
 # Device Backup Target
 
-[Restic](https://restic.net/) repositories on NFS share on [Btrfs raid 1 array on Dell OptiPlex 390 (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
+~~[Restic](https://restic.net/) repositories on NFS share on [Btrfs raid 1 array on Dell OptiPlex 390 (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)~~
 
 ## Device Backup Source Application
 
-Restic
+~~Restic~~
 
 ## Filesystem & OS Versioning
 
-[`zfsnap`](https://www.zfsnap.org/)
+~~[`zfsnap`](https://www.zfsnap.org/)~~
 
 ## Real-time P2P File Sync
 
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+~~[Resilio Sync Home Pro](https://www.resilio.com/individuals/)~~
 
 # 24/7/52 Applications
 
-* Resilio Sync Home Pro
-* [SSH](https://www.openssh.com/) (server)
-* [Webmin](http://www.webmin.com/index.html)
+* ~~Resilio Sync Home Pro~~
+* ~~[SSH](https://www.openssh.com/) (server)~~
+* ~~[Webmin](http://www.webmin.com/index.html)~~
 
 # Peripherals
 

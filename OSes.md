@@ -18,9 +18,11 @@
 
 [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
 
-## Illumos
+## Unix
 
-### OpenIndiana Hipster GUI
+### Illumos
+
+#### OpenIndiana Hipster GUI
 
 [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
 

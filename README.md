@@ -40,7 +40,8 @@ An Issue is anything that requires multiple similar steps to fix or implement, e
 
 * Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to used enterprise PCs that work just as well and are more repairable and upgradable
 * I'm philosophically opposed to much of Apple's computing vision
-* An open source Unix implementation, OpenIndiana, exists
+* I [run an open source Unix implementation, OpenIndiana](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
+* macOS' kernel contains code from FreeBSD's kernel, [which I also run](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
 
 ### Did you buy everything new?
 

@@ -26,6 +26,8 @@ Temporary, stopgap measures, such as substituting a surge protector for a failed
 
 ## Project vs. Issue
 
+NOTE: to reduce workload, projects and issues are generally not created for things that have already been implemented or issues that have already been solved, respectively.
+
 ### Project
 
 A Project is anything that requires multiple dissimilar steps to fix or implement, even if said steps occur on the same machine or installation. The machines and installations to be addressed are tracked via labels, and the individual steps are tracked via issues (see below).

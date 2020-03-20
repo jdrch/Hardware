@@ -98,7 +98,7 @@ No(t for now.) At the very least, because:
 1. Windows GUI-first approach makes everything cognitively easy and is generally tolerant of mistakes. Point, click, done
 2. Unix, Linux, and BSD are relatively unforgiving 
 3. Windows services management is the best of all modern OSes
-4. NTFS supports seamless on-disk snapshots, which ext4 does (ZFS does, but BSD doesn't have the app libary or dev support to be my main OS)
+4. NTFS supports seamless on-disk snapshots, which ext4 doesn't (ZFS does, but BSD doesn't have the app libary or dev support to be my main OS)
 5. Windows is a 1st class citizen when it comes to dev support
 6. Veeam, the best backup system currently available to me, supports Windows best
 7. I have the most experience (25+ years?) and am therefore most familiar with Windows

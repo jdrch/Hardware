@@ -44,7 +44,7 @@
 
 ## Device Backup Source Application
 
-~~Restic~~
+Restic
 
 ## Filesystem & OS Versioning
 
@@ -58,7 +58,7 @@
 
 * Resilio Sync Home Pro
 * [SSH](https://www.openssh.com/) (server)
-* ~~[Webmin](http://www.webmin.com/index.html)~~
+* [Webmin](http://www.webmin.com/index.html)
 
 # Peripherals
 

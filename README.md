@@ -2,6 +2,14 @@
 
 This repository is intended to be a list of my machines, their components, roles, and what runs on them.
 
+## Mission Statement
+
+The aims of this project are to:
+
+1. Run all major OS kernel families (BSD, Linux, UNIX, Unix, Windows)
+2. [Backup all my machines](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
+3. Provide secure, up-to-date, performant, reasonably private networking and computing functionality in my house
+
 ## Release Versioning System
 
 *A*.*B*.*C*.*D*, where:

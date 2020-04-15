@@ -46,13 +46,9 @@
 
 # Backup
 
-## Device Backup Target
+## Device 
 
-[ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://github.com/jdrch/Hardware/blob/master/Storage.md#usb)
-
-## Device Backup Source Application
-
-[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66)
+[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66) to [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://github.com/jdrch/Hardware/blob/master/Storage.md#usb)
 
 ## Filesystem & OS Versioning
 

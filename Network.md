@@ -6,6 +6,11 @@ Mediacom
 
 [Mediacom Internet 200](https://mediacomcable.com/products/internet/)
 
+## Test Results
+
+* [DSLReports.com](http://www.dslreports.com/speedtest/62405594)
+* [Mediacom](https://github.com/jdrch/Hardware/blob/master/Mediacom%20Cable%20%20%20Speed%20Test%202019-09-30.png)
+
 # Internet Modem
 
 [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) 

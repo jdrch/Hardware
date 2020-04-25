@@ -22,7 +22,7 @@ Client PC
 
 ## Boot/OS & `/home`
 
-* [Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225)
+* [Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225) (to be replaced by [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf))
 
 ## MicroSD
 

@@ -23,6 +23,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#bootos--home)
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
+* [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
 
 ### 3.5 in
 
@@ -98,6 +99,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
 * Samsung SSD PM830 mSATA 32 GB
 * Samsung 860 EVO mSATA 1 TB SSD
+* Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
 
 #### USB
 
@@ -166,3 +168,4 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * Western Digital WD10SPZX-24Z10T0 1 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD
 * Western Digital Caviar Blue WD2500AAKX 250 GB HDD
+* Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD

@@ -4,7 +4,7 @@
 
 # Operating System
 
-[FreeBSD 12.1-RELEASE](https://www.freebsd.org/where.html) via [FuryBSD](https://www.furybsd.org/) KDE Plasma flavor installer
+[FreeBSD 12.1-RELEASE](https://www.freebsd.org/where.html) via [FuryBSD](https://www.furybsd.org/) KDE Plasma flavor installer + latest `pkg` repo
 
 # Role(s)
 

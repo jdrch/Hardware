@@ -14,7 +14,7 @@
 
 ### FreeBSD
 
-#### FuryBSD
+#### FuryBSD (installer)
 
 [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
 

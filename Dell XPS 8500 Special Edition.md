@@ -129,7 +129,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Webcam
 
-[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam)
+[Logitech 4K Pro Webcam, SKU:960-001178](https://www.bestbuy.com/site/logitech-4k-pro-webcam/5761912.p?skuId=5761912) (This has the same UPC as the [Logitech Brio Ultra HD Pro Webcam](https://www.logitech.com/en-us/product/brio?crid=34), but a different SKU. It is a BRIO, but is not externally branded as such. I have not been able to discern any difference between the 2 listings)
 
 ## Fingerprint Reader
 

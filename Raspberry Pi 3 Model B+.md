@@ -4,7 +4,7 @@
 
 # Operating System
 
-[Raspbian Stable with desktop and recommended software](https://www.raspberrypi.org/downloads/raspbian/)
+[Raspberry Pi OS Stable with desktop and recommended software](https://www.raspberrypi.org/downloads/raspbian/)
 
 # Role(s)
 

@@ -109,7 +109,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Receiver
 
-[Logitech USB Unifying Receiver]
+[Logitech USB Unifying Receiver](https://www.logitech.com/en-us/product/unifying-receiver-usb)
 
 ## Mouse & Keyboard
 

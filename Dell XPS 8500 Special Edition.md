@@ -113,7 +113,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Mouse & Keyboard
 
-[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via [Logitech USB Unifying Receiver](https://www.logitech.com/en-us/product/unifying-receiver-usb) and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and Samsung Galaxy Note9
+[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via [Logitech USB Unifying Receiver](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#receiver) and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and Samsung Galaxy Note9
 
 ## Enclosure
 

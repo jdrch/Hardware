@@ -107,11 +107,15 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 # Peripherals
 
+## Receiver
+
+[Logitech USB Unifying Receiver]
+
 ## Mouse & Keyboard
 
 [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via [Logitech USB Unifying Receiver](https://www.logitech.com/en-us/product/unifying-receiver-usb) and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and Samsung Galaxy Note9
 
-## Enclosures
+## Enclosure
 
 [Vantec NexStar DX](http://www.vantecusa.com/products_detail.php?p_id=51&p_name=Vantec) (USB 3.1 Gen 1) - Contains [Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#optical-disc-drive)
 
@@ -119,11 +123,11 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
-## Printers
+## Printer
 
 [HP Deskjet 5650](https://support.hp.com/us-en/product/hp-deskjet-5650-printer-series/304441)
 
-## Scanners
+## Scanner
 
 [Epson WorkForce GT-1500](https://epson.com/Support/Scanners/WorkForce-Series/Epson-WorkForce-GT-1500/s/SPT_B11B190011)
 

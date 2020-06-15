@@ -147,6 +147,7 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card
 * SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card
 * SanDisk Ultra microSD Class 10 128 GB Card
+* 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
 
 ### Seagate
 

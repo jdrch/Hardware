@@ -22,11 +22,11 @@ Client PC
 
 ## Boot/OS & `/home`
 
-* [Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225) (to be replaced by [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf))
+~~[Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225) (to be replaced by~~[Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf) (SATA, ext4 on LVM)
 
-## MicroSD
+## zpool
 
-* [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://www.bhphotovideo.com/c/product/1132692-REG/sandisk_sdsdquan_200g_a4a_200gb_ultra_uhs_i_microsdxc.html) (ext4)
+[Seagate FireCuda ST2000LX001 2 TB SSHD](https://www.seagate.com/www-content/product-content/firecuda-family/firecuda/files/firecuda-2-5-ds1908-1-1609us.pdf) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories) 
 
 # Backup
 
@@ -40,7 +40,8 @@ Client PC
 
 ## Filesystem & OS Versioning
 
-[Back In Time](https://github.com/bit-team/backintime) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
+* [Back In Time](https://github.com/bit-team/backintime) to [Seagate FireCuda ST2000LX001 2 TB SSHD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#zpool)
+* [Timeshift](https://github.com/teejee2008/timeshift) on [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf)
 
 ## Real-time P2P File Sync
 

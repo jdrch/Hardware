@@ -25,6 +25,10 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
 * [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
 
+#### SSHD
+
+[Seagate FireCuda ST2000LX001 2 TB SSHD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#zpool)
+
 ### 3.5 in
 
 * [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
@@ -101,6 +105,10 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Samsung 860 EVO mSATA 1 TB SSD
 * Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
 
+#### SSHD
+
+Seagate FireCuda ST2000LX001 2 TB SSHD
+
 #### USB
 
 * 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
@@ -156,6 +164,7 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * Seagate Exos X12 ST12000NM0007 12 TB HDD
 * Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
 * Seagate Barracuda ST250DM000 250 GB HDD
+* Seagate FireCuda ST2000LX001 2 TB SSHD
 
 ### Toshiba
 

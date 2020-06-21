@@ -22,11 +22,11 @@ Client PC
 
 ## Boot/OS & `/home`
 
-~~[Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225) (to be replaced by~~[Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf) (SATA, ext4 on LVM)
+~~[Samsung PM871b MZNLN128HAHQ 128 GB SSD](https://www.samsung.com/semiconductor/ssd/client-ssd/MZNLN128HAHQ/) (SATA, ext4 on LVM) in [StarTech M.2 SSD to 2.5in SATA Adapter Converter](https://www.startech.com/HDD/Adapters/M-2-SSD-2-5-in-SATA-Adapter~SAT32M225) (to be replaced by~~[Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf) (SATA 6.0 Gb/s, ext4 on LVM)
 
 ## zpool
 
-[Seagate BarraCuda ST2000LM015 2 TB SSHD](https://www.seagate.com/www-content/product-content/seagate-laptop-fam/barracuda_25/en-us/docs/100807728a.pdf) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories) 
+[Seagate BarraCuda ST2000LM015 2 TB SSHD](https://www.seagate.com/www-content/product-content/seagate-laptop-fam/barracuda_25/en-us/docs/100807728a.pdf) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories) (SATA 6.0 Gb/s, ZFS)
 
 # Backup
 

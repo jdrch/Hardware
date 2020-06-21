@@ -25,7 +25,7 @@
 
 [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/) (onboard SATA 2.0, ZFS) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories)
 
-## ZFS on zpool mirror
+## zpool mirror
 
 * [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://www.newegg.com/hitachi-gst-travelstar-5k250-250gb-hts542525k9sa00/p/N82E16822145159) ([HBA SATA 3.0](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#sata-30), ZFS)
 * [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://www.hdsentinel.com/storageinfo_details.php?lang=en&model=HITACHI%20HTS543212L9A300) (onboard SATA 2.0, ZFS)

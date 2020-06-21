@@ -26,7 +26,7 @@ Client PC
 
 ## zpool
 
-[Seagate FireCuda ST2000LX001 2 TB SSHD](https://www.seagate.com/www-content/product-content/firecuda-family/firecuda/files/firecuda-2-5-ds1908-1-1609us.pdf) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories) 
+[Seagate BarraCuda ST2000LM015 2 TB SSHD](https://www.seagate.com/www-content/product-content/seagate-laptop-fam/barracuda_25/en-us/docs/100807728a.pdf) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories) 
 
 # Backup
 

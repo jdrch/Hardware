@@ -10,8 +10,8 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 * [Western Digital WS20SPZX 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
 * [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-1)
-* [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror)
-* [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror)
+* [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
+* [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
 * 2 x [Toshiba L200 HDWL120XZSTA 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
 * [Toshiba MQ01ABF050 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#user-known-folders)

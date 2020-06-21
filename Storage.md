@@ -16,6 +16,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Toshiba MQ01ABF050 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#user-known-folders)
 * [HGST Travelstar 7K1000 0J22423 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
+* [Seagate BarraCuda ST2000LM015 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#zpool)
 
 #### SSD
 
@@ -24,10 +25,6 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
 * [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
-
-#### SSHD
-
-[Seagate FireCuda ST2000LX001 2 TB SSHD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#zpool)
 
 ### 3.5 in
 
@@ -85,6 +82,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Western Digital Caviar Blue WD2500AAKX 250 GB HDD
 * Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
 * Seagate Barracuda ST250DM000 250 GB HDD
+* Seagate BarraCuda ST2000LM015 2 TB HDD
 
 #### MicroSD
 
@@ -104,10 +102,6 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * Samsung SSD PM830 mSATA 32 GB
 * Samsung 860 EVO mSATA 1 TB SSD
 * Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
-
-#### SSHD
-
-Seagate FireCuda ST2000LX001 2 TB SSHD
 
 #### USB
 
@@ -164,7 +158,7 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * Seagate Exos X12 ST12000NM0007 12 TB HDD
 * Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
 * Seagate Barracuda ST250DM000 250 GB HDD
-* Seagate FireCuda ST2000LX001 2 TB SSHD
+* Seagate BarraCuda ST2000LM015 2 TB HDD
 
 ### Toshiba
 

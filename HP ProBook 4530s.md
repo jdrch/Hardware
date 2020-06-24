@@ -41,7 +41,6 @@ Client PC
 ## Filesystem & OS Versioning
 
 * [Back In Time](https://github.com/bit-team/backintime) to [Seagate FireCuda ST2000LX001 2 TB SSHD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#zpool)
-* [Timeshift](https://github.com/teejee2008/timeshift) on [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
 
 ## Real-time P2P File Sync
 

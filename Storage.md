@@ -63,6 +63,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 * 2x [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#os)
 * [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://www.adata.com/us/specification/204#)
+* [Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB](https://www.kingston.com/datasheets/DT111_us.pdf)
 
 ## Type
 
@@ -107,6 +108,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 * 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
 * ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
+* Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 
 ### Prosumer
 
@@ -133,6 +135,10 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD
 * Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD
 * HGST Travelstar 7K1000 0J22423 1 TB HDD
+
+### Kingston
+
+Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 
 ### Samsung
 

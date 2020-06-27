@@ -49,7 +49,6 @@ TBD
 
 # 24/7/52 Applications
 
-* [napp-it free](https://napp-it.org)
 * [SSH](https://www.openssh.com/) (server)
 * VNC server
 

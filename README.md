@@ -27,6 +27,17 @@ Temporary, stopgap measures, such as substituting a surge protector for a failed
 * Drivers are on the latest stable release. Beta drivers are not used unless they provide a critical feature or security patch unavailable in the latest stable release
 * Maintenance of existing hardware is prioritized over deployment of new hardware, e.g. An existing machine will be migrated from one OS to another before a new machine is set up from scratch (assuming both are on the to-do list)
 
+## Hostnames
+
+Explicit camelcase hostnames are used unless they are too long (e.g. they exceed Windows' 15 character NETBIOS limit.) Shortened hostnames are generated via the following rules:
+
+1. Each substring without a space character in the machine's name is replaced by the letter or number it begins with
+  1. For camelcase substrings, the uppercase letters are concatenated
+2. Each remaining space characters is replaced by a dash
+3. A dash and an ascending index are added additional identical machines
+
+e.g. Razer Blade Pro 17's = R-B-P-17, 2020 MacBook Pro 16-inch = 2020-MB-P-16, an additional Razer Blade Pro 17 = R-B-P-17-1
+
 ## Product Information
 
 * I've made my best attempt to link to OEM product info or support pages or spec sheets for each part. Where I've been unable to find these, I've substituted a reliable 3rd party source

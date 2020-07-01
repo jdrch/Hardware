@@ -32,7 +32,7 @@ Temporary, stopgap measures, such as substituting a surge protector for a failed
 Explicit camelcase hostnames are used unless they are too long (e.g. they exceed Windows' 15 character NETBIOS limit.) Shortened hostnames are generated via the following rules:
 
 1. Each substring without a space character in the machine's name is replaced by the letter or number it begins with
-  * For camelcase substrings, the uppercase letters are concatenated
+   1. For camelcase substrings, the uppercase letters are concatenated
 2. Each remaining space characters is replaced by a dash
 3. A dash and an ascending index are added additional identical machines
 

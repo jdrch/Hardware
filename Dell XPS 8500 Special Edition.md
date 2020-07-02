@@ -115,7 +115,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via [Logitech USB Unifying Receiver](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#receiver) and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and Samsung Galaxy Note9
 
-## Enclosure
+## Enclosures
 
 [Vantec NexStar DX](http://www.vantecusa.com/products_detail.php?p_id=51&p_name=Vantec) (USB 3.1 Gen 1) - Contains [Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#optical-disc-drive)
 

@@ -48,7 +48,7 @@
 
 ## Device 
 
-[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/Storage.md#microsd) installed in [Kington Technology MobileLite Plus USB 3.2* UHS-II microSD Card Reader](https://www.kingston.com/us/memory-card-readers/mobilelite-plus-microsd-reader)
+[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/Storage.md#microsd) installed in [Kington Technology MobileLite Plus USB 3.2* UHS-II microSD Card Reader](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md#readers)
 
 ## Filesystem & OS Versioning
 

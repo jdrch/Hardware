@@ -48,7 +48,7 @@
 
 ## Device 
 
-[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66) to [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://github.com/jdrch/Hardware/blob/master/Storage.md#usb)
+[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/Storage.md#microsd) installed in [Kington Technology MobileLite Plus USB 3.2* UHS-II microSD Card Reader](https://www.kingston.com/us/memory-card-readers/mobilelite-plus-microsd-reader)
 
 ## Filesystem & OS Versioning
 
@@ -75,6 +75,10 @@
 ## Keyboard
 
 [Dell Multimedia Keyboard-KB216 - US International (QWERTY) - Black](https://www.dell.com/en-us/shop/dell-multimedia-keyboard-kb216-us-international-qwerty-black/apd/580-admt/pc-accessories)
+
+## Readers
+
+[Kington Technology MobileLite Plus USB 3.2* UHS-II microSD Card Reader](https://www.kingston.com/us/memory-card-readers/mobilelite-plus-microsd-reader)
 
 ## UPS
 

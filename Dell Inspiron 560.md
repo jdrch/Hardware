@@ -23,7 +23,7 @@
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://www.crucial.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10151&langId=-1&productId=2427502) (SATA 2.0, NTFS)
+[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (SATA 2.0, NTFS)
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 

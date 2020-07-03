@@ -25,7 +25,7 @@
 
 ## Boot/OS & `/home`
 
-[Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://www.crucial.com/usa/en/ct1000mx500ssd1) (onboard SATA 2.0, ext4 on LVM) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories)
+[Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (onboard SATA 2.0, ext4 on LVM) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories)
 
 ## Btrfs raid1 with `autodefrag`
 

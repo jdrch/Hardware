@@ -29,7 +29,7 @@
 
 ## User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Western Digital Gold WD101KRYZ 10 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-800074.pdf) (SATA 3.0, NTFS)
+[Western Digital Gold WD101KRYZ 10 TB HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf) (SATA 3.0, NTFS)
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 

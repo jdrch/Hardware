@@ -26,7 +26,7 @@ Client PC
 
 ## User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-771437.pdf) (SATA, NTFS)
+[Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-hdd/product-brief-western-digital-wd-blue-mobile-sata-hdd.pdf) (SATA 3.0, NTFS)
 
 # Backup
 

@@ -8,7 +8,7 @@
 
 # Role(s)
 
-Client PC
+[Palo Alto Networks GlobalProtect](https://www.paloaltonetworks.com/resources/datasheets/globalprotect-datasheet) client
 
 # CPU
 
@@ -29,7 +29,7 @@ Client PC
 * [Dell PointStick](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=05v44)
 * [McAfee Endpoint Security](https://www.mcafee.com/enterprise/en-us/products/endpoint-security.html)
 * Bluetooth Devices
-* [Palo Alto Networks GlobalProtect](https://www.paloaltonetworks.com/resources/datasheets/globalprotect-datasheet)
+* Palo Alto Networks GlobalProtect
 * Skype for Business
 * [Dameware Mini Remote Control](https://www.dameware.com/dameware-mini-remote-control)
 

@@ -1,3 +1,9 @@
+# NOTE: The details on this page represent this machine's final configuration before it was retired. Component parts that have been reused are marker as such.
+
+# Retirement Method
+
+Curbside bulk pickup
+
 # Model
 
 [Dell Inspiron 560](https://www.dell.com/support/home/us/en/04/product-support/product/inspiron-560/docs)
@@ -23,18 +29,18 @@
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (SATA 2.0, NTFS)
+[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (SATA 2.0, NTFS) - **[REUSED]**
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 
-* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0, NTFS)
-* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0, NTFS) - Long term plan is to replace optical disc drive with this
+* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0, NTFS) - **[REUSED]**
+* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0, NTFS) - Long term plan is to replace optical disc drive with this - **[REUSED]**
 
 # Expansion Cards
 
 ## USB 3.1
 
-[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V) - The onboard HDMI port does not work when this is installed
+[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V) - The onboard HDMI port does not work when this is installed - **[REUSED]**
 
 # Optical Disc Drive
 
@@ -83,32 +89,32 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 ## Mouse 
 
-[Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.anker.com/products/variant/anker-24g-wireless-vertical-ergonomic-optical-mouse/A7852011)
+[Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.anker.com/products/variant/anker-24g-wireless-vertical-ergonomic-optical-mouse/A7852011) - **[REUSED]**
 
 ## Keyboard
 
-[Dell SK-8185 Black 104 Key Slim Sleek USB Keyboard](https://www.amazon.com/Dell-Keyboard-Computer-Connectors-Compatible/dp/B005OZMBOE)
+[Dell SK-8185 Black 104 Key Slim Sleek USB Keyboard](https://www.amazon.com/Dell-Keyboard-Computer-Connectors-Compatible/dp/B005OZMBOE) - **[REUSED]**
 
 ## Docks
 
-[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313)
+[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313) - **[REUSED]**
 
 ## UPS
 
-[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2)
+[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2) - **[REUSED]**
 
 ## Webcam
 
-HP USB
+HP USB - **[REUSED]**
 
 ## Fingerprint Reader
 
-[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/) - **[REUSED]**
 
 ## Speakers
 
-[Dell AX210 USB 2.0 Powered Speaker](https://www.dell.com/support/home/us/en/04/product-support/product/dell-ax210/overview)
+[Dell AX210 USB 2.0 Powered Speaker](https://www.dell.com/support/home/us/en/04/product-support/product/dell-ax210/overview) - **[REUSED]**
 
 # External Monitors
 
-[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview) - **[REUSED]**

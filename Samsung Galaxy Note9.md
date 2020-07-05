@@ -55,9 +55,13 @@ THE NEW VERIZON PLAN UNLIMITED
 
 [Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to [ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) HDMI port
 
-## Mouse & Keyboad
+## Keyboard 
 
-[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo). Shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse--keyboard) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#mouse--keyboard)
+[Microsoft Keyboard Elite for Bluetooth](https://www.cnet.com/products/microsoft-wireless-optical-desktop-elite-for-bluetooth-2-0-keyboard-and-mouse-set-series/)
+
+## Mouse
+
+[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html)
 
 ## Headset
 
@@ -69,7 +73,7 @@ THE NEW VERIZON PLAN UNLIMITED
 
 # External Monitors
 
-[ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#asus-proart-pa248q)
+~~[ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#asus-proart-pa248q)~~
 
 # Accessories
 

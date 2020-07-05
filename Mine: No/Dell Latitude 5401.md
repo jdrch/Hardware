@@ -44,3 +44,5 @@ Client PC
 [Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)
 
 # External Monitors
+
+[ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#asus-proart-pa248q)

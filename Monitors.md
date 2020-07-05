@@ -39,7 +39,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 ### Connected Devices 
 
 * DVI-D, 1920x1200, Left: Dell XPS 8500 Special Edition
-* HDMI, 1920x1200, Left: [Samsung Multi-Port USB-C Adapter, Black](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#usb-c-adapter)
+* HDMI, 1920x1200, Left: [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine:%20No/Dell%20Latitude%205401.md#external-monitors)
 
 ## [ASUS MB169B+ Portable Monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
 

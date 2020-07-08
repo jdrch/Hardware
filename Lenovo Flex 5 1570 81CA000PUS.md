@@ -58,7 +58,7 @@ Client PC
 * Veeam Agent for Windows FREE
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
 * [PowerToys](https://github.com/microsoft/PowerToys)
-* [Windows Defender Security Center](https://www.microsoft.com/en-us/windows/comprehensive-security)
+* [Windows Security](https://www.microsoft.com/en-us/windows/comprehensive-security)
 * OneDrive
 * [Pushbullet](https://www.pushbullet.com/)
 * Intel HD Graphics

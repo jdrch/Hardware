@@ -35,6 +35,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
 * [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
 * [Seagate Barracuda ST250DM000 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
+* [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf)
 
 ### M.2
 
@@ -118,6 +119,7 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 
 * Seagate Exos X12 ST12000NM0007 12 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD
+* Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD
 
 ## Brand
 
@@ -170,6 +172,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 
 * 2 x Toshiba L200 HDWL120XZSTA 2 TB HDD
 * Toshiba MQ01ABF050 500 GB HDD
+* Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD
 
 ### Western Digital
 

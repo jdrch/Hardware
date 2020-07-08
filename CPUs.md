@@ -4,12 +4,6 @@
 
 ### Intel
 
-#### Pentium
-
-##### Pentium Processor E6700
-
-[Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#cpu)
-
 #### Core 2nd Generation
 
 ##### i3 
@@ -28,7 +22,7 @@
 ###### Core™ i5-2400 Processor
 
 * [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#cpu)
-* [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
+* [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#cpu)
 
 #### Core 3rd Generation
 

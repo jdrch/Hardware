@@ -1,16 +1,10 @@
-# NOTE: The details on this page represent this machine's final configuration before it was retired. Component parts that have been reused are marker as such.
-
-# Retirement Method
-
-Curbside bulk pickup
-
 # Model
 
-[Dell Inspiron 560](https://www.dell.com/support/home/us/en/04/product-support/product/inspiron-560/docs)
+[Dell OptiPlex 390 MT](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview)
 
 # Operating System
 
-[Microsoft Windows Home 1909 Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
+[Microsoft Windows Pro for Workstations 2004 Release Preview Channel 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)
 
 # Role(s)
 
@@ -19,34 +13,43 @@ Curbside bulk pickup
 
 # CPU
 
-[Intel Pentium Processor E6700](https://ark.intel.com/content/www/us/en/ark/products/42809/intel-pentium-processor-e6700-2m-cache-3-20-ghz-1066-fsb.html)
+[Intel Core™ i5-2400 Processor](https://ark.intel.com/content/www/us/en/ark/products/52207/intel-core-i5-2400-processor-6m-cache-up-to-3-40-ghz.html)
 
 # RAM
 
-8 GB (4 x 2 GB) - Does not POST with [G.SKILL F3-1600C9Q-16GAB](http://www.gskill.com/product/165/178/1532589947/F3-1600C9Q-16GABAresDDR3-1600MHz-CL9-9-9-1.50V16GB-(4x4GB)) (4 x 4 GB) installed
+16 GB ([G.SKILL F3-1600C11D-16GNT](http://www.gskill.com/product/165/186/1532584719/F3-1600C11D-16GNTValueDDR3-1600MHz-CL11-11-11-1.50V16GB-(2x8GB)))
 
 # Storage
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (SATA 2.0, NTFS) - **[REUSED]**
+[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (SATA 2.0, NTFS) installed in lower slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
 
-## [StableBit DrivePool](https://stablebit.com/DrivePool)
+## Storage Pool
 
-* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0, NTFS) - **[REUSED]**
-* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0, NTFS) - Long term plan is to replace optical disc drive with this - **[REUSED]**
+ReFS on mirror virtual disk created by the PowerShell command `New-VirtualDisk -StoragePoolFriendlyName StoragePool1 -FriendlyName VirtualDisk1 -ResiliencySettingName Mirror -NumberOfDataCopies 2 -ProvisioningType Fixed -UseMaximumSize -NumberOfColumns 1 -Verbose`
+
+* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0), installed in lower front drive cage
+* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0), installed in lower front drive cage
+
+## Scratch
+
+This drive serves as a vast dumping space just in case I need to move the Storage Pool's contents elsewhere temporarily.
+
+[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 2.0, NTFS), installed in upper slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
+
+# Internal Accessories
+
+* [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://www.icydock.com/goods.php?id=165), installed in lower slot of iStarUSA TC-ISTORM7 2x5.25" to 3x3.5" Internal Mounting Cooling Kit with Removable Filter (see below)
+* [iStarUSA TC-ISTORM7 2x5.25" to 3x3.5" Internal Mounting Cooling Kit with Removable Filter](http://www.istarusa.com/en/istarusa/products.php?model=TC-ISTORM7), powered by StarTech.com LP4SATAFM6IN 6in SATA to LP4 Power Cable Adapter - F/M (see below)
+* [StarTech.com LP4SATAFM6IN 6in SATA to LP4 Power Cable Adapter - F/M](https://www.startech.com/Cables/Computer-Power/Internal/6inch-SATA-to-LP4-Power-Cable-Adapter-Female-to-Male~LP4SATAFM6IN), powered by Rocstor Y10C224-B1 SATA Power Splitter Cable (see below)
+* [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://rocstor.com/product-tag/y10c224-b1/)
 
 # Expansion Cards
 
 ## USB 3.1
 
-[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V) - The onboard HDMI port does not work when this is installed - **[REUSED]**
-
-# Optical Disc Drive
-
-[HL-DT-ST DVD+-RW GH70N](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=8690n)
-* Drive can read: CD-R, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL
-* Drive can write: CD-R, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL
+[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V), powered by [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
 
 # Backup
 
@@ -80,41 +83,36 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 * [CrystalDiskInfo Standard Edition](https://crystalmark.info/en/software/crystaldiskinfo/)
 * [PowerToys](https://github.com/microsoft/PowerToys)
 * StableBit DrivePool
-* [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro)
 * OneDrive
-* Windows Security
+* [Windows Security](https://www.microsoft.com/en-us/windows/comprehensive-security)
 * Skype
 
 # Peripherals
 
 ## Mouse 
 
-[Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.anker.com/products/variant/anker-24g-wireless-vertical-ergonomic-optical-mouse/A7852011) - **[REUSED]**
+[Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.anker.com/products/variant/anker-24g-wireless-vertical-ergonomic-optical-mouse/A7852011)
 
 ## Keyboard
 
-[Dell SK-8185 Black 104 Key Slim Sleek USB Keyboard](https://www.amazon.com/Dell-Keyboard-Computer-Connectors-Compatible/dp/B005OZMBOE) - **[REUSED]**
-
-## Docks
-
-[StarTech 4-Bay SATA HDD Docking Station - For 2.5”/3.5" SSDs/HDDs - USB 3.1 (10Gbps)](https://www.startech.com/HDD/Docking/~SDOCK4U313) - **[REUSED]**
+[Dell SK-8185 Black 104 Key Slim Sleek USB Keyboard](https://www.amazon.com/Dell-Keyboard-Computer-Connectors-Compatible/dp/B005OZMBOE)
 
 ## UPS
 
-[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2) - **[REUSED]**
+[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2)
 
 ## Webcam
 
-HP USB - **[REUSED]**
+HP USB
 
 ## Fingerprint Reader
 
-[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/) - **[REUSED]**
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
 
 ## Speakers
 
-[Dell AX210 USB 2.0 Powered Speaker](https://www.dell.com/support/home/us/en/04/product-support/product/dell-ax210/overview) - **[REUSED]**
+[Dell AX210 USB 2.0 Powered Speaker](https://www.dell.com/support/home/us/en/04/product-support/product/dell-ax210/overview)
 
 # External Monitors
 
-[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview) - **[REUSED]**
+[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)

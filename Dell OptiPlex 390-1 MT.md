@@ -32,11 +32,11 @@ ReFS on mirror virtual disk created by the PowerShell command `New-VirtualDisk -
 * [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://www.seagate.com/www-content/product-content/barracuda-fam/barracuda-new/en-us/docs/100818004c.pdf) (SATA 2.0), installed in lower front drive cage
 * [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://www.seagate.com/www-content/datasheets/pdfs/exos-x-12-DS1946-1-1709US-en_US.pdf) (SATA 2.0), installed in lower front drive cage
 
-## Scratch
+## Backup
 
-This drive serves as a vast dumping space just in case I need to move the Storage Pool's contents elsewhere temporarily.
+This drive serves as a backup to [Storage Pool](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#storage-pool).
 
-[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 2.0, NTFS), installed in upper slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
+[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 2.0, NTFS), installed in upper slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories), connected to [StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#sata-30)
 
 # Internal Accessories
 
@@ -47,13 +47,18 @@ This drive serves as a vast dumping space just in case I need to move the Storag
 
 # Expansion Cards
 
+## SATA 3.0
+
+[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I) installed in PCIe 2.0 x16 slot
+
 ## USB 3.1
 
-[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V), powered by [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
+[StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V), powered by [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories) installed in PCIe 2.0 x1 slot (SLOT 3)
 
 # Backup
 
 ## Device Backup Target 
+
 Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) repository
 
 ## Device Backup Source Application
@@ -73,6 +78,14 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 [Resilio Sync Home Pro](https://www.resilio.com/individuals/)
 
+## Storage Pool Backup Application
+
+[SyncBackFree](https://www.2brightsparks.com/freeware/freeware-hub.html)
+
+## Storage Pool Backup Target
+
+[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#backup)
+
 # 24/7/52 Applications
 
 * [TeamViewer for Windows](https://www.teamviewer.com/en-us/download/windows/)
@@ -86,6 +99,7 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 * OneDrive
 * [Windows Security](https://www.microsoft.com/en-us/windows/comprehensive-security)
 * Skype
+* SyncBackFree
 
 # Peripherals
 
@@ -116,3 +130,9 @@ HP USB
 # External Monitors
 
 [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+
+# Known Hardware Problems
+
+Known hardware problems that are impractical or impossible to fix.
+
+* Onboard SATA 3 Connector(SATA3) does not work

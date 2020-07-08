@@ -27,18 +27,18 @@
 
 ## zpool mirror
 
-* [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://www.newegg.com/hitachi-gst-travelstar-5k250-250gb-hts542525k9sa00/p/N82E16822145159) ([HBA SATA 3.0](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#sata-30), ZFS)
+* [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://www.newegg.com/hitachi-gst-travelstar-5k250-250gb-hts542525k9sa00/p/N82E16822145159) ([HBA SATA 3.0](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#sata-30), ZFS), connected to [StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#sata-30)
 * [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://www.hdsentinel.com/storageinfo_details.php?lang=en&model=HITACHI%20HTS543212L9A300) (onboard SATA 2.0, ZFS)
 
 # Expansion Cards
 
 ## SATA 3.0
 
-[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I). The [HBA SATA Hitachi Travelstar 5K250](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zfs-on-zpool-mirror) is connected to this
+[StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I)
 
 # Backup
 
-# Device Backup Target
+## Device Backup Target
 
 [Restic](https://restic.net/) repositories on NFS share on [Btrfs raid 1 array on Dell OptiPlex 390 (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
 

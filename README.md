@@ -21,6 +21,10 @@ The aims of this project are to:
 
 Temporary, stopgap measures, such as substituting a surge protector for a failed UPS, are not considered (for) hardware release versions unless they become permanent.
 
+### Releases Issue
+
+My release tags are messed up because I mistakenly tried to rename previous tags in reverse chronological order around the v10.8.9.0 release. Proper listing of releases and dates [here](https://github.com/jdrch/Hardware/releases).
+
 ## General Principles
 
 * OSes, firmwares/BIOSes, and apps are on the latest stable release at the very least and patched very aggressively

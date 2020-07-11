@@ -1,4 +1,4 @@
-# NOTE: The details on this page represent this machine's final configuration before it was retired. Component parts that have been reused are marker as such.
+# NOTE: The details on this page represent this machine's final configuration before it was retired. Component parts that have been reused are marked as such.
 
 # Retirement Method
 

@@ -2,6 +2,14 @@
 
 [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Adafruit
+
 # Operating System
 
 [Raspberry Pi OS Stable with desktop and recommended software](https://www.raspberrypi.org/downloads/raspbian/)

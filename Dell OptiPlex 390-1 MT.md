@@ -2,6 +2,14 @@
 
 [Dell OptiPlex 390 MT](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview)
 
+# Purchase Condition
+
+Used
+
+# Purchase Source
+
+County sale
+
 # Operating System
 
 [Microsoft Windows Pro for Workstations 2004 Release Preview Channel 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)

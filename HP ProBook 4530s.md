@@ -2,6 +2,14 @@
 
 [HP ProBook 4530s](https://support.hp.com/us-en/product/hp-probook-4530s-notebook-pc/5060880)
 
+# Purchase Condition
+
+Used
+
+# Purchase Source
+
+Work IT sale
+
 # Operating Systems
 
 [Ubuntu Desktop](https://ubuntu.com/download/desktop)

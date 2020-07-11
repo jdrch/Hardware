@@ -2,6 +2,14 @@
 
 [Dell XPS 8500 Special Edition](https://www.dell.com/support/home/us/en/19/product-support/product/xps-8500/docs)
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Dell.com
+
 # Operating System
 
 [Microsoft Windows Pro 2004 Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)

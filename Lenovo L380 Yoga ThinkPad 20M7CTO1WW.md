@@ -2,6 +2,14 @@
 
 [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-l-series-laptops/thinkpad-l380-yoga-type-20m7-20m8/20m7/20m7cto1ww)
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Lenovo.com
+
 # Operating Systems
 
 * [Microsft Windows Pro Insider Beta Channel 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)

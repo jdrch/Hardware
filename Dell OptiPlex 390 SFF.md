@@ -2,6 +2,14 @@
 
 [Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 1)
 
+# Purchase Condition
+
+Used
+
+# Purchase Source
+
+Work IT sale
+
 # Operating System
 
 [FreeBSD 12.1-RELEASE](https://www.freebsd.org/where.html) via [FuryBSD](https://www.furybsd.org/) KDE Plasma flavor installer + latest `pkg` repo

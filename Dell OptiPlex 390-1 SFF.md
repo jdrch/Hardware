@@ -2,6 +2,14 @@
 
 [Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 2)
 
+# Purchase Condition
+
+Used
+
+# Purchase Source
+
+Work IT sale
+
 # Operating System
 
 [Debian Stable AMD64 Port](https://www.debian.org/releases/stable/)

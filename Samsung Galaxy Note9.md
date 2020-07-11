@@ -2,6 +2,14 @@
 
 [Samsung Galaxy Note9 512GB (Verizon)](https://www.samsung.com/us/business/products/mobile/phones/galaxy-note/galaxy-note9-512gb-verizon-sm-n960uzbfvzw/)
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Samsung.com
+
 # Carrier
 
 Verizon

@@ -2,6 +2,14 @@
 
 [Sony VAIO Fit 15E SVF15212CXB](https://www.sony.com/electronics/support/laptop-pc-svf-series/svf15212cxb) ([Purchased Configuration](https://www.newegg.com/black-sony-vaio-f-series-svf15212cxb-mainstream/p/N82E16834126014))
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Newegg
+
 # Operating System
 
 [Microsft Windows Pro Insider Beta Channel 64-bit](https://docs.microsoft.com/en-us/windows-insider/flight-hub/)

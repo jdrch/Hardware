@@ -2,6 +2,14 @@
 
 [Dell OptiPlex 390 MT](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview)
 
+# Purchase Condition
+
+Used
+
+# Purchase Source
+
+County sale
+
 # Operating System
 
 [OpenIndiana Hipster GUI](https://www.openindiana.org/download/)

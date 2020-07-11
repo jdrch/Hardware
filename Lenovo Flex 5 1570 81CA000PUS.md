@@ -2,6 +2,14 @@
 
 [Lenovo Flex 5 1570 81CA000PUS](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/flex-series/flex-5-1570-type-81ca/81ca/81ca000pus)
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Lenovo.com
+
 # Operating System
 
 [Microsoft Windows Pro 2004 Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)

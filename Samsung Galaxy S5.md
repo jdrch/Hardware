@@ -2,6 +2,14 @@
 
 [Samsung Galaxy S5 (Verizon)](https://www.samsung.com/us/business/support/owners/product/galaxy-s5-verizon/)
 
+# Purchase Condition
+
+New
+
+# Purchase Source
+
+Verizon Wireless Store
+
 # Operating System
 
 [LineageOS](https://download.lineageos.org/klte) (Android)

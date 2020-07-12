@@ -60,3 +60,4 @@ Client PC
 * Resilio Sync Home Pro
 * [Cockpit](https://cockpit-project.org/)
 * [SSH](https://www.openssh.com/) (server)
+* [Wallch](https://sourceforge.net/projects/wall-changer/)

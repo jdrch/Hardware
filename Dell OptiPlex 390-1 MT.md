@@ -144,4 +144,4 @@ HP USB
 Known hardware problems that are impractical or impossible to fix.
 
 * Onboard SATA 3 Connector(SATA3) does not work
-* Rear middle right onboard USB 2.0 port works for storage devices only
+* Rear middle onboard USB 2.0 ports work for storage devices only. USB flash drive works, Keyboards and UPS don't.

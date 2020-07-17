@@ -162,3 +162,7 @@ External Monitors
 * [Dell UltraSharp U2713HM](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-3)
 * [NEC EA275UHD-BK](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-2)
 * [ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-4)
+
+# Replacement
+
+[Performance Value PC - No GPU](https://pcpartpicker.com/user/jdrch/saved/qM8Bbv) with above GPU reused

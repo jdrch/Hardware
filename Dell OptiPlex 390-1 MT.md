@@ -139,6 +139,10 @@ HP USB
 
 [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
 
+# Replacement
+
+[Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md) without dGPU
+
 # Known Hardware Problems
 
 Known hardware problems that are impractical or impossible to fix.

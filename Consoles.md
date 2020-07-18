@@ -12,6 +12,10 @@
 
 ### Peripherals
 
+#### Mouse
+
+[Dell M-UAV-DEL8 (P/N J66OD) Laser Mouse](https://www.dell.com/support/home/us/en/19/product-support/product/dell-lasr-mouse/docs)
+
 #### [DualShock 4 Controllers](https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/)
 
 * 2 x Jet Black

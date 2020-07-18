@@ -67,6 +67,7 @@ An Issue is anything that requires multiple similar steps to fix or implement, e
 * I'm philosophically opposed to much of Apple's computing vision
 * I [run an open source Unix implementation, OpenIndiana](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
 * macOS' kernel contains code from FreeBSD's kernel, [which I also run](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
+* Apple's move to their own silicon has basically [made buying a Mac financially infeasible](https://www.reddit.com/r/mac/comments/hif6qi/the_apple_silicon_announcement_has_caused_me_to/)
 
 ### Did you buy everything new?
 
@@ -79,9 +80,7 @@ Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wik
 * TrueNAS Core
 * Fedora
 * OpenSUSE
-* Manjaro
-
-My next Windows SKU will be Windows 10 Pro for Workstations. 
+* Manjaro 
 
 ### What do you use for VMs?
 

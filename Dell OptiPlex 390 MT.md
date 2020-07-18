@@ -64,7 +64,7 @@ TBD
 
 ## Mouse 
 
-[Dell M-UAV-DEL8 (P/N J66OD) Laser Mouse](https://www.dell.com/support/home/us/en/19/product-support/product/dell-lasr-mouse/docs)
+[Kensington Pro Fit® Full-Size Mouse USB](https://www.kensington.com/p/products/electronic-control-solutions/computer-mice-/pro-fit-full-size-mouse-usb/)
 
 ## Keyboard
 

@@ -58,7 +58,9 @@ TBD
 # 24/7/52 Applications
 
 * [SSH](https://www.openssh.com/) (server)
-* VNC server
+* VNC Server
+* NFS Server
+* NFS Client
 
 # Peripherals
 

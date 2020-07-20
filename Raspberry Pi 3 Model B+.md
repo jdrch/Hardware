@@ -73,6 +73,7 @@ Adafruit
 * [UniFi Controller](https://dl.ubnt.com/guides/UniFi/UniFi_Controller_V5_UG.pdf)
 * [Cockpit](https://cockpit-project.org/)
 * [SSH](https://www.openssh.com/) (server)
+* NFS Client
 
 # Peripherals
 

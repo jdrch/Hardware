@@ -67,6 +67,8 @@ Restic
 * Resilio Sync Home Pro
 * [SSH](https://www.openssh.com/) (server)
 * [Webmin](http://www.webmin.com/index.html)
+* NFS Server
+* NFS Client
 
 # Peripherals
 

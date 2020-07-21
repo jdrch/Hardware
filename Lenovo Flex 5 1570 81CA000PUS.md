@@ -81,7 +81,13 @@ Client PC
 
 ## Gigabit Ethernet
 
-[StarTech USB 3.0 to Gigabit Ethernet NIC Network Adapter - White](https://www.startech.com/Networking-IO/usb-network-adapters/USB-3-to-Gigabit-Ethernet-NIC-Network-Adapter~USB31000SW)
+~~[StarTech USB 3.0 to Gigabit Ethernet NIC Network Adapter - White](https://www.startech.com/Networking-IO/usb-network-adapters/USB-3-to-Gigabit-Ethernet-NIC-Network-Adapter~USB31000SW)~~
+
+[ Monoprice USB 3.0 to Gigabit Ethernet Adapter ](https://www.monoprice.com/product?p_id=11195), connected to [General Type C (USB-C) Male to USB 3.0 A Female Adapter](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#usb-adapter)
+
+## USB Adapter
+
+[General Type C (USB-C) Male to USB 3.0 A Female Adapter](https://www.buydig.com/shop/product/USBCADAPTER/General-Type-C-USB-C-Male-to-USB-30-A-Female-Adapte) (The unit I have does not match the one at that link, but the product at that link is what I ordered. BuyDig let me keep the incorrect item)
 
 ## Mouse 
 

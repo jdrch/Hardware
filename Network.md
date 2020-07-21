@@ -82,3 +82,11 @@ Category 6A, plenum rated
 # AIOs
 
 [Brother MFCJ985DW Work Smart All-in-One](https://www.brother-usa.com/products/mfcj985dw). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+
+# Smart TV
+
+## [TCL 55" Class 6-Series 4K QLED Dolby Vision HDR Roku Smart TV - 55R625](https://www.tclusa.com/products/home-theater/6-series/tcl-55-class-6-series-4k-qled-hdr-roku-smart-tv-55r625)
+
+### Peripherals
+
+[ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://github.com/jdrch/Hardware/blob/master/Storage.md#usb)

@@ -17,6 +17,8 @@
 
 ### XPS
 
+#### Desktop
+
 [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
 
 ## HP

@@ -43,7 +43,7 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 [Ubiquiti UniFi HD UAP-AC-HD 802.11ac Wave 2 Enterprise Wi-Fi Access Point](https://dl.ubnt.com/datasheets/unifi/UniFi_UAP-AC-HD_DS.pdf)
 * Managed by [UniFi Controller](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#roles)
 * UPS backup: [CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-1)
-* Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+* Connected to [NETGEAR GS108LP-100NAS 8-port Gigabit Ethernet Unmanaged PoE/PoE+ Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 # Switches
 
@@ -51,6 +51,7 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 * [NETGEAR GS116v2 16-Port Gigabit Unmanaged Switch](https://www.netgear.com/images/datasheet/switches/GS105v5_GS108v4_GS116v2.pdf)
   * UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 * [NETGEAR GS605v4 5 Port Gigabit Ethernet Unmanaged Switch](https://www.netgear.com/support/product/GS605v4)
+* [NETGEAR GS108LP-100NAS 8-port Gigabit Ethernet Unmanaged PoE/PoE+ Switch](https://www.netgear.com/images/datasheet/switches/GS108LP_GS108PP_GS116LP_GS116PP_DS.pdf)
 
 # MoCA Adapter
 

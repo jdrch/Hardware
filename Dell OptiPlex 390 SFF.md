@@ -46,13 +46,9 @@ Work IT sale
 
 # Backup
 
-## Device Backup Target
+## Device
 
 [Restic](https://restic.net/) repositories on NFS share on [Btrfs raid 1 array on Dell OptiPlex 390 (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
-
-## Device Backup Source Application
-
-Restic
 
 ## Filesystem & OS Versioning
 

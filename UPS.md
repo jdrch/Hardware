@@ -23,8 +23,8 @@
 
 ## Battery Backed Up Devices
 
-* [Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#ups)
-* [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#ups)
+* [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#ups) (Unit 1)
+* [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#ups) (Unit 2)
 * [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 # [APC Back UPS PRO BR 1350VA](https://www.apc.com/shop/us/en/products/Back-UPS-PRO-BR-1350VA-SineWave-10-Outlets-2-USB-Charging-Ports-AVR-LCD-interface/P-BR1350MS)

@@ -60,7 +60,7 @@ Adafruit
 
 ## Filesystem & OS Versioning
 
-[Back In Time](https://github.com/bit-team/backintime) to [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://www.sandisk.com/home/usb-flash/extreme-go-usb)
+[Restic](https://restic.net/) repositories on NFS share on [RAIDZ1 zpool on Dell OptiPlex 390 MT (Unit 1)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool)
 
 ## Real-time P2P File Sync
 

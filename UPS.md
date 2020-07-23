@@ -16,8 +16,7 @@
 
 ## Battery Backed Up Devices
 
-* [Ubiquiti UniFi HD UAP-AC-HD 802.11ac Wave 2 Enterprise Wi-Fi Access Point](https://github.com/jdrch/Hardware/blob/master/Network.md#wireless-access-point)
-* [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+* [NETGEAR GS108LP-100NAS 8-port Gigabit Ethernet Unmanaged PoE/PoE+ Switch](https://www.netgear.com/images/datasheet/switches/GS108LP_GS108PP_GS116LP_GS116PP_DS.pdf)
 * [Sony PlayStation 4 Pro](https://github.com/jdrch/Hardware/blob/master/Consoles.md#ups)
 
 # [CyberPower CP1350PFCLCD](https://www.cyberpowersystems.com/product/ups/cp1350pfclcd/) (Unit 2)

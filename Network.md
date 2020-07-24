@@ -91,3 +91,7 @@ Category 6A, plenum rated
 ### Peripherals
 
 [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://github.com/jdrch/Hardware/blob/master/Storage.md#usb)
+
+# Streaming Player
+
+[Roku Ultra](https://www.roku.com/products/roku-ultra). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)

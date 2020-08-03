@@ -32,6 +32,10 @@ Client PC
 
 [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/) (SATA 3.0, NTFS)
 
+# Battery
+
+[Laptop Battery Express SON-VGP-BPS35](https://www.laptopbatteryexpress.com/Sony-VGP-BPS35A-Laptop-Battery-p/son-vgp-bps35.htm) (Laptop shipped with stock Sony battery, which wore out after 6.5 years and was replaced)
+
 # Backup
 
 ## Device Backup Target

@@ -34,7 +34,7 @@ Client PC
 
 # Battery
 
-[Laptop Battery Express SON-VGP-BPS35](https://www.laptopbatteryexpress.com/Sony-VGP-BPS35A-Laptop-Battery-p/son-vgp-bps35.htm) (Laptop shipped with stock Sony battery, which wore out after 6.5 years and was replaced)
+[Laptop Battery Express SON-VGP-BPS35 Battery for Vaio 14e and 15e Models](https://www.laptopbatteryexpress.com/Sony-VGP-BPS35A-Laptop-Battery-p/son-vgp-bps35.htm) (Laptop shipped with stock Sony battery, which wore out after 6.5 years and was replaced)
 
 # Backup
 

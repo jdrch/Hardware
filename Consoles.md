@@ -47,7 +47,7 @@
 
 #### Dock
 
-[Thermaltake BlacX 5G ST0019U ABS Plastic 2.5" & 3.5" Black SATA I/II/III USB 3.0 Docking Station](https://www.newegg.com/thermaltake-st0019u-office-products/p/N82E16817153133R)
+[Thermaltake BlacX 5G ST0019U ABS Plastic 2.5" & 3.5" Black SATA I/II/III USB 3.0 Docking Station](https://www.newegg.com/thermaltake-st0019u-office-products/p/N82E16817153133R), connected to [Patriot 7-Port USB Hub](https://info.patriotmemory.com/patriot-7-port-usb-hub)
 
 #### Camera
 
@@ -56,6 +56,14 @@
 #### Remote Control
 
 [Xbox One Media Remote](https://support.xbox.com/en-US/xbox-one/accessories/xbox-one-media-remote-info)
+
+#### USB Hub
+
+[Patriot 7-Port USB Hub](https://info.patriotmemory.com/patriot-7-port-usb-hub)
+
+#### TV Tuner
+
+[Happauge Digital TV Tuner for Xbox One](https://www.hauppauge.com/pages/products/data_xboxtv.html), connected to [Patriot 7-Port USB Hub]
 
 ## Microsoft Xbox 360 
 

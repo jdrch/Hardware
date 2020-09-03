@@ -119,6 +119,10 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 [Dell SK-8185 Black 104 Key Slim Sleek USB Keyboard](https://www.amazon.com/Dell-Keyboard-Computer-Connectors-Compatible/dp/B005OZMBOE)
 
+## Printer
+
+[Brother PTD600VP PC-Connectable Label Maker with Color Display and Carry Case](https://www.brother-usa.com/products/ptd600vp)
+
 ## UPS
 
 [CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-2)

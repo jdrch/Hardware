@@ -1,3 +1,5 @@
+[BSD Hardware Database](https://bsd-hardware.info/?probe=9114913ef6)
+
 # Model
 
 [Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 1)

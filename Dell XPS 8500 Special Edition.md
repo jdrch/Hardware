@@ -106,7 +106,6 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 * [qBittorrent](https://www.qbittorrent.org)
 * [Pushbullet](https://www.pushbullet.com/)
 * [AMD Catalyst Control Center](https://www.amd.com/en/support/graphics/amd-radeon-hd/amd-radeon-hd-7000-series/amd-radeon-hd-7870-ghz-edition)
-* [Avira Antivirus Pro](https://www.avira.com/en/antivirus-pro)
 * [No-IP Dynamic DNS Update Client (DUC) for Windows](https://www.noip.com/download?page=win)
 * [Windows Security](https://www.microsoft.com/en-us/windows/comprehensive-security)
 * OneDrive

@@ -8,14 +8,24 @@ Mediacom
 
 ## Test Results
 
-* [DSLReports.com](http://www.dslreports.com/speedtest/62405594)
-* [Mediacom](https://github.com/jdrch/Hardware/blob/master/Mediacom%20Cable%20%20%20Speed%20Test%202019-09-30.png)
-
+* Mediacom
+  * [DSLReports.com](http://www.dslreports.com/speedtest/62405594)
+  * [Mediacom](https://github.com/jdrch/Hardware/blob/master/Mediacom%20Cable%20%20%20Speed%20Test%202019-09-30.png)
+* MetroNet
+  * [DSLReports.com](https://www.dslreports.com/speedtest/66080581)
+  * [Ookla](https://www.speedtest.net/my-result/d/9e87e565-af82-4d93-9805-2c6b8f7d1f40)
+  
 # Internet Modem
+
+UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+
+## Mediacom
 
 [Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) 
 
-* UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+## MetroNet
+
+[Nokia (rebadged(?) Alcatel-Lucent) 7368 ISAM ONT G-240G-A](https://www.goamt.com/wp-content/uploads/2015/08/7368_ISAM_ONT_G-240G-A_AMT.pdf)
 
 # VoIP Gateway
 
@@ -55,8 +65,7 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 
 # MoCA Adapter
 
-[Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/)
-* UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
+~~[Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/)~~
 
 # Network Tuner
 

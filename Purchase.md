@@ -32,6 +32,10 @@
 * [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md)
 * [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md)
 
+## Swappa
+
+[Google Pixel 3 XL](https://github.com/jdrch/Hardware/blob/master/Google%20Plixel%203%20XL.md)
+
 ## Work IT sale
 
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md)

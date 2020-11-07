@@ -1,6 +1,6 @@
 # Model
 
-[Google Pixel 3 XL 64GB (Verizon)](https://www.gsmarena.com/google_pixel_3_xl-9257.php) - Google inexplicably does not maintain a product page for a device it still supports
+[Google Pixel 3 XL 64GB (Verizon)](https://support.google.com/pixelphone/answer/7158570?hl=en)
 
 # Purchase Condition
 

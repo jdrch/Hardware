@@ -2,6 +2,10 @@
 
 ## Android
 
+### Google Android
+
+[Google Pixel 3 XL](https://github.com/jdrch/Hardware/blob/master/Google%20Plixel%203%20XL.md#operating-system)
+
 ### LineageOS
 
 [Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#operating-system)

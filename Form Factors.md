@@ -26,4 +26,5 @@
 
 ## Phablet
 
-[Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md)
+* [Google Pixel 3 XL](https://github.com/jdrch/Hardware/blob/master/Google%20Plixel%203%20XL.md)
+* [Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md)

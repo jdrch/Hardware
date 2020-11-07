@@ -4,7 +4,7 @@
 
 # Purchase Condition
 
-New
+Used, Mint Condition
 
 # Purchase Source
 

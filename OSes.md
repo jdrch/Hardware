@@ -8,11 +8,11 @@
 
 ### LineageOS
 
-[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#operating-system)
+[Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#operating-system)
 
 ### Samsung One UI
 
-[Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
+[Samsung Galaxy Note9 512GB](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
 
 ## BSD
 

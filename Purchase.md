@@ -19,11 +19,11 @@
 
 ## Samsung.com
 
-[Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md)
+[Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md)
 
 ## Verizon Wireless Store
 
-[Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md)
+[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md)
 
 # Used
 

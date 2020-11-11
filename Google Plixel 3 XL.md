@@ -41,9 +41,7 @@ Onboard: 64 GB UFS 2.1 (F2FS)
 
 # Case
 
-[Spigen 
-
-Google Pixel 3 XL Case Rugged Armor](https://www.spigen.com/collections/google-pixel-3-3-xl/products/google-pixel-3-xl-case-rugged-armor?variant=32491258347567)
+[Spigen Google Pixel 3 XL Case Rugged Armor](https://www.spigen.com/collections/google-pixel-3-3-xl/products/google-pixel-3-xl-case-rugged-armor?variant=32491258347567)
 
 # Backup
 

@@ -59,7 +59,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Wireless
 
-[Intel Dual Band Wireless-AC 7260 AC 2x2 HMC WiFi Adapter](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/dual-band-wireless-ac-7260-bluetooth-brief.pdf) (Shipped with [Atheros AR5B225](https://www.amazon.com/Atheros-AR5B225-Wireless-Bluetooth-Better/dp/B00BTWI81G))
+~~[Intel Dual Band Wireless-AC 7260 AC 2x2 HMC WiFi Adapter](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/dual-band-wireless-ac-7260-bluetooth-brief.pdf)~~ (Shipped with [Atheros AR5B225](https://www.amazon.com/Atheros-AR5B225-Wireless-Bluetooth-Better/dp/B00BTWI81G))
 
 # Optical Disc Drive
 
@@ -165,3 +165,7 @@ External Monitors
 # Replacement
 
 [Performance Value PC - No GPU](https://pcpartpicker.com/user/jdrch/saved/qM8Bbv) with above GPU reused
+
+# Known Hardware Problems
+
+

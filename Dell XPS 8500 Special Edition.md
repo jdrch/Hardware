@@ -168,4 +168,4 @@ External Monitors
 
 # Known Hardware Problems
 
-
+The [Intel wireless NIC](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#wireless) is dead and has been disabled. Removing it requires opening the machine and unseating the GPU. This is tedious, and so will probably be done the next time the GPU has to be removed (historically, about once per year.)

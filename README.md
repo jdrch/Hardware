@@ -140,6 +140,7 @@ Castoff client PCs are less expensive than the above and run the same applicatio
 ## How can I contact you?/You're wrong about something here/Corrections/Errata/etc. 
 
 * File an [issue](https://github.com/jdrch/Hardware/issues/new)!
+* Start a [discussion](https://github.com/jdrch/Hardware/discussions)
 * Create a pull request (serious PRs only, please)
 * [Twitter](https://twitter.com/jdrch)
 * [Reddit](https://www.reddit.com/user/jdrch)

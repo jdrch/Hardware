@@ -19,13 +19,17 @@ Mediacom
 
 UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices)
 
-## Mediacom
+## ~~Mediacom~~
 
-[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) 
+~~[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) ~~
 
 ## MetroNet
 
 [Nokia (rebadged(?) Alcatel-Lucent) 7368 ISAM ONT G-240G-A](https://www.goamt.com/wp-content/uploads/2015/08/7368_ISAM_ONT_G-240G-A_AMT.pdf)
+
+# Patch Panel
+
+[Panduit CWPP12WBL](https://www.panduit.com/en/products/copper-systems/patch-panels-accessories/modular-patch-panels/cwpp12wbl.html)
 
 # VoIP Gateway
 

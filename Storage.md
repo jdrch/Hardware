@@ -20,7 +20,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 #### SSD
 
-* [Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#bootos--user-known-folders)
+* [Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#bootos--user-known-folders)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#bootos--home)
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
@@ -28,14 +28,15 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 ### 3.5 in
 
-* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
-* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
-* [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md#stablebit-drivepool)
+* [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#storage-pool)
+* [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#storage-pool)
+* [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
 * [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
 * [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
 * [Seagate Barracuda ST250DM000 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
-* [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf)
+* [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
+* [Western Digital Ultrastar DC HC550 WUH721818ALE6L4 18 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#backup)
 
 ### M.2
 

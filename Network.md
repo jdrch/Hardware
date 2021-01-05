@@ -21,7 +21,7 @@ UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/
 
 ## ~~Mediacom~~
 
-~~[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/) ~~
+~~[Arris SB8200 SURFboard DOCSIS 3.1 Cable Modem](https://www.arris.com/surfboard/products/cable-modems/sb8200/)~~
 
 ## MetroNet
 

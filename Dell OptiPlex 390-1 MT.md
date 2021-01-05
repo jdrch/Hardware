@@ -44,7 +44,7 @@ ReFS on mirror virtual disk created by the PowerShell command `New-VirtualDisk -
 
 This drive serves as a backup to [Storage Pool](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#storage-pool).
 
-[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 2.0, NTFS), installed in upper slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories), connected to [StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#sata-30)
+[Western Digital Ultrastar DC HC550 WUH721818ALE6L4 18 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 2.0, NTFS), installed in upper slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories), connected to [StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#sata-30)
 
 # Internal Accessories
 
@@ -141,7 +141,8 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 # External Monitors
 
-[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+* [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+* [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q)
 
 # Replacement
 

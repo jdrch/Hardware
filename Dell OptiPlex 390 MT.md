@@ -78,4 +78,5 @@ TBD
 
 # External Monitors
 
-[Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+* [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
+* [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q)

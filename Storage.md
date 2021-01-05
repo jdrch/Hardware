@@ -121,6 +121,7 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 * Seagate Exos X12 ST12000NM0007 12 TB HDD
 * Western Digital Gold WD101KRYZ 10 TB HDD
 * Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD
+* Western Digital Ultrastar DC HC550 WUH721818ALE6L4 18 TB HDD
 
 ## Brand
 
@@ -183,3 +184,4 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 * Western Digital Gold WD101KRYZ 10 TB HDD
 * Western Digital Caviar Blue WD2500AAKX 250 GB HDD
 * Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
+* Western Digital Ultrastar DC HC550 WUH721818ALE6L4 18 TB HDD

@@ -92,3 +92,7 @@ Client PC
 ## Mouse 
 
 [Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.anker.com/products/variant/anker-24g-wireless-vertical-ergonomic-optical-mouse/A7852011)
+
+## External Monitors
+
+[ViewSonic VG1655](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752-1)

@@ -29,7 +29,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 ### Stand
 
-[Rocelco DMS](https://rocelco.com/product/dms-dual-monitor-stand)
+[Rocelco DMS](https://github.com/jdrch/Hardware/blob/master/Monitors.md#stand-1)
 
 ## [NEC EA275UHD-BK](https://www.necdisplay.com/p/ea275uhd-bk)
 
@@ -63,13 +63,13 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 ### Stand
 
-[Rocelco DMS](https://rocelco.com/product/dms-dual-monitor-stand)
+[Rocelco DMS](https://github.com/jdrch/Hardware/blob/master/Monitors.md#stand)
 
 ## [ASUS MB169B+](https://www.asus.com/us/Monitors/MB169BPlus/)
 
 ### Connected Devices (Not 24/7/52)
 
-* USB 3.1 Gen 1, 1920x1080, Right: [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#external-monitor)
+USB 3.1 Gen 1, 1920x1080, Right: [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#external-monitors)
 
 ## [ViewSonic VP2768-4K](https://www.viewsonic.com/us/products/shop/monitors/vp2768-4k.html)
 
@@ -86,4 +86,4 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 ### Connected Devices (Not 24/7/52)
 
-* USB 3.1 Gen 1, 1920x1080: [Lenovo Flex 5 1570 81CA000PUS](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#external-monitors)
+USB 3.1 Gen 1, 1920x1080: [Lenovo Flex 5 1570 81CA000PUS](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#external-monitors)

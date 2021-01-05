@@ -45,4 +45,8 @@
 
 # External Monitors
 
-[ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#asus-proart-pa248q)
+[NEC EA275UHD-BK](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-2)
+
+# Stands
+
+[Uncaged Ergonomics WorkEZ Executive](https://uncagedergonomics.com/workez-executive/)

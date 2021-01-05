@@ -78,5 +78,5 @@ TBD
 
 # External Monitors
 
-* [Dell S2240L](https://www.dell.com/support/home/us/en/04/product-support/product/dell-s2240l/overview)
-* [ASUS ProArt PA248Q](https://www.asus.com/us/Monitors/ProArt-PA248Q)
+* [Dell S2240L](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-input-resolution-position-from-os-display-manager-perspective)
+* [ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-4)

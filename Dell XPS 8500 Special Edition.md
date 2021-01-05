@@ -63,7 +63,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 # Optical Disc Drive
 
-[Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) (SATA 3.0) - Installed in [Vantec NexStar DX](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#enclosures)
+[Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) (SATA 3.0) installed in [Vantec NexStar DX](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#enclosures), connected to [Vantec 10-Port USB 3.0 Aluminum Hub](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#usb-hubs)
 
 # Backup
 

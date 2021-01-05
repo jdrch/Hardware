@@ -86,7 +86,7 @@ Work IT sale
 
 ## Webcam
 
-[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam)
+[Logitech C920 PRO HD Webcam](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html)
 
 ## UPS
 

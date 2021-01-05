@@ -95,10 +95,6 @@ Work IT sale
 
 [Audioengine A2](https://www.crutchfield.com/S-bXW2qqMqe1W/p_772A2B/Audioengine-A2-Satin-black.html). Connected to [SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#audio-switch)
 
-## Webcam
-
-[Logitech C920 PRO HD Webcam](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html)
-
 # External Monitors
 
 * [Dell S2240L](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices)

@@ -1,14 +1,46 @@
 # Consoles
 
+## [Microsoft Xbox Series X](https://www.xbox.com/en-US/consoles/xbox-series-x)
+
+### Storage
+
+* Internal 1 TB NVMe SSD
+* [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 3.0), installed in [StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs]()
+
+### UPS
+
+[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-1)
+
+### Peripherals
+
+#### [Xbox Wireless Controllers](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
+
+* 2 x Black
+* 1 x White
+* 1 x Blue
+
+##### Batteries
+
+* 2 x [Rocketfish Rechargeable Battery Pack For Xbox Series X | S and Xbox One](https://www.rocketfishproducts.com/pdp/RF-XB1SRBP/6405325)
+* 2 x [Insignia Play & Charge Kit for Xbox Series X | S - Black](https://www.insigniaproducts.com/pdp/NS-XBX9PC/6424527)
+
+#### Remote Control
+
+[PDP Gaming Talon Media Remote](https://www.pdp.com/en/shop/xbox/pdp-gaming-talon-media-remote-xbox)
+
+#### Dock
+
+[StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/en-us/hdd/sdock2u313)
+
+#### Webcam
+
+[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) with [HUYUN The Webcam Privacy Shutter Protects Lens Cap Hood Cover Compatible for Logitech HD Pro Webcam C920 & C930e & C922X C922x Pro](https://www.amazon.com/gp/product/B01N7B8QIS)
+
 ## [Sony PlayStation 4 Pro](https://www.playstation.com/en-us/explore/ps4-pro/)
 
 ### Storage
 
 [Western Digital WS20SPZX 2 TB HDD](https://www.wd.com/content/dam/wdc/website/downloadable_assets/eng/spec_data_sheet/2879-771437.pdf). Shipped with [Toshiba MQ01ABD100 1 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/cHDD-MQ01ABDxxx-Product-Overview.pdf)
-
-### UPS
-
-[CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-1)
 
 ### Peripherals
 
@@ -26,7 +58,7 @@
 
 [PDP Official Universal Media Remote for PlayStation 4](https://www.pdp.com/en/shop/universal-media-remote-for-ps4)
 
-#### Camera
+#### Webcam
 
 [PlayStation Camera](https://www.playstation.com/en-us/explore/accessories/vr-accessories/playstation-camera/)
 
@@ -49,7 +81,7 @@
 
 [Thermaltake BlacX 5G ST0019U ABS Plastic 2.5" & 3.5" Black SATA I/II/III USB 3.0 Docking Station](https://www.newegg.com/thermaltake-st0019u-office-products/p/N82E16817153133R), connected to [Patriot 7-Port USB Hub](https://github.com/jdrch/Hardware/blob/master/Consoles.md#usb-hub)
 
-#### Camera
+#### Webcam
 
 [Xbox One Kinect Sensor](https://support.xbox.com/en-US/browse/xbox-one/accessories/Kinect)
 

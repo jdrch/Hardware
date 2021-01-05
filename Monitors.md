@@ -41,7 +41,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 * HDMI, 1920x1200, Left (Primary): [Dell OptiPlex 390 MT (Unit2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#external-monitors)
 * VGA, 1920x1200, Left (Primary): [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#external-monitors)
 
-## [ASUS MB169B+ Portable Monitor](https://www.asus.com/us/Monitors/MB169BPlus/)
+## [ASUS MB169B+](https://www.asus.com/us/Monitors/MB169BPlus/)
 
 ### Connected Devices (Not 24/7/52)
 
@@ -54,7 +54,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 * HDMI, 1920x1080, Left (Primary): [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#external-monitors) (Unit 2)
 * DisplayPort, 3840x2160, Center: [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
 
-## [ViewSonic VG1655 Portable Monitor](https://www.viewsonic.com/us/vg1655.html)
+## [ViewSonic VG1655](https://www.viewsonic.com/us/vg1655.html)
 
 ### Connected Devices (Not 24/7/52)
 

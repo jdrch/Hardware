@@ -5,7 +5,7 @@
 ### Storage
 
 * Internal 1 TB NVMe SSD
-* [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) (SATA 3.0), installed in [StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs]()
+* [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
 
 ### UPS
 
@@ -67,7 +67,7 @@
 ### Storage
 
 * Internal 2 TB HDD
-* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](http://www.farnell.com/datasheets/576433.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
+* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](http://www.farnell.com/datasheets/576433.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock-1))
 
 ### Peripherals
 

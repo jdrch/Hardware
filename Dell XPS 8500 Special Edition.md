@@ -157,6 +157,10 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 [Sony MDR-7506](https://pro.sony/ue_US/products/headphones/mdr-7506)
 External Monitors
 
+## USB Hubs
+
+[Vantec 10-Port USB 3.0 Aluminum Hub](https://www.vantecusa.com/products_detail.php?p_id=243)
+
 # External Monitors
 
 * [Dell UltraSharp U2713HM](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-3)

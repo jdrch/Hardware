@@ -161,6 +161,10 @@ External Monitors
 
 [Vantec 10-Port USB 3.0 Aluminum Hub](https://www.vantecusa.com/products_detail.php?p_id=243)
 
+## Microphones
+
+[Shure MV7 Podcast Microphone](https://www.shure.com/en-US/products/microphones/mv7) mounted on [Samson MBA18](http://www.samsontech.com/samson/products/accessories/microphone-stands/mba18/)
+
 # External Monitors
 
 * [Dell UltraSharp U2713HM](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-3)

@@ -95,7 +95,7 @@ Category 6A, plenum rated
 
 # AIOs
 
-[Brother MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.brother-usa.com/products/mfcj885dw#specification). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.brother-usa.com/products/mfcj885dw#specification)~~ [MFC-L3770CDW](https://www.brother-usa.com/products/mfcl3770cdw) connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
 
 # Smart TV
 

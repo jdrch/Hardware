@@ -63,11 +63,15 @@ An Issue is anything that requires multiple similar steps to fix or implement, e
 
 ### Why are there no Macs?
 
-* Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to used enterprise PCs that work just as well and are more repairable and upgradable
+#### UPDATE: My current plan is to add an M1 Mac Mini sometime in CY 2021.
+
+* ~~Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to~~ used enterprise PCs ~~that~~ work just as well and are more repairable and upgradable. H
 * I'm philosophically opposed to much of Apple's computing vision
 * I [run an open source Unix implementation, OpenIndiana](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
 * macOS' kernel contains code from FreeBSD's kernel, [which I also run](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
-* Apple's move to their own silicon has basically [made buying a Mac financially infeasible](https://www.reddit.com/r/mac/comments/hif6qi/the_apple_silicon_announcement_has_caused_me_to/)
+* ~~Apple's move to their own silicon has basically [made buying a Mac financially infeasible](https://www.reddit.com/r/mac/comments/hif6qi/the_apple_silicon_announcement_has_caused_me_to/)~~
+
+The M1's efficiency and performance finally makes (Apple Silicon) Macs worth their price premium.
 
 ### Did you buy everything new?
 

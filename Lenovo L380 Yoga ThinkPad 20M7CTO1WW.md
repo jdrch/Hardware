@@ -85,7 +85,7 @@ Lenovo.com
 
 # Styluses
 
-[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder]
+[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#pen-holders)
 
 # Accessories
 

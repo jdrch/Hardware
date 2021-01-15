@@ -83,6 +83,10 @@ Lenovo.com
 
 [ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)
 
+# Styluses
+
+[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder]
+
 # Accessories
 
 ## 3rd Party Power Adapter
@@ -93,3 +97,7 @@ Lenovo.com
 
 * [Aqua Quest Monsoon 13'' Laptop Case](http://aquaquestwaterproof.com/products/monsoon-13-laptop-case?variant=12446152360034)
 * Case Logic 16" Laptop Sleeve - Black (Bought in 2009. Can't find exact product listing)
+
+## Pen Holders
+
+[Lenovo ThinkPad Pen holder](https://www.lenovo.com/us/en/accessories-and-monitors/pens-and-supplies/pen-holders/TAB-ACC-BO-ThinkPad-USB-Pen-Holder/p/4X80J67430)

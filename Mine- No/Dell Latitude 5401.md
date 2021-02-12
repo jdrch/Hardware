@@ -39,6 +39,10 @@
 
 [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via Bluetooth and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
 
+## Headset
+
+[Razer Kraken - Black](https://www.razer.com/gaming-headsets/Razer-Kraken/RZ04-02830100-R3U1)
+
 ## Hardware Based Authentication
 
 [Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)

@@ -78,7 +78,7 @@ Client PC
 
 ## Mouse 
 
-[Rosewill ION D10 – 4000 dpi Optical Wired Gaming Mouse](https://www.rosewill.com/product/rosewill-ion-d10-4000-dpi-optical-wired-gaming-mouse/)
+[Dell M-UAV-DEL8 (P/N J66OD) Laser Mouse](https://www.dell.com/support/home/us/en/19/product-support/product/dell-lasr-mouse/docs)
 
 ## Fingerprint Reader
 

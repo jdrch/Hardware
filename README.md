@@ -65,7 +65,7 @@ An Issue is anything that requires multiple similar steps to fix or implement, e
 
 #### UPDATE: My current plan is to add an M1 Mac Mini sometime in CY 2021.
 
-* ~~Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to~~ used enterprise PCs ~~that~~ work just as well and are more repairable and upgradable. H
+* ~~Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to~~ used enterprise PCs ~~that~~ work just as well and are more repairable and upgradable. 
 * I'm philosophically opposed to much of Apple's computing vision
 * I [run an open source Unix implementation, OpenIndiana](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
 * macOS' kernel contains code from FreeBSD's kernel, [which I also run](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)

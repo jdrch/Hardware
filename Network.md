@@ -8,11 +8,11 @@ Mediacom
 
 ## Test Results
 
-* Mediacom
-  * [DSLReports.com](http://www.dslreports.com/speedtest/62405594)
-  * [Mediacom](https://github.com/jdrch/Hardware/blob/master/Mediacom%20Cable%20%20%20Speed%20Test%202019-09-30.png)
+* ~~Mediacom~~
+  * ~~[DSLReports.com](http://www.dslreports.com/speedtest/62405594)~~
+  * ~~[Mediacom](https://github.com/jdrch/Hardware/blob/master/Mediacom%20Cable%20%20%20Speed%20Test%202019-09-30.png)~~
 * MetroNet
-  * [DSLReports.com](https://www.dslreports.com/speedtest/66080581)
+  * [DSLReports.com](http://www.dslreports.com/speedtest/67541877)
   * [Ookla](https://www.speedtest.net/my-result/d/9e87e565-af82-4d93-9805-2c6b8f7d1f40)
   
 # Internet Modem

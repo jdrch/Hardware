@@ -79,13 +79,17 @@ Lenovo.com
 
 [Lenovo ThinkPad Ethernet Extension Cable](https://www.lenovo.com/ca/en/accessories-and-monitors/cables-and-adapters/adapters/CABLE-BO-TP-Ethernet-Ext-Cable/p/4X90F84315)
 
+## Styluses
+
+[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#pen-holders)
+
+## Remotes
+
+[Logitech Spotlight Presntation Remote](https://www.logitech.com/en-us/products/presenters/spotlight-presentation-remote.910-004654.html)
+
 # External Monitors
 
 [ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)
-
-# Styluses
-
-[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#pen-holders)
 
 # Accessories
 

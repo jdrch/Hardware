@@ -85,7 +85,7 @@ Lenovo.com
 
 ## Remotes
 
-[Logitech Spotlight Presentation Remote](https://www.logitech.com/en-us/products/presenters/spotlight-presentation-remote.910-004654.html)
+[Logitech Spotlight Presentation Remote](https://www.logitech.com/en-us/products/presenters/spotlight-presentation-remote.910-004654.html) connected via Bluetooth
 
 # External Monitors
 

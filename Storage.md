@@ -38,6 +38,10 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
 * [Western Digital Ultrastar DC HC550 WUH721818ALE6L4 18 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#backup)
 
+### CFExpress
+
+[Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
+
 ### M.2
 
 #### NVMe
@@ -70,6 +74,10 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 ## Type
 
 ### Consumer
+
+#### CFExpress
+
+Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 
 #### HDD
 
@@ -169,6 +177,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 * Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
 * Seagate Barracuda ST250DM000 250 GB HDD
 * Seagate BarraCuda ST2000LM015 2 TB HDD
+* Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 
 ### Toshiba
 

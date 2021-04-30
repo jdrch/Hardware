@@ -45,17 +45,6 @@ RAIDZ1 zpool backup repository (planned)
 * [StarTech.com LP4SATAFM6IN 6in SATA to LP4 Power Cable Adapter - F/M](https://www.startech.com/Cables/Computer-Power/Internal/6inch-SATA-to-LP4-Power-Cable-Adapter-Female-to-Male~LP4SATAFM6IN), powered by Rocstor Y10C224-B1 SATA Power Splitter Cable (see below)
 * [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://rocstor.com/product-tag/y10c224-b1/)
 
-# Backup
-
-# Filesystem Backup Target
-
-* [Btrfs raid1 with `autodefrag`](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
-* [RAIDZ1 zpool]
-
-## Filesytem Backup Source Applications 
-
-[Time Slider](https://docs.oracle.com/cd/E37838_01/html/E61017/timeslider.html#scrolltoc)
-
 # 24/7/52 Applications
 
 * [SSH](https://www.openssh.com/) (server)

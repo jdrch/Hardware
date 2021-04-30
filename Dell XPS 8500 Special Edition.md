@@ -65,32 +65,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 [Philips/Lite-on PLDS BD-RE DH-8B2SH15B](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=wjcwm) (SATA 3.0) installed in [Vantec NexStar DX](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#enclosures), connected to [Vantec 10-Port USB 3.0 Aluminum Hub](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#usb-hubs)
 
-# Backup
-
-## Device Backup Target Application
-
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell Inspiron 560](https://github.com/jdrch/Hardware/blob/master/Dell%20Inspiron%20560.md)
-
-## Device Backup Source Application
-
-[Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/windows-endpoint-server-backup-free.html)
-
-## Filesystem Versioning
-
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
-* [ShadowExplorer](https://www.shadowexplorer.com/)
-
-## OS Versioning
-
-[System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference)
-
-## Offsite Files Backup
-
-[Duplicati](https://www.duplicati.com/) to OneDrive for [Office 365 Home](https://www.microsoft.com/en-us/p/office-365-home/cfq7ttc0k5dm). Since files are synced among clients using [Resilio Sync Home Pro](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#real-time-p2p-file-sync), only 1 offsite backup client PC is needed
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

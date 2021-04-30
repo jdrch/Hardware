@@ -38,23 +38,7 @@ Client PC
 
 [Seagate BarraCuda ST2000LM015 2 TB SSHD](https://www.seagate.com/www-content/product-content/seagate-laptop-fam/barracuda_25/en-us/docs/100807728a.pdf) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories) (SATA 6.0 Gb/s, ZFS)
 
-# Backup
-
-## Device Backup Target 
-
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md)
-
-## Device Backup Source Application
-
-[Veeam Agent for Linux FREE](https://www.veeam.com/linux-backup-free.html)
-
-## Filesystem & OS Versioning
-
-* [Back In Time](https://github.com/bit-team/backintime) to [Seagate FireCuda ST2000LX001 2 TB SSHD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#zpool)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

@@ -36,28 +36,7 @@ Client PC
 
 [Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-hdd/product-brief-western-digital-wd-blue-mobile-sata-hdd.pdf) (SATA 3.0, NTFS)
 
-# Backup
-
-## Device Backup Target Application
-
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md)
-
-## Device Backup Source Application
-
-[Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/windows-endpoint-server-backup-free.html)
-
-## Filesystem Versioning
-
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
-* [ShadowExplorer](https://www.shadowexplorer.com/)
-
-## OS Versioning
-
-[System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

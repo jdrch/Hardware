@@ -33,15 +33,7 @@ Mini Wi-Fi tablet
 * Onboard: 16 GB eMMC (ext4)
 * Adopted: SanDisk Ultra microSD Class 10 128 GB Card (ext4)
 
-# Backup
-
-## OS
-
-[TWRP](https://dl.twrp.me/klte/) Backup to [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://www.sandisk.com/home/usb-flash/extreme-go-usb)
-
-## Real-time P2P File Sync
-
-[Resilio Sync](https://play.google.com/store/apps/details?id=com.resilio.sync)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

@@ -52,19 +52,7 @@ Adafruit
 
 [Raspberry Pi Universal Power Supply](https://www.raspberrypi.org/products/raspberry-pi-universal-power-supply/)
 
-# Backup
-
-## Device 
-
-[`rpi-clone`](https://github.com/billw2/rpi-clone) [`cron` job](https://github.com/jdrch/Hardware/issues/66) to [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://github.com/jdrch/Hardware/blob/master/Storage.md#microsd) installed in [Kington Technology MobileLite Plus USB 3.2* UHS-II microSD Card Reader](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md#readers)
-
-## Filesystem & OS Versioning
-
-[Restic](https://restic.net/) repositories on NFS share on [RAIDZ1 zpool on Dell OptiPlex 390 MT (Unit 1)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

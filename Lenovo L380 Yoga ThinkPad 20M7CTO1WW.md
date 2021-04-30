@@ -35,28 +35,7 @@ Lenovo.com
 
 [Samsung SSD 970 EVO NVMe M.2 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/) (NVMe, NTFS)
 
-# Backup
-
-## Device Backup Target 
-
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md)
-
-## Device Backup Source Application
-
-[Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/windows-endpoint-server-backup-free.html)
-
-## Filesystem Versioning
-
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
-* [ShadowExplorer](https://www.shadowexplorer.com/)
-
-## OS Versioning
-
-[System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

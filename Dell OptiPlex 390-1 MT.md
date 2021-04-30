@@ -63,28 +63,7 @@ This drive serves as a backup to [Storage Pool](https://github.com/jdrch/Hardwar
 
 [StarTech 4-Port USB 3.1 PCIe Card](https://www.startech.com/Cards-Adapters/USB-3.0/Cards/4-port-usb-3-1-card~PEXUS313AC2V), powered by [Rocstor Y10C224-B1 SATA Power Splitter Cable](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories) installed in PCIe 2.0 x1 slot (SLOT 3)
 
-# Backup
-
-## Device Backup Target 
-
-Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) repository
-
-## Device Backup Source Application
-
-[Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/windows-endpoint-server-backup-free.html)
-
-## Filesystem Versioning
-
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
-* [ShadowExplorer](https://www.shadowexplorer.com/)
-
-## OS Versioning
-
-[System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 ## Storage Pool Backup Application
 

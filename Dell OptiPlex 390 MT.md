@@ -38,6 +38,8 @@ RAIDZ1 zpool backup repository (planned)
 * [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://www.seagate.com/docs/pdf/datasheet/disc/barracuda-7200-12-ds1668-6-1101us.pdf) (SATA 2.0)
 * [Seagate Barracuda ST250DM000 250 GB HDD](https://www.seagate.com/staticfiles/support/docs/manual/desktop/Barracuda%207200.12/100672652b.pdf) (SATA 2.0)
 
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
+
 # Internal Accessories
 
 * [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://www.icydock.com/goods.php?id=165), installed in upper slot of iStarUSA TC-ISTORM7 2x5.25" to 3x3.5" Internal Mounting Cooling Kit with Removable Filter (see below)

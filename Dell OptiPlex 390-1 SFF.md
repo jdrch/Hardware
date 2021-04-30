@@ -46,27 +46,7 @@ Work IT sale
 
 [StarTech 2 Port PCI Express SATA 6 Gbps eSATA Controller Card - Dual Port PCIe SATA III Card - 2 Int/2 Ext](https://www.startech.com/Cards-Adapters/HDD-Controllers/SATA-Cards/2-Port-PCI-Express-SATA-6-Gbps-eSATA-Controller-Card~PEXESAT322I)
 
-# Backup
-
-## Device Backup Target
-
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md)
-
-## Device Backup Source Application
-
-[Veeam Agent for Linux FREE](https://www.veeam.com/linux-backup-free.html)
-
-## Filesystem Versioning
-
-[Restic](https://github.com/restic/restic) to [Btrfs raid1 with `autodefrag`](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
-
-## OS Versioning
-
-Restic to [Btrfs raid1 with `autodefrag`](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

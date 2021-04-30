@@ -36,28 +36,7 @@ Client PC
 
 [Laptop Battery Express SON-VGP-BPS35 Battery for Vaio 14e and 15e Models](https://www.laptopbatteryexpress.com/Sony-VGP-BPS35A-Laptop-Battery-p/son-vgp-bps35.htm) (Laptop shipped with stock Sony battery, which wore out after 6.5 years and was replaced)
 
-# Backup
-
-## Device Backup Target
-
-[Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html) running on [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md)
-
-## Device Backup Source Application
-
-[Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/windows-endpoint-server-backup-free.html)
-
-## Filesystem Versioning
-
-* [Volume Shadow Copy](https://docs.microsoft.com/en-us/windows/win32/vss/volume-shadow-copy-service-overview)
-* [ShadowExplorer](https://www.shadowexplorer.com/)
-
-## OS Versioning
-
-[System Restore](https://docs.microsoft.com/en-us/windows/win32/sr/system-restore-reference)
-
-## Real-time P2P File Sync
-
-[Resilio Sync Home Pro](https://www.resilio.com/individuals/)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

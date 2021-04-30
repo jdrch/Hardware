@@ -46,11 +46,7 @@ THE NEW VERIZON PLAN UNLIMITED
 
 [Spigen Galaxy Note 9 Case Liquid Air](https://www.spigen.com/products/galaxy-note-9-case-liquid-air)
 
-# Backup
-
-## Real-time P2P File Sync
-
-[Resilio Sync](https://play.google.com/store/apps/details?id=com.resilio.sync)
+# [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 
 # 24/7/52 Applications
 

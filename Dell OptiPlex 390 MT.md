@@ -53,6 +53,7 @@ RAIDZ1 zpool backup repository (planned)
 * VNC Server
 * NFS Server
 * NFS Client
+* [znapzend](https://github.com/oetiker/znapzend/)
 
 # Peripherals
 

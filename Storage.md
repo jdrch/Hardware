@@ -9,7 +9,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 #### HDD
 
 * [Western Digital WS20SPZX 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
-* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-1)
+* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
 * [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
 * [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
 * 2 x [Toshiba L200 HDWL120XZSTA 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
@@ -25,12 +25,13 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
 * [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
+* [Samsung 870 EVO SATA 2.5" SSD 2TB](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
 
 ### 3.5 in
 
 * [Seagate BarraCuda Pro ST12000DM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#storage-pool)
 * [Seagate Exos X12 ST12000NM0007 12 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#storage-pool)
-* [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
+* [Western Digital Gold WD101KRYZ 10 TB HDD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-2)
 * [Seagate Barracuda 7200.12 ST3500418AS 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Western Digital Caviar Blue WD2500AAKX 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
 * [Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#raidz1-zpool-planned)
@@ -113,6 +114,7 @@ Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 * Samsung SSD PM830 mSATA 32 GB
 * Samsung 860 EVO mSATA 1 TB SSD
 * Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
+* Samsung 870 EVO SATA 2.5" SSD 2TB
 
 #### USB
 
@@ -160,6 +162,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
 * Samsung SSD PM830 mSATA 32 GB
 * Samsung 860 EVO mSATA 1 TB SSD
+* Samsung 870 EVO SATA 2.5" SSD 2TB
 
 ### SanDisk
 

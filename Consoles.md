@@ -64,7 +64,7 @@
 ### Storage
 
 * Internal 2 TB HDD
-* [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](http://www.farnell.com/datasheets/576433.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock-1))
+* [Western Digital Gold WD101KRYZ 10 TB HDD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/product-brief-wd-gold-2579-810192.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock-1))
 
 ### Peripherals
 

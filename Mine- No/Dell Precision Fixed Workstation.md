@@ -43,3 +43,16 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 ## Wired
 
 [Intel® Ethernet Connection I219-LM](https://ark.intel.com/content/www/us/en/ark/products/82185/intel-ethernet-connection-i219-lm.html)
+
+# Backup
+
+## Folder Backup Source Application
+
+[SyncBack Freeware](https://www.2brightsparks.com/freeware/freeware-hub.html)
+
+# 24/7/52 Applications
+
+* [Beyond Trust Privilege Management](https://www.beyondtrust.com/solutions)
+* [McAfee Endpoint Security](https://www.mcafee.com/enterprise/en-us/products/endpoint-security.html)
+* Skype for Business
+* [WAVES MaxxAudio Pro](https://maxx.com/solutions/maxxaudio-experiences/)

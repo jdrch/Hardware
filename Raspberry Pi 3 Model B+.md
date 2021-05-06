@@ -46,7 +46,7 @@ Adafruit
 
 ## Real Time Clock
 
-[Adafruit PCF8523 Real Time Clock Assembled Breakout Board](https://www.adafruit.com/product/3295)
+[Adafruit PiRTC - PCF8523 Real Time Clock for Raspberry Pi](https://www.adafruit.com/product/3386)
 
 # Power Supply
 

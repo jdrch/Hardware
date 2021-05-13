@@ -12,7 +12,7 @@ Dell.com
 
 # Operating System
 
-[Microsoft Windows Pro 2004 Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
+[Microsoft Windows Pro Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
 
 # Role(s)
 

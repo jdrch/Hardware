@@ -87,7 +87,6 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 * Bluetooth Devices
 * Windows Security
 * Skype
-* [Rumble Network Discovery](https://www.rumble.run/)
 
 # Peripherals
 

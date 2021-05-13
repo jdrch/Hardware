@@ -57,6 +57,7 @@ Work IT sale
 * [Cockpit](https://cockpit-project.org/)
 * NFS kernel server
 * [SSH](https://www.openssh.com/) (server)
+* [Rumble Network Discovery](https://www.rumble.run/)
 
 # Peripherals
 

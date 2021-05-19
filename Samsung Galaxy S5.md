@@ -12,7 +12,7 @@ Verizon Wireless Store
 
 # Operating System
 
-[LineageOS](https://download.lineageos.org/klte) (Android)
+[LineageOS](https://download.lineageos.org/klte) (Android) + [MindTheGapps](https://wiki.lineageos.org/gapps.html)
 
 # Role(s)
 

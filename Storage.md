@@ -12,7 +12,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Western Digital Scorpio Blue WD3200BEVT-00ZCT0 320 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
 * [Hitachi Travelstar 5K250 HTS542525K9SA00 250 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
 * [Hitachi Travelstar 5K320 HTS543212L9A300 120 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#zpool-mirror)
-* 2 x [Toshiba L200 HDWL120XZSTA 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
+* 2x [Toshiba L200 HDWL120XZSTA 2 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#btrfs-raid1-with-autodefrag)
 * [Toshiba MQ01ABF050 500 GB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#stablebit-drivepool)
 * [Western Digital WD10SPZX-24Z10T0 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#user-known-folders)
 * [HGST Travelstar 7K1000 0J22423 1 TB HDD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
@@ -59,7 +59,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://www.bhphotovideo.com/c/product/1132692-REG/sandisk_sdsdquan_200g_a4a_200gb_ultra_uhs_i_microsdxc.html)
 * [SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#bootos--user-folders)
 * [SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#bootos--user-folders)
-* [SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#bootos--user-folders)
+* 2x [SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#bootos--user-folders)
 * [SanDisk Ultra microSD Class 10 128 GB Card](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#bootos--user-folders)
 
 ### mSATA
@@ -102,13 +102,13 @@ Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 * SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)
 * SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card
 * SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card
-* SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
+* 2x SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
 * SanDisk Ultra microSD Class 10 128 GB Card
 
 #### SSD
 
 * Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD
-* 2 x Samsung SSD 860 EVO 2.5" SATA III 1 TB
+* 2x Samsung SSD 860 EVO 2.5" SATA III 1 TB
 * Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
@@ -158,7 +158,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 
 ### Samsung
 
-* 2 x Samsung SSD 860 EVO 2.5" SATA III 1 TB
+* 2x Samsung SSD 860 EVO 2.5" SATA III 1 TB
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
@@ -171,7 +171,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 * SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)
 * SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card
 * SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card
-* SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
+* 2x SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
 * SanDisk Ultra microSD Class 10 128 GB Card
 * 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
 

@@ -69,7 +69,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 ### USB
 
-* 2x [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#os)
+* 2x [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://shop.westerndigital.com/products/usb-flash-drives/sandisk-extreme-go-usb-3-1)
 * [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://www.adata.com/us/specification/204#)
 * [Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB](https://www.kingston.com/datasheets/DT111_us.pdf)
 

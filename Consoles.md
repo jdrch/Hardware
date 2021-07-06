@@ -20,6 +20,10 @@
 * 1 x White
 * 1 x Blue
 
+#### Racing Wheels
+
+[Thrustmaster TMX Force Feedback](http://www.thrustmaster.com/en_US/products/tmx-force-feedback) (Shared with Xbox One S 2 TB)
+
 ##### Batteries
 
 * 2 x [Rocketfish Rechargeable Battery Pack For Xbox Series X | S and Xbox One](https://www.rocketfishproducts.com/pdp/RF-XB1SRBP/6405325)

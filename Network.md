@@ -67,7 +67,7 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 * [NETGEAR GS108LP-100NAS 8-port Gigabit Ethernet Unmanaged PoE/PoE+ Switch](https://www.netgear.com/images/datasheet/switches/GS108LP_GS108PP_GS116LP_GS116PP_DS.pdf)
   * UPS backup: [CyberPower CP1350PFCLCD](https://github.com/jdrch/Hardware/blob/master/UPS.md#battery-backed-up-devices-1)
 
-# MoCA Adapter
+# ~~MoCA Adapter~~
 
 ~~[Hitron HT-EM2](http://www.hitron-americas.com/product/ht-em2/)~~
 

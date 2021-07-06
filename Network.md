@@ -31,9 +31,9 @@ UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/
 
 [Panduit CWPP12WBL](https://www.panduit.com/en/products/copper-systems/patch-panels-accessories/modular-patch-panels/cwpp12wbl.html)
 
-# VoIP Gateway
+# ~~VoIP Gateway~~
 
-[Technicolor CGM4231MDC DOCSIS 3.1 Wireless Residential Gateway with Digital Voice Adapter](https://mediacomcc.custhelp.com/euf/assets/documents/modem%20user%20guides/Technicolor_CGM4231_user_guide.pdf)
+~~[Technicolor CGM4231MDC DOCSIS 3.1 Wireless Residential Gateway with Digital Voice Adapter](https://mediacomcc.custhelp.com/euf/assets/documents/modem%20user%20guides/Technicolor_CGM4231_user_guide.pdf)~~
 
 # Router
 

@@ -120,7 +120,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Fingerprint Reader
 
-[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+~~[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)~~ [Kensington VeriMark™ Desktop Fingerprint Key](https://www.kensington.com/p/products/data-protection/biometric/verimark-desktop-fingerprint-key/)
 
 ## Speakers
 

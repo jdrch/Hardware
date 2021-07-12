@@ -53,3 +53,7 @@ Onboard: 64 GB UFS 2.1 (F2FS)
 
 * [TeamViewer Host](https://www.teamviewer.com/en-us/download/linux/)
 * Resilio Sync
+
+# Stand
+
+Tech Clip Tablet/Phone Stand ([Example product](https://www.deluxe.com/products/promotional/tech-clip-tabletphone-stand/43827/))

@@ -14,7 +14,7 @@ Work IT sale
 
 # Operating System
 
-[FreeBSD 12.1-RELEASE](https://www.freebsd.org/where.html) via [FuryBSD](https://www.furybsd.org/) KDE Plasma flavor installer + latest `pkg` repo
+[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
 
 # Role(s)
 
@@ -33,7 +33,7 @@ Work IT sale
 
 ## Boot/OS & `/home`
 
-[Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/) (onboard SATA 2.0, ZFS) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories)
+[Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/) (onboard SATA 2.0, Btrfs) installed in [Vantec SSD/HDD Aluminum Caddy for 12.7mm ODD Laptop Drive Bay](https://www.vantecusa.com/products_detail.php?p_id=144&p_name=SSD%2FHDD+Aluminum+Caddy+for+12.7mm+ODD+Laptop+Drive+Bay&pc_id=6&pc_name=Converters&pt_id=2&pt_name=Hard+Drive+Accessories)
 
 ## zpool mirror
 
@@ -52,9 +52,6 @@ Work IT sale
 
 * Resilio Sync Home Pro
 * [SSH](https://www.openssh.com/) (server)
-* [Webmin](http://www.webmin.com/index.html)
-* NFS Server
-* NFS Client
 
 # Peripherals
 
@@ -72,8 +69,7 @@ Work IT sale
 
 ## Audio Switch
 
-[SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://www.sescom.com/products/view/product/productslug/ses-ipod-ab-ipod-stereo-audio-mp3-flac-wma-player-ab-switch-35mm-18-). Connected to [Sony Studio Monitors](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#headphones
-) and [Audioengine A2](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#speakers)
+[SESCOM SES-IPOD-AB iPod Stereo Audio MP3 FLAC WMA Player A/B Switch 3.5mm (1/8)](https://www.sescom.com/products/view/product/productslug/ses-ipod-ab-ipod-stereo-audio-mp3-flac-wma-player-ab-switch-35mm-18-). Connected to [Sony Studio Monitors](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#headphones) and [Audioengine A2](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#speakers)
 
 ## Headphones
 

@@ -83,7 +83,6 @@ Maybe. Currently I run OSes and hardware only [IFF](https://en.wikipedia.org/wik
 
 * TrueNAS Core
 * Fedora
-* OpenSUSE
 * Manjaro 
 
 ### What do you use for VMs?

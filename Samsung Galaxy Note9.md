@@ -85,12 +85,18 @@ THE NEW VERIZON PLAN UNLIMITED
 
 [RAM X-Grip Large Phone Mount with RAM-A-CAN II Cup Holder Base](https://www.rammount.com/part/RAP-299-3-UN10U)
 
-## Stand 
+## Stands
 
 ~~Also used with [Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#desk-stand). Constructed from the following components (in ascending order):~~
 
 ~~* [RAM Tripod Base with Ball](https://www.rammount.com/part/RAM-B-205U)~~
 ~~* [RAM Composite Double Socket Arm](https://www.rammount.com/part/RAP-B-201U)~~
 ~~* [RAM X-Grip Large Phone Holder with Ball](https://www.rammount.com/part/RAM-HOL-UN10BU)~~
+
+### [Bed](https://www.reddit.com/r/techsupportmacgyver/comments/l975kd/hands_getting_sore_holding_your_phone_up_in_bed/glgjooq/?utm_source=reddit&utm_medium=web2x&context=3) 
+
+(Shared with other mobile devices)
+
+### Desk
 
 [Lamicall Gooseneck Bed Phone Holder Mount LS05](https://www.lamicall.com/product/gooseneck-bed-phone-holder-mount-ls05/)

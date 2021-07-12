@@ -56,8 +56,10 @@ Mini Wi-Fi tablet
 
 ## Desk Stand 
 
-Also used with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#desk-stand). Constructed from the following components (in ascending order):
+~~Also used with [Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#desk-stand). Constructed from the following components (in ascending order):~~
 
-* [RAM Tripod Base with Ball](https://www.rammount.com/part/RAM-B-205U)
-* [RAM Composite Double Socket Arm](https://www.rammount.com/part/RAP-B-201U)
-* [RAM X-Grip Large Phone Holder with Ball](https://www.rammount.com/part/RAM-HOL-UN10BU)
+~~* [RAM Tripod Base with Ball](https://www.rammount.com/part/RAM-B-205U)~~
+~~* [RAM Composite Double Socket Arm](https://www.rammount.com/part/RAP-B-201U)~~
+~~* [RAM X-Grip Large Phone Holder with Ball](https://www.rammount.com/part/RAM-HOL-UN10BU)~~
+
+Tech Clip Tablet/Phone Stand ([Example product](https://www.deluxe.com/products/promotional/tech-clip-tabletphone-stand/43827/))

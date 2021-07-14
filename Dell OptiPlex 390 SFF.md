@@ -2,7 +2,7 @@
 
 # Model
 
-[Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 1)
+[Dell OptiPlex 390 SFF](https://www.dell.com/support/home/us/en/04/product-support/product/optiplex-390/overview) (Unit 1) ([`hw-probe` results](https://linux-hardware.org/?probe=5e32689c02))
 
 # Purchase Condition
 

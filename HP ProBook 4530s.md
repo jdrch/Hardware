@@ -1,8 +1,6 @@
-[Linux Hardware Database](https://linux-hardware.org/?probe=690892aaa2)
-
 # Model
 
-[HP ProBook 4530s](https://support.hp.com/us-en/product/hp-probook-4530s-notebook-pc/5060880)
+[HP ProBook 4530s](https://support.hp.com/us-en/product/hp-probook-4530s-notebook-pc/5060880) ([`hw-probe` results](https://linux-hardware.org/?probe=603ec2d5c9))
 
 # Purchase Condition
 

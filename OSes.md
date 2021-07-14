@@ -14,14 +14,6 @@
 
 [Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
 
-## BSD
-
-### FreeBSD
-
-#### FuryBSD (installer)
-
-[Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
-
 ## Unix
 
 ### Illumos
@@ -31,6 +23,12 @@
 [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
 
 ## Linux
+
+### openSUSE
+
+#### Tumbleweed
+
+[Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#operating-system)
 
 ### Debian 
 

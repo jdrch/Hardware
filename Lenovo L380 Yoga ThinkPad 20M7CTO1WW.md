@@ -58,13 +58,17 @@ Lenovo.com
 
 [Lenovo ThinkPad Ethernet Extension Cable](https://www.lenovo.com/ca/en/accessories-and-monitors/cables-and-adapters/adapters/CABLE-BO-TP-Ethernet-Ext-Cable/p/4X90F84315)
 
-## Styluses
+## Portable Speakerphones
 
-[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#pen-holders)
+[Jabra Speak 710](https://www.jabra.com/business/speakerphones/jabra-speak-series/jabra-speak-710)
 
 ## Remotes
 
 [Logitech Spotlight Presentation Remote](https://www.logitech.com/en-us/products/presenters/spotlight-presentation-remote.910-004654.html) connected via Bluetooth
+
+## Styluses
+
+[Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#pen-holders)
 
 # External Monitors
 

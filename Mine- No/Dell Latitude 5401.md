@@ -41,7 +41,7 @@
 
 ## Headset
 
-[Razer Kraken - Black](https://www.razer.com/gaming-headsets/Razer-Kraken/RZ04-02830100-R3U1)
+[Plantronics (Poly) 203500-101 Voyager 5200/R, Headset US](https://www.poly.com/us/en/support/knowledge-base/kb-article-page?lang=en_US&urlName=SF23101)
 
 ## Hardware Based Authentication
 

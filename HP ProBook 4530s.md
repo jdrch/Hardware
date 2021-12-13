@@ -1,6 +1,6 @@
 # Model
 
-[HP ProBook 4530s](https://support.hp.com/us-en/product/hp-probook-4530s-notebook-pc/5060880) ([`hw-probe` results](https://linux-hardware.org/?probe=603ec2d5c9))
+[HP ProBook 4530s](https://support.hp.com/us-en/product/hp-probook-4530s-notebook-pc/5060880) ([`hw-probe` results](https://linux-hardware.org/?probe=0003fe091b))
 
 # Purchase Condition
 
@@ -45,3 +45,9 @@ Client PC
 * [Cockpit](https://cockpit-project.org/)
 * [SSH](https://www.openssh.com/) (server)
 * [Wallch](https://sourceforge.net/projects/wall-changer/)
+
+# Peripherals
+
+## Fingerprint Reader
+
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)

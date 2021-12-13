@@ -74,21 +74,32 @@
 
 ### Peripherals
 
+#### Dock
+
+
+
+[Thermaltake BlacX 5G ST0019U ABS Plastic 2.5" & 3.5" Black SATA I/II/III USB 3.0 Docking Station](https://www.newegg.com/thermaltake-st0019u-office-products/p/N82E16817153133R), connected to [Patriot 7-Port USB Hub](https://github.com/jdrch/Hardware/blob/master/Consoles.md#usb-hub)
+
+
+
 #### Headset
 
 [Razer Kraken - Black](https://www.razer.com/gaming-headsets/Razer-Kraken/RZ04-02830100-R3U1)
 
-#### Dock
 
-[Thermaltake BlacX 5G ST0019U ABS Plastic 2.5" & 3.5" Black SATA I/II/III USB 3.0 Docking Station](https://www.newegg.com/thermaltake-st0019u-office-products/p/N82E16817153133R), connected to [Patriot 7-Port USB Hub](https://github.com/jdrch/Hardware/blob/master/Consoles.md#usb-hub)
+
+#### Remote Control
+
+
+
+[Xbox One Media Remote](https://support.xbox.com/en-US/xbox-one/accessories/xbox-one-media-remote-info)
+
+
 
 #### Webcam
 
 [Xbox One Kinect Sensor](https://support.xbox.com/en-US/browse/xbox-one/accessories/Kinect)
 
-#### Remote Control
-
-[Xbox One Media Remote](https://support.xbox.com/en-US/xbox-one/accessories/xbox-one-media-remote-info)
 
 #### USB Hub
 
@@ -100,12 +111,8 @@
 
 #### Xbox Wireless Controllers
 
-
-
 * 2 x [White](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-wireless-controller)
-
 * [Black](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-black-wireless-controller)
-
 * [Blue](https://www.xbox.com/en-US/xbox-one/accessories/controllers/blue-wireless-controller)
 
 

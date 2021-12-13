@@ -14,13 +14,15 @@
 
 ### Peripherals
 
+#### Headset
+
 #### [Xbox Wireless Controllers](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
 * 2 x Black
 * 1 x White
 * 1 x Blue
 
-#### Racing Wheels
+#### Racing Wheel
 
 [Thrustmaster TMX Force Feedback](http://www.thrustmaster.com/en_US/products/tmx-force-feedback) (Shared with Xbox One S 2 TB)
 
@@ -72,11 +74,9 @@
 
 ### Peripherals
 
-#### Xbox Wireless Controllers
+#### Headset
 
-* 2 x [White](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-wireless-controller)
-* [Black](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-black-wireless-controller)
-* [Blue](https://www.xbox.com/en-US/xbox-one/accessories/controllers/blue-wireless-controller)
+[Razer Kraken - Black](https://www.razer.com/gaming-headsets/Razer-Kraken/RZ04-02830100-R3U1)
 
 #### Dock
 
@@ -97,6 +97,18 @@
 #### TV Tuner
 
 [Happauge Digital TV Tuner for Xbox One](https://www.hauppauge.com/pages/products/data_xboxtv.html), connected to [Patriot 7-Port USB Hub](https://github.com/jdrch/Hardware/blob/master/Consoles.md#usb-hub)
+
+#### Xbox Wireless Controllers
+
+
+
+* 2 x [White](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-wireless-controller)
+
+* [Black](https://www.xbox.com/en-US/xbox-one/accessories/controllers/xbox-black-wireless-controller)
+
+* [Blue](https://www.xbox.com/en-US/xbox-one/accessories/controllers/blue-wireless-controller)
+
+
 
 ## Microsoft Xbox 360 
 

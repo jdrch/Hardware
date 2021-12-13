@@ -60,7 +60,7 @@ Lenovo.com
 
 ## Portable Speakerphones
 
-[Jabra Speak 710](https://www.jabra.com/business/speakerphones/jabra-speak-series/jabra-speak-710)
+[Jabra Speak 710](https://www.jabra.com/business/speakerphones/jabra-speak-series/jabra-speak-710) connected via Bluetooth
 
 ## Remotes
 

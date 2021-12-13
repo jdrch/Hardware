@@ -55,13 +55,13 @@ Client PC
 
 # Peripherals
 
-## Mouse 
-
-[Dell M-UAV-DEL8 (P/N J66OD) Laser Mouse](https://www.dell.com/support/home/us/en/19/product-support/product/dell-lasr-mouse/docs)
-
 ## Fingerprint Reader
 
 [Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+
+## Mouse 
+
+[Dell M-UAV-DEL8 (P/N J66OD) Laser Mouse](https://www.dell.com/support/home/us/en/19/product-support/product/dell-lasr-mouse/docs)
 
 ## WLAN
 

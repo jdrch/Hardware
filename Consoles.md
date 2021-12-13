@@ -14,15 +14,9 @@
 
 ### Peripherals
 
-
-
 #### Dock
 
-
-
 [StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/en-us/hdd/sdock2u313)
-
-
 
 #### Headset
 
@@ -30,9 +24,23 @@
 
 #### Racing Wheel
 
-
-
 [Thrustmaster TMX Force Feedback](http://www.thrustmaster.com/en_US/products/tmx-force-feedback) (Shared with Xbox One S 2 TB)
+
+
+
+#### Remote Control
+
+
+
+[PDP Gaming Talon Media Remote](https://www.pdp.com/en/shop/xbox/pdp-gaming-talon-media-remote-xbox)
+
+
+
+#### Webcam
+
+
+
+[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) with [HUYUN The Webcam Privacy Shutter Protects Lens Cap Hood Cover Compatible for Logitech HD Pro Webcam C920 & C930e & C922X C922x Pro](https://www.amazon.com/gp/product/B01N7B8QIS)
 
 
 
@@ -46,14 +54,6 @@
 
 * 2 x [Rocketfish Rechargeable Battery Pack For Xbox Series X | S and Xbox One](https://www.rocketfishproducts.com/pdp/RF-XB1SRBP/6405325)
 * 2 x [Insignia Play & Charge Kit for Xbox Series X | S - Black](https://www.insigniaproducts.com/pdp/NS-XBX9PC/6424527)
-
-#### Remote Control
-
-[PDP Gaming Talon Media Remote](https://www.pdp.com/en/shop/xbox/pdp-gaming-talon-media-remote-xbox)
-
-#### Webcam
-
-[Logitech C922 Pro Stream HD](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) with [HUYUN The Webcam Privacy Shutter Protects Lens Cap Hood Cover Compatible for Logitech HD Pro Webcam C920 & C930e & C922X C922x Pro](https://www.amazon.com/gp/product/B01N7B8QIS)
 
 ## [Sony PlayStation 4 Pro](https://www.playstation.com/en-us/explore/ps4-pro/)
 

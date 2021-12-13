@@ -96,18 +96,24 @@
 
 
 
-#### Webcam
 
-[Xbox One Kinect Sensor](https://support.xbox.com/en-US/browse/xbox-one/accessories/Kinect)
 
+
+#### TV Tuner
+
+[Happauge Digital TV Tuner for Xbox One](https://www.hauppauge.com/pages/products/data_xboxtv.html), connected to [Patriot 7-Port USB Hub](https://github.com/jdrch/Hardware/blob/master/Consoles.md#usb-hub)
 
 #### USB Hub
 
 [Patriot 7-Port USB Hub](https://info.patriotmemory.com/patriot-7-port-usb-hub)
 
-#### TV Tuner
+#### Webcam
 
-[Happauge Digital TV Tuner for Xbox One](https://www.hauppauge.com/pages/products/data_xboxtv.html), connected to [Patriot 7-Port USB Hub](https://github.com/jdrch/Hardware/blob/master/Consoles.md#usb-hub)
+
+
+[Xbox One Kinect Sensor](https://support.xbox.com/en-US/browse/xbox-one/accessories/Kinect)
+
+
 
 #### Xbox Wireless Controllers
 

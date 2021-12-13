@@ -109,4 +109,4 @@ Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.br
 
 # Streaming Player
 
-[Roku Ultra](https://www.roku.com/products/roku-ultra) connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+[Roku Ultra 4670R](https://www.roku.com/products/roku-ultra) connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)

@@ -14,17 +14,33 @@
 
 ### Peripherals
 
+
+
+#### Dock
+
+
+
+[StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/en-us/hdd/sdock2u313)
+
+
+
 #### Headset
+
+[Logitech PRO Gaming Headset with Passive Noise Cancellation](https://www.logitechg.com/en-us/products/gaming-audio/pro-gaming-headset-passive-noise-cancellation.981-000811.html)
+
+#### Racing Wheel
+
+
+
+[Thrustmaster TMX Force Feedback](http://www.thrustmaster.com/en_US/products/tmx-force-feedback) (Shared with Xbox One S 2 TB)
+
+
 
 #### [Xbox Wireless Controllers](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
 * 2 x Black
 * 1 x White
 * 1 x Blue
-
-#### Racing Wheel
-
-[Thrustmaster TMX Force Feedback](http://www.thrustmaster.com/en_US/products/tmx-force-feedback) (Shared with Xbox One S 2 TB)
 
 ##### Batteries
 
@@ -34,10 +50,6 @@
 #### Remote Control
 
 [PDP Gaming Talon Media Remote](https://www.pdp.com/en/shop/xbox/pdp-gaming-talon-media-remote-xbox)
-
-#### Dock
-
-[StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/en-us/hdd/sdock2u313)
 
 #### Webcam
 

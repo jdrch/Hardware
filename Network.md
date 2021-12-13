@@ -99,6 +99,8 @@ Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.br
 
 # Smart TV
 
+## [Sony KD-43X85J X85J 4K HDR LED with Smart Google TV (2021)](https://electronics.sony.com/tv-video/televisions/all-tvs/p/kd43x85j)
+
 ## [TCL 55" Class 6-Series 4K QLED Dolby Vision HDR Roku Smart TV - 55R625](https://www.tclusa.com/products/home-theater/6-series/tcl-55-class-6-series-4k-qled-hdr-roku-smart-tv-55r625)
 
 ### Peripherals
@@ -107,4 +109,4 @@ Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.br
 
 # Streaming Player
 
-[Roku Ultra](https://www.roku.com/products/roku-ultra). Connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+[Roku Ultra](https://www.roku.com/products/roku-ultra) connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)

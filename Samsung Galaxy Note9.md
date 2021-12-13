@@ -73,7 +73,8 @@ THE NEW VERIZON PLAN UNLIMITED
 
 ## Headphones
 
-[SoundPEATS QY8 Wireless](https://www.rtings.com/headphones/reviews/soundpeats/qy8-wireless)
+* [SoundPEATS QY8 Wireless](https://www.rtings.com/headphones/reviews/soundpeats/qy8-wireless)
+* [Jabra Elite 3 (Dark Grey)](https://www.jabra.com/bluetooth-headsets/jabra-elite-3)
 
 # External Monitors
 

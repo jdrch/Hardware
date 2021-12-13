@@ -61,6 +61,10 @@ Work IT sale
 
 # Peripherals
 
+## Fingerprint Reader
+
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+
 ## Mouse & Keyboard
 
 [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo). Connected to [Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bluetooth). Shared with [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#mouse--keyboard) and [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#mouse--keyboad)

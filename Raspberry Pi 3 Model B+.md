@@ -1,6 +1,6 @@
 # Model
 
-[Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
+[Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ([`hw-probe` results](https://linux-hardware.org/?probe=2a3d668b74))
 
 # Purchase Condition
 

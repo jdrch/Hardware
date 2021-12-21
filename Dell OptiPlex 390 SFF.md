@@ -54,6 +54,14 @@ Work IT sale
 
 # Peripherals
 
+## Fingerprint Reader
+
+
+
+[Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
+
+
+
 ## Mouse 
 
 [Logitech Wireless Trackball M570](https://www.logitech.com/en-us/product/wireless-trackball-m570-business?crid=7)

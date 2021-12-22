@@ -53,7 +53,7 @@ Work IT sale
 * [TeamViewer for Linux](https://www.teamviewer.com/en-us/download/linux/)
 * Resilio Sync Home Pro
 * Pi-hole
-* dnscrypt-proxy
+* ~~dnscrypt-proxy~~
 * [Cockpit](https://cockpit-project.org/)
 * NFS kernel server
 * [SSH](https://www.openssh.com/) (server)

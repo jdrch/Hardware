@@ -37,7 +37,7 @@ Dell.com
 
 ## User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Samsung 870 EVO SATA 2.5" SSD 2TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-evo-sata-2-5-ssd-2tb-mz-77e2t0b-am/) (SATA 3.0, NTFS)
+[Samsung 870 EVO SATA 2.5" SSD 4TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-evo-sata-2-5-ssd-4tb-mz-77e4t0b-am/) (SATA 3.0, NTFS)
 
 ## [StableBit DrivePool](https://stablebit.com/DrivePool)
 

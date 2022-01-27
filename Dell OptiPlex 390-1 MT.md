@@ -31,7 +31,7 @@ County sale
 
 ## Boot/OS & User [Known Folders](https://docs.microsoft.com/en-us/windows/win32/shell/known-folders)
 
-[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf) (SATA 2.0, NTFS) installed in lower slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
+~~[Crucial MX500 500GB SATA 2.5" 7mm Internal SSD](https://content.crucial.com/content/dam/crucial/ssd-products/mx500/flyer/crucial-mx500-ssd-productflyer-letter-en.pdf)~~[Samsung 870 EVO SATA 2.5" SSD 2TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-evo-sata-2-5-ssd-2tb-mz-77e2t0b-am/) (SATA 2.0, NTFS) installed in lower slot of [Icy Dock EZ-Fit Lite MB290SP-B Dual 2.5" HDD & SSD Light Weight Mounting Bracket for Internal 3.5" Drive Bay](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#internal-accessories)
 
 ## Storage Pool
 

@@ -25,7 +25,8 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)
 * [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
-* [Samsung 870 EVO SATA 2.5" SSD 2TB](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
+* [Samsung 870 EVO SATA 2.5" SSD 2TB](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#bootos--user-known-folders)
+* [Samsung 870 EVO SATA 2.5" SSD 4TB](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
 
 ### 3.5 in
 
@@ -117,6 +118,7 @@ Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 * Samsung 860 EVO mSATA 1 TB SSD
 * Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
 * Samsung 870 EVO SATA 2.5" SSD 2TB
+* Samsung 870 EVO SATA 2.5" SSD 4TB
 
 #### USB
 
@@ -165,6 +167,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 * Samsung SSD PM830 mSATA 32 GB
 * Samsung 860 EVO mSATA 1 TB SSD
 * Samsung 870 EVO SATA 2.5" SSD 2TB
+* Samsung 870 EVO SATA 2.5" SSD 4TB
 
 ### SanDisk
 

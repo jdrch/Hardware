@@ -30,7 +30,7 @@ Client PC
 
 ## Boot/OS & `/home`
 
-[Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/data-sheet-wd-blue-3d-nand-sata-ssd-2879-800092.pdf) (SATA 6.0 Gb/s, ext4 on LVM)
+[Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://www.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-blue-ssd/product-brief-wd-blue-3d-nand-sata-ssd.pdf) (SATA 6.0 Gb/s, ext4 on LVM)
 
 ## zpool
 

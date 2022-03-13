@@ -58,6 +58,10 @@ Lenovo.com
 
 [Lenovo ThinkPad Ethernet Extension Cable](https://www.lenovo.com/ca/en/accessories-and-monitors/cables-and-adapters/adapters/CABLE-BO-TP-Ethernet-Ext-Cable/p/4X90F84315)
 
+## Mouse
+
+[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#mouse) & [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#mouse)
+
 ## Portable Speakerphones
 
 [Jabra Speak 710](https://www.jabra.com/business/speakerphones/jabra-speak-series/jabra-speak-710) connected via Bluetooth

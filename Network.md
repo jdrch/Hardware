@@ -50,7 +50,7 @@ Pi-hole on [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Del
 # DNS Server(s)
 
 * Pi-hole on Dell OptiPlex 390
-* dnscrypt-proxy on Dell OptiPlex 390
+* `unbound` on Dell OptiPlex 390
 
 # Wireless Access Point
 
@@ -110,3 +110,7 @@ Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.br
 # Streaming Player
 
 [Roku Ultra 4670R](https://www.roku.com/products/roku-ultra) connected to [NETGEAR GS108v4 8-Port Gigabit Unmanaged Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)
+
+# Mobile Hotspot
+
+[Inseego MiFi M2100 5G UW Mobile Hotspot](https://inseego.com/download/datasheet-mifim2100-Verizon.pdf)

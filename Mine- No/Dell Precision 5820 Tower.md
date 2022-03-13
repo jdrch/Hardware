@@ -1,6 +1,6 @@
 # Model
 
-[Dell Precision 5820](https://www.dell.com/support/home/en-us/product-support/product/precision-5820-workstation/docs)
+[Dell Precision 5820 Tower](https://www.dell.com/support/home/en-us/product-support/product/precision-5820-workstation/docs)
 
 # Operating System
 
@@ -66,6 +66,14 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 ## Hardware Based Authentication
 
 [Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)
+
+## Keyboard
+
+Dell Wired Multimedia Keyboard 
+
+## Mouse
+
+[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with Samsung Galaxy Note9 & Lenovo L380 Yoga ThinkPad
 
 # External Monitors
 

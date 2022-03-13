@@ -73,7 +73,7 @@ Dell Wired Multimedia Keyboard
 
 ## Mouse
 
-[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with Samsung Galaxy Note9 & Lenovo L380 Yoga ThinkPad
+[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#mouse) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#mouse)
 
 # External Monitors
 

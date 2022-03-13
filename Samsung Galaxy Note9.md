@@ -65,7 +65,7 @@ THE NEW VERIZON PLAN UNLIMITED
 
 ## Mouse
 
-[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#mouse) & Lenovo L380 Yoga ThinkPad
+[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#mouse) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#mouse)
 
 ## Headset
 

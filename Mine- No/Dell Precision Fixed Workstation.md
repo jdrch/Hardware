@@ -1,6 +1,6 @@
 # Model
 
-[Dell Precision](https://www.dell.com/en-us/work/shop/workstations-isv-certified/sr/workstations/precision-desktops)
+[Dell Precision 5820](https://www.dell.com/support/home/en-us/product-support/product/precision-5820-workstation/docs)
 
 # Operating System
 
@@ -56,3 +56,17 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 * [McAfee Endpoint Security](https://www.mcafee.com/enterprise/en-us/products/endpoint-security.html)
 * Skype for Business
 * [WAVES MaxxAudio Pro](https://maxx.com/solutions/maxxaudio-experiences/)
+
+# Peripherals
+
+## Bluetooth 
+
+[Asus USB-BT500 Bluetooth 5.0 USB Adapter](https://www.asus.com/us/Networking-IoT-Servers/Adapters/All-series/USB-BT500/)
+
+## Hardware Based Authentication
+
+[Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)
+
+# External Monitors
+
+2x[Dell UltraSharp U2412Mb Monitor](https://downloads.dell.com/Manuals/all-products/esuprt_display_projector/esuprt_Display/dell-u2412m_User%27s-Guide_en-us.pdf)

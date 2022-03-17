@@ -105,7 +105,7 @@ Local [Veeam Backup & Replication Community Edition](https://www.veeam.com/virtu
 
 ## Webcam
 
-HP USB - **[REUSED]**
+[HP Webcam HD-2200](https://www.amazon.com/HP-Webcam-HD-2200-BR384AA-ABA/dp/B004UR9P9Q) - **[REUSED]**
 
 ## Fingerprint Reader
 

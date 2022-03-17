@@ -63,7 +63,7 @@ An Issue is anything that requires multiple similar steps to fix or implement, e
 
 ### Why are there no Macs?
 
-#### UPDATE: My current plan is to add an M1 Mac Mini sometime~~ in CY 2021~~.
+### UPDATE: My current plan is to add an M-SoC Mac Mini sometime ~~in CY 2021~~
 
 * ~~Macs have the worst $/specs on the market. Even used Macs are horrifically overpriced compared to~~ used enterprise PCs ~~that~~ work just as well and are more repairable and upgradable. 
 * I'm philosophically opposed to much of Apple's computing vision

@@ -42,6 +42,20 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 [Mount-It Single Monitor Desk Mount | MI-2751](https://mount-it.com/collections/monitor-mounts/products/mount-it-universal-single-monitor-desk-mount-mi-2751)
 
+## [Dell UltraSharp U2412Mb](https://downloads.dell.com/Manuals/all-products/esuprt_display_projector/esuprt_Display/dell-u2412m_User%27s-Guide_en-us.pdf) (Unit 1)
+
+### Connected Devices 
+
+* DisplayPort, 1920x1200, Left: [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#external-monitors)
+* DVI-D, 1920x1080, Right: [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors)
+
+## Dell UltraSharp U2412Mb (Unit 2)
+
+### Connected Devices 
+
+* DisplayPort, 1920x1200, Right (Primary): [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#external-monitors)
+* DVI-D, 1920x1200, Right: [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#external-monitors)
+
 ## [Dell UltraSharp U2713HM](https://www.dell.com/support/home/us/en/04/product-support/product/dell-u2713hm/docs)
 
 ### Connected Devices 

@@ -86,4 +86,5 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 
 # External Monitors
 
-2x[Dell UltraSharp U2412Mb Monitor](https://downloads.dell.com/Manuals/all-products/esuprt_display_projector/esuprt_Display/dell-u2412m_User%27s-Guide_en-us.pdf)
+* [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-3) (Unit 1)
+* [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-4) (Unit 2)

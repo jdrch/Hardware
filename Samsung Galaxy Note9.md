@@ -57,7 +57,7 @@ Verizon
 
 ## USB-C Adapter
 
-[Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to left [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) DVI-D port via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter]
+[Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to left [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) DVI-D port via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter](https://www.cableleader.com/hdmi-female-to-dvi-d-male-adapter.html)
 
 ## Keyboard 
 

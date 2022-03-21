@@ -114,3 +114,11 @@ Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.br
 # Mobile Hotspot
 
 [Inseego MiFi M2100 5G UW Mobile Hotspot](https://inseego.com/download/datasheet-mifim2100-Verizon.pdf)
+
+## Carrier
+
+Verizon
+
+## Plan
+
+[Essential](https://www.verizon.com/plans/devices/hotspots/)

@@ -78,7 +78,7 @@ Verizon
 
 # External Monitors
 
-[Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#external-monitors)
+[Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-3)
 
 # Accessories
 

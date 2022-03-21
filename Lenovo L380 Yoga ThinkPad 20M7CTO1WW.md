@@ -81,7 +81,7 @@ Lenovo.com
 # External Monitors
 
 * [ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)
-* [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#external-monitors) connected via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter](https://www.cableleader.com/hdmi-female-to-dvi-d-male-adapter.html)
+* [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-4) connected via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter](https://www.cableleader.com/hdmi-female-to-dvi-d-male-adapter.html)
 
 # Accessories
 

@@ -67,9 +67,14 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 
 [Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)
 
+## Headset
+
+[Jabra Elite 3 (Navy)](https://www.jabra.com/bluetooth-headsets/jabra-elite-3)
+
 ## Keyboard
 
-Dell Wired Multimedia Keyboard 
+* ~~Dell Wired Multimedia Keyboard ~~
+* [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#keyboard) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#keyboard)
 
 ## Mouse
 

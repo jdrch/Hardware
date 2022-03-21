@@ -16,7 +16,7 @@ Verizon
 
 # Carrier Plan
 
-THE NEW VERIZON PLAN UNLIMITED
+[5G Play More](https://www.verizon.com/plans/unlimited/)
 
 # Operating System
 
@@ -50,18 +50,18 @@ THE NEW VERIZON PLAN UNLIMITED
 
 # 24/7/52 Applications
 
-* [TeamViewer Host](https://www.teamviewer.com/en-us/download/linux/)
+* ~~[TeamViewer Host](https://www.teamviewer.com/en-us/download/linux/)~~
 * Resilio Sync
 
 # Peripherals
 
 ## USB-C Adapter
 
-[Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to [ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) HDMI port
+[Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/). Connected to left [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) DVI-D port via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter]
 
 ## Keyboard 
 
-[Microsoft Keyboard Elite for Bluetooth](https://www.cnet.com/products/microsoft-wireless-optical-desktop-elite-for-bluetooth-2-0-keyboard-and-mouse-set-series/)
+[Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#keyboard) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#keyboard)
 
 ## Mouse
 
@@ -78,7 +78,7 @@ THE NEW VERIZON PLAN UNLIMITED
 
 # External Monitors
 
-~~[ASUS ProArt PA248Q](https://github.com/jdrch/Hardware/blob/master/Monitors.md#asus-proart-pa248q)~~
+[Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#external-monitors)
 
 # Accessories
 
@@ -88,11 +88,12 @@ THE NEW VERIZON PLAN UNLIMITED
 
 ## Stands
 
-~~Also used with [Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#desk-stand). Constructed from the following components (in ascending order):~~
+### Cube
+~~Also used with [Samsung Galaxy S5](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#desk-stand).~~ Constructed from the following components (in ascending order):
 
-~~* [RAM Tripod Base with Ball](https://www.rammount.com/part/RAM-B-205U)~~
-~~* [RAM Composite Double Socket Arm](https://www.rammount.com/part/RAP-B-201U)~~
-~~* [RAM X-Grip Large Phone Holder with Ball](https://www.rammount.com/part/RAM-HOL-UN10BU)~~
+* [RAM Tripod Base with Ball](https://www.rammount.com/part/RAM-B-205U)
+* [RAM Composite Double Socket Arm](https://www.rammount.com/part/RAP-B-201U)
+* [RAM X-Grip Large Phone Holder with Ball](https://www.rammount.com/part/RAM-HOL-UN10BU)
 
 ### [Bed](https://www.reddit.com/r/techsupportmacgyver/comments/l975kd/hands_getting_sore_holding_your_phone_up_in_bed/glgjooq/?utm_source=reddit&utm_medium=web2x&context=3) 
 

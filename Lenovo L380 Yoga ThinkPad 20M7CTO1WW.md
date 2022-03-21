@@ -58,6 +58,10 @@ Lenovo.com
 
 [Lenovo ThinkPad Ethernet Extension Cable](https://www.lenovo.com/ca/en/accessories-and-monitors/cables-and-adapters/adapters/CABLE-BO-TP-Ethernet-Ext-Cable/p/4X90F84315)
 
+## Keyboard
+
+[Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#keyboard) & [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#keyboard)
+
 ## Mouse
 
 [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#mouse) & [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#mouse)
@@ -76,7 +80,8 @@ Lenovo.com
 
 # External Monitors
 
-[ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)
+* [ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)
+* [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#external-monitors) connected via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter](https://www.cableleader.com/hdmi-female-to-dvi-d-male-adapter.html)
 
 # Accessories
 

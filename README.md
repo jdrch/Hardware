@@ -1,6 +1,10 @@
 # Hardware
 
-This repository is intended to be a list of my machines, their components, roles, and what runs on them.
+This repository is intended to be a list of my machines, their components, roles, and what runs on them. The motivations for this are:
+
+1. The information in this repo is too large to be kept solely in my memory
+2. It allows for easy sharing of config information online for troubleshooting purposes
+3. Following from 2) above, it prevents me from having to post the same information multiple times, as I need only to link back to the repo
 
 ## Mission Statement
 

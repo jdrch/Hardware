@@ -12,7 +12,8 @@
 
 ### Samsung One UI
 
-[Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
+* [Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#operating-system)
+* [Samsung Galaxy Tab S7 11.0" SM-T870](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Tab%20S7%20SM-T870NZKEXAR.md#operating-system)
 
 ## Unix
 

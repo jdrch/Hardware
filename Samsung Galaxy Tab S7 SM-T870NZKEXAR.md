@@ -42,3 +42,9 @@ Wi-Fi tablet
 # 24/7/52 Applications
 
 Resilio Sync
+
+# Peripherals
+
+## TV Tuner
+
+[MyGica PT682C ATSC Tuner](https://www.mygica.com/product/atsc-tuner/)

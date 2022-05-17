@@ -58,7 +58,7 @@ Verizon
 ## USB-C Adapters
 
 * [Samsung Multi-Port USB-C Adapter, Black](https://www.samsung.com/us/mobile/mobile-accessories/phones/multi-port-usb-c-adapter--black-ee-p5000bbegww/) connected to left [Dell UltraSharp U2412Mb](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#external-monitors) DVI-D port via [Monoprice 8K No Logo Ultra High Speed HDMI Cable, 48Gbps, 6ft, Black](https://www.monoprice.com/product?p_id=42077) & [Cable Leader HM201-130A HDMI Female to DVI-D Male Adapter](https://www.cableleader.com/hdmi-female-to-dvi-d-male-adapter.html)
-* [Anker 543 USB-C Hub (6-in-1, Slim)](https://us.anker.com/collections/hubs/products/a8365) connected to [MyGica PT682C ATSC Tuner]()
+* [Anker 543 USB-C Hub (6-in-1, Slim)](https://us.anker.com/collections/hubs/products/a8365) connected to [MyGica PT682C ATSC Tuner](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#tv-tuner)
 
 ## Keyboard 
 
@@ -79,7 +79,7 @@ Verizon
 
 ## TV Tuner
 
-[MyGica PT682C ATSC Tuner](https://www.mygica.com/product/atsc-tuner/), shared with Google Pixel 3 XL & Samsung Galaxy Tab S7 11.0" SM-T870
+[MyGica PT682C ATSC Tuner](https://www.mygica.com/product/atsc-tuner/)
 
 # External Monitors
 

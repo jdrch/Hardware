@@ -62,7 +62,7 @@ Onboard: 64 GB UFS 2.1 (F2FS)
 
 ## USB-C Adapter
 
-[Anker 543 USB-C Hub (6-in-1, Slim)](https://us.anker.com/collections/hubs/products/a8365) connected to [MyGica PT682C ATSC Tuner](https://github.com/jdrch/Hardware/blob/master/Google%20Plixel%203%20XL.md#tv-tuner)
+[Anker 543 USB-C Hub (6-in-1, Slim)](https://us.anker.com/collections/hubs/products/a8365) connected to [MyGica PT682C ATSC Tuner](https://github.com/jdrch/Hardware/blob/master/Google%20Pixel%203%20XL.md#tv-tuner)
 
 # Accessories
 

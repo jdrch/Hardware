@@ -78,6 +78,10 @@ Lenovo.com
 
 [Wacom Bamboo Ink](https://www.wacom.com/en-us/products/stylus/bamboo-ink) stored in [Lenovo ThinkPad Pen holder](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#pen-holders)
 
+## TV Tuner
+
+[Hauppauge WinTV-HVR-955Q Model 1191 Hybrid (ATSC/NTSC/QAM) TV tuner](https://hauppauge.com/pages/products/data_hvr955q.html)
+
 # External Monitors
 
 * [ASUS MB169B+ Portable monitor](https://github.com/jdrch/Hardware/blob/master/Monitors.md#connected-devices-not-24752)

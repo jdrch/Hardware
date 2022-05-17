@@ -54,6 +54,18 @@ Onboard: 64 GB UFS 2.1 (F2FS)
 * [TeamViewer Host](https://www.teamviewer.com/en-us/download/linux/)
 * Resilio Sync
 
-# Stand
+# Peripherals
+
+## TV Tuner
+
+[MyGica PT682C ATSC Tuner](https://www.mygica.com/product/atsc-tuner/)
+
+## USB-C Adapter
+
+[Anker 543 USB-C Hub (6-in-1, Slim)](https://us.anker.com/collections/hubs/products/a8365) connected to [MyGica PT682C ATSC Tuner](https://github.com/jdrch/Hardware/blob/master/Google%20Plixel%203%20XL.md#tv-tuner)
+
+# Accessories
+
+## Stand
 
 Tech Clip Tablet/Phone Stand ([Example product](https://www.deluxe.com/products/promotional/tech-clip-tabletphone-stand/43827/))

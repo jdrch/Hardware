@@ -34,7 +34,7 @@ Adafruit
 
 ## `rpi-clone` Backup Target
 
-[SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/extreme-uhs-i-microsd/data-sheet-extreme-uhs-i-microsd.pdf) installed in 
+[SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/extreme-uhs-i-microsd/data-sheet-extreme-uhs-i-microsd.pdf) installed in [Kington Technology MobileLite Plus USB 3.2* UHS-II microSD Card Reader](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md#readers)
 
 # Case
 

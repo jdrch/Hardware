@@ -58,7 +58,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 ### MicroSD
 
 * [SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://www.bhphotovideo.com/c/product/1132692-REG/sandisk_sdsdquan_200g_a4a_200gb_ultra_uhs_i_microsdxc.html)
-* [SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#bootos--user-folders)
+* ~~[SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#bootos--user-folders)~~
 * [SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#bootos--user-folders)
 * 2x [SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#bootos--user-folders)
 * [SanDisk Ultra microSD Class 10 128 GB Card](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#bootos--user-folders)
@@ -101,7 +101,7 @@ Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 #### MicroSD
 
 * SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)
-* SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card
+* ~~SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card~~
 * SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card
 * 2x SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
 * SanDisk Ultra microSD Class 10 128 GB Card
@@ -172,7 +172,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 ### SanDisk
 
 * SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)
-* SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card
+* ~~SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card~~
 * SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card
 * 2x SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
 * SanDisk Ultra microSD Class 10 128 GB Card

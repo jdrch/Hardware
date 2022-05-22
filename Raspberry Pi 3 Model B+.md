@@ -30,7 +30,11 @@ Adafruit
 
 ## Boot/OS & User Folders
 
-[SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card](https://www.newegg.com/sandisk-32gb-microsdhc/p/N82E16820173122?Item=N82E16820173122) (ext4)
+[SanDisk 200GB Ultra UHS-I microSDXC Memory Card (Class 10)](https://www.bhphotovideo.com/c/product/1132692-REG/sandisk_sdsdquan_200g_a4a_200gb_ultra_uhs_i_microsdxc.html)
+
+## `rpi-clone` Backup Target
+
+[SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/extreme-uhs-i-microsd/data-sheet-extreme-uhs-i-microsd.pdf) installed in 
 
 # Case
 

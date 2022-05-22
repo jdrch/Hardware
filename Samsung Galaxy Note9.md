@@ -40,7 +40,7 @@ Verizon
 ## Boot/OS & User Folders
 
 * Onboard: 512 GB [UFS 2.1](https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_9#Specifications) (ext4)
-* Portable: ~~[SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/ultra-uhs-i-microsd/data-sheet-ultra-uhs-i-microsd.pdf)~~ [SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/extreme-uhs-i-microsd/data-sheet-extreme-uhs-i-microsd.pdf) (exFAT?)
+* Portable: [SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD](https://shop.westerndigital.com/tools/documentRequestHandler?docPath=/content/dam/doc-library/en_us/assets/public/sandisk/product/memory-cards/extreme-uhs-i-microsd/data-sheet-extreme-uhs-i-microsd.pdf) (exFAT?)
 
 # Case
 

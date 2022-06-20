@@ -30,8 +30,13 @@ Mini Wi-Fi tablet
 
 ## Boot/OS & User Folders
 
-* Onboard: 16 GB eMMC (ext4)
-* Adopted: SanDisk Ultra microSD Class 10 128 GB Card (ext4)
+### Onboard
+
+16 GB eMMC (ext4)
+
+### Adopted
+
+~~SanDisk Ultra microSD Class 10 128 GB Card (ext4)~~ [SanDisk SDSQUB3-128G-GN6MA Ultra Plus microSDXC UHS-I 128 GB Card](https://www.jbeducation.com.au/product/SanDisk-Ultra-Plus-microSDXC-128GB-130MB-s-Memory-Card/45136/model/46118) (ext4)
 
 # [Backup](https://github.com/jdrch/Hardware/wiki/Mixed-Environment-Multilevel-Backup)
 

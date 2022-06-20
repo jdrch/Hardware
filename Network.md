@@ -1,3 +1,7 @@
+# Cable Tester
+
+[Klein Cable Tester Kit with Scout ® Pro 3 Tester, Remotes, Adapter, Battery](https://www.kleintools.com/catalog/cable-length-measurement/cable-tester-kit-scout-pro-3-tester-remotes-adapter-battery)
+
 # ISP
 
 ~~Mediacom~~ MetroNet

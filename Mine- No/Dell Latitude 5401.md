@@ -41,7 +41,7 @@
 
 ## Headset
 
-[Plantronics (Poly) 203500-101 Voyager 5200/R, Headset US](https://www.poly.com/us/en/support/knowledge-base/kb-article-page?lang=en_US&urlName=SF23101)
+[Plantronics (Poly) 203500-101 Voyager 5200/R, Headset US](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200)
 
 ## Hardware Based Authentication
 

@@ -69,7 +69,7 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 
 ## Hardware Based Authentication
 
-[Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)
+~~[Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)~~
 
 ## Headset
 

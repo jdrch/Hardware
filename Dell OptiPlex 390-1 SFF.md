@@ -63,11 +63,11 @@ Work IT sale
 
 ## Keyboard
 
-~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected to [Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bluetooth) shared with [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#keyboard) and [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#keyboard)
+~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected to [Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bluetooth) & shared with [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#keyboard) and [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#keyboard)
 
 ## Mouse
 
-[Logitech MX Master 3S - Black](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html) connected to [Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bluetooth) shared with [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#mouse) and [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#mouse)
+[Logitech MX Master 3S - Black](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html) connected to [Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bluetooth) & shared with [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#mouse) and [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#mouse)
 
 ## Webcam
 
@@ -79,7 +79,7 @@ Work IT sale
 
 ## Bluetooth
 
-[Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://www.tripplite.com/mini-bluetooth-4.0-class-1-usb-adapter~U261001BT4). Connects to the [Logitech MK850 Performance](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse--keyboard)
+[Tripp Lite Mini Bluetooth 4.0 (Class 1) USB Adapter](https://www.tripplite.com/mini-bluetooth-4.0-class-1-usb-adapter~U261001BT4)
 
 # External Monitors
 

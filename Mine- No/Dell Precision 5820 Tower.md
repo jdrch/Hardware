@@ -54,6 +54,7 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 
 * [BeyondTrust Privilege Management](https://www.beyondtrust.com/docs/privilege-management/index.htm)
 * [BeyondTrust Remote Support Jump Client](https://www.beyondtrust.com/remote-support/features/jump-clients-remote-access)
+* Bluetooth Devices
 * [CyberArk Endpoint Privilege Manager](https://www.cyberark.com/resources/product-datasheets/cyberark-endpoint-privilege-manager)
 * [Dameware Mini Remote Control Server](https://www.dameware.com/dameware-mini-remote-control)
 * [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)

@@ -4,11 +4,11 @@
 
 # Operating Systems
 
-[Microsoft Windows Enterprise 2004 Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
+[Microsoft Windows Enterprise 20H2 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
 
 # Role(s)
 
-[Palo Alto Networks GlobalProtect](https://www.paloaltonetworks.com/resources/datasheets/globalprotect-datasheet) client
+Laptop
 
 # CPU
 
@@ -26,26 +26,35 @@
 
 # 24/7/52 Applications
 
-* [Dell PointStick](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=05v44)
-* [McAfee Endpoint Security](https://www.mcafee.com/enterprise/en-us/products/endpoint-security.html)
+* [BeyondTrust Privilege Management](https://www.beyondtrust.com/docs/privilege-management/index.htm)
+* [BeyondTrust Remote Support Jump Client](https://www.beyondtrust.com/remote-support/features/jump-clients-remote-access)
 * Bluetooth Devices
-* Palo Alto Networks GlobalProtect
-* Skype for Business
-* [Dameware Mini Remote Control](https://www.dameware.com/dameware-mini-remote-control)
+* [CyberArk Endpoint Privilege Manager](https://www.cyberark.com/resources/product-datasheets/cyberark-endpoint-privilege-manager)
+* [Dameware Mini Remote Control Server](https://www.dameware.com/dameware-mini-remote-control)
+* [Dell PointStick](https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=05v44)
+* [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+* [Trend Micro Security Agent](https://docs.trendmicro.com/en-us/smb/worry-free-business-security-services-agent-help-58/about/about-security-agent.aspx)
+* [Zscaler Client Connector](https://www.zscaler.com/platform/zscaler-client-connector)
 
 # Peripherals
 
-## Mouse & Keyboard
+## Keyboard
 
-[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via Bluetooth and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
+* ~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected via Bluetooth and shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
+* [Logitech K380 Multi-device Bluetooth Keyboard](https://www.logitech.com/en-us/products/keyboards/k380-multi-device.920-007558.html) connected via Bluetooth & shared with Apple iPhone SE 3rd Generation
 
 ## Headset
 
-[Plantronics (Poly) 203500-101 Voyager 5200/R, Headset US](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200)
+~~[Plantronics (Poly) 203500-101 Voyager 5200/R, Headset US](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200)~~
 
 ## Hardware Based Authentication
 
-[Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)
+~~[Yubico YubiKey 5 NFC](https://www.yubico.com/product/yubikey-5-nfc)~~
+
+## Mouse
+
+
 
 # External Monitors
 

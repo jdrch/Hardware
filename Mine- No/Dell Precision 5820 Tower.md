@@ -79,7 +79,7 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 ## Keyboard
 
 * ~~Dell Wired Multimedia Keyboard~~
-* [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#keyboard) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#keyboard)
+* [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) connected to [Asus USB-BT500 Bluetooth 5.0 USB Adapter](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#bluetooth) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#keyboard) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#keyboard)
 
 ## Mouse
 

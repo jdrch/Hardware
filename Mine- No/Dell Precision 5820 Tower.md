@@ -4,7 +4,7 @@
 
 # Operating System
 
-[Microsoft Windows Enterprise 2004 Semi-Annual Channel 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
+[Microsoft Windows Enterprise 20H2 64-bit](https://docs.microsoft.com/en-us/windows/release-information/)
 
 # Role(s)
 
@@ -52,10 +52,14 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 
 # 24/7/52 Applications
 
-* [Beyond Trust Privilege Management](https://www.beyondtrust.com/solutions)
-* [McAfee Endpoint Security](https://www.mcafee.com/enterprise/en-us/products/endpoint-security.html)
-* Skype for Business
-* [WAVES MaxxAudio Pro](https://maxx.com/solutions/maxxaudio-experiences/)
+* [BeyondTrust Privilege Management](https://www.beyondtrust.com/docs/privilege-management/index.htm)
+* [BeyondTrust Remote Support Jump Client](https://www.beyondtrust.com/remote-support/features/jump-clients-remote-access)
+* [CyberArk Endpoint Privilege Manager](https://www.cyberark.com/resources/product-datasheets/cyberark-endpoint-privilege-manager)
+* [Dameware Mini Remote Control Server](https://www.dameware.com/dameware-mini-remote-control)
+* [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+* [Trend Micro Security Agent](https://docs.trendmicro.com/en-us/smb/worry-free-business-security-services-agent-help-58/about/about-security-agent.aspx)
+* [Zscaler Client Connector](https://www.zscaler.com/platform/zscaler-client-connector)
 
 # Peripherals
 
@@ -79,6 +83,10 @@ AVAGO MR9440-8i [Broadcom MegaRAID 9440-8i](https://www.broadcom.com/products/st
 ## Mouse
 
 [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#mouse) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#mouse)
+
+## Proprietary Wireless
+
+[Logitech USB Unifying Receiver](https://www.logitech.com/en-us/products/mice/unifying-receiver-usb.910-005235.html)
 
 ## Webcam
 

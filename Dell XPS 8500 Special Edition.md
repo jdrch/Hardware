@@ -96,11 +96,11 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 ## Keyboard
 
-~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected to [Logitech Logi Bolt USB Receiver](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#receiver) shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#keyboard) & [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#keyboard)
+~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected to [Logitech Logi Bolt USB Receiver](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#receiver) & shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#keyboard) & [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#keyboard)
 
 ## Mouse
 
-[Logitech MX Master 3S - Black](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html) connected to [Logitech Logi Bolt USB Receiver](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#receiver) shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse) & [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#mouse)
+[Logitech MX Master 3S - Black](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html) connected to [Logitech Logi Bolt USB Receiver](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#receiver) & shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#mouse) & [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#mouse)
 
 ## Enclosures
 

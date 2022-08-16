@@ -73,6 +73,9 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * 2x [SanDisk Extreme Go USB 3.1 Flash Drive 128 GB](https://shop.westerndigital.com/products/usb-flash-drives/sandisk-extreme-go-usb-3-1)
 * [ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive](https://www.adata.com/us/specification/204#)
 * [Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB](https://www.kingston.com/datasheets/DT111_us.pdf)
+* [Kingston DataTraveler Max USB 3.2 Gen 2 Series Flash Drive 1 TB](https://www.kingston.com/en/usb-flash-drives/datatraveler-max?capacity=1tb&connector=usb-a)
+* 6x [Kingston DataTraveler® Generation 4 Flash Drive 8 GB](https://www.kingston.com/datasheets/DTIG4_us.pdf)
+* [SanDisk SDCZ2-256 256 MB Flash Drive](https://www.newegg.com/sandisk-model-sdcz2-256-a10-256mb/p/N82E16820155415)
 
 ## Type
 
@@ -125,6 +128,9 @@ Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 * 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
 * ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
+* Kingston DataTraveler Max USB 3.2 Gen 2 Series Flash Drive 1 TB
+* 6x Kingston DataTraveler® Generation 4 Flash Drive 8 GB
+* SanDisk SDCZ2-256 256 MB Flash Drive
 
 ### Prosumer
 
@@ -156,7 +162,9 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 
 ### Kingston
 
-Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
+* Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
+* Kingston DataTraveler Max USB 3.2 Gen 2 Series Flash Drive 1 TB
+* 6x Kingston DataTraveler® Generation 4 Flash Drive 8 GB
 
 ### Samsung
 
@@ -177,6 +185,7 @@ Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB
 * 2x SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD
 * ~~SanDisk Ultra microSD Class 10 128 GB Card~~ SanDisk SDSQUB3-128G-GN6MA Ultra Plus microSDXC UHS-I 128 GB Card
 * 2x SanDisk Extreme Go USB 3.1 Flash Drive 128 GB
+* SanDisk SDCZ2-256 256 MB Flash Drive
 
 ### Seagate
 

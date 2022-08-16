@@ -56,11 +56,7 @@ Work IT sale
 
 ## Fingerprint Reader
 
-
-
 [Kensington VeriMark Fingerprint Key](https://www.kensington.com/p/products/security/biometric/verimark-fingerprint-key-fido-u2f-for-universal-2nd-factor-authentication-windows-hello/)
-
-
 
 ## Mouse 
 
@@ -68,7 +64,7 @@ Work IT sale
 
 ## Keyboard
 
-[Dell XD31 Wired USB Multimedia Keyboard](https://pcpartpicker.com/product/Zrw7YJ/dell-xd31w-wired-usb-multimedia-keyboard)
+~~[Dell XD31 Wired USB Multimedia Keyboard](https://pcpartpicker.com/product/Zrw7YJ/dell-xd31w-wired-usb-multimedia-keyboard)~~ [Logitech K845 Mechanical Illuminated (RED / K845: 920-009859)](https://www.logitech.com/en-us/products/keyboards/k845-mechanical-illuminated.html)
 
 ## UPS
 

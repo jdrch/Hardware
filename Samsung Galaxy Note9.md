@@ -62,11 +62,13 @@ Verizon
 
 ## Keyboard 
 
-[Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#keyboard) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#keyboard)
+* [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html) + [Logitech MX Palm Rest](https://www.logitech.com/en-us/products/keyboards/mx-palm-rest.956-000001.html) & shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#keyboard) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#keyboard)
+* [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via Bluetooth & shared with [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md#keyboard)
 
 ## Mouse
 
-[Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#mouse) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#mouse)
+* [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) connected via Bluetooth & shared with [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md#mouse) & [Lenovo L380 Yoga ThinkPad](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#mouse)
+* [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) connected via Bluetooth & shared with [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md#mouse)
 
 ## Headset
 

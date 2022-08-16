@@ -105,6 +105,10 @@ Brother ~~[MFCJ885DW Compact & Easy to Connect Inkjet All-in-One](https://www.br
 
 ## [Sony KD-43X85J X85J 4K HDR LED with Smart Google TV (2021)](https://electronics.sony.com/tv-video/televisions/all-tvs/p/kd43x85j)
 
+### Peripherals
+
+[Kingston DataTraveler 111 (DT111) USB Flash Drive 32 GB](https://github.com/jdrch/Hardware/blob/master/Storage.md#usb)
+
 ## [TCL 55" Class 6-Series 4K QLED Dolby Vision HDR Roku Smart TV - 55R625](https://www.tclusa.com/products/home-theater/6-series/tcl-55-class-6-series-4k-qled-hdr-roku-smart-tv-55r625)
 
 ### Peripherals

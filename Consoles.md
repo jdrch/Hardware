@@ -18,6 +18,10 @@
 
 [StarTech.com USB 3.1 (10Gbps) Dual-Bay Dock for 2.5"/3.5" SATA SSD/HDDs](https://www.startech.com/en-us/hdd/sdock2u313)
 
+#### Mouse
+
+[SteelSeries Rival 3](https://steelseries.com/gaming-mice/rival-3)
+
 #### Headset
 
 [Logitech PRO Gaming Headset with Passive Noise Cancellation](https://www.logitechg.com/en-us/products/gaming-audio/pro-gaming-headset-passive-noise-cancellation.981-000811.html)
@@ -98,13 +102,20 @@
 
 [Razer Kraken - Black](https://www.razer.com/gaming-headsets/Razer-Kraken/RZ04-02830100-R3U1)
 
+#### Keyboard
 
+[Dell XD31 Wired USB Multimedia Keyboard](https://pcpartpicker.com/product/Zrw7YJ/dell-xd31w-wired-usb-multimedia-keyboard)
+
+#### Mouse
+
+[Kensington Orbit® Trackball with Scroll Ring](https://www.kensington.com/p/products/electronic-control-solutions/trackball-products/orbit-trackball-with-scroll-ring/)
 
 #### Remote Control
 
 
 
-[Xbox One Media Remote](https://support.xbox.com/en-US/xbox-one/accessories/xbox-one-media-remote-info)
+* [Xbox One Media Remote](https://support.xbox.com/en-US/xbox-one/accessories/xbox-one-media-remote-info)
+* [PDP Gaming Talon Media Remote](https://www.pdp.com/en/shop/xbox/pdp-gaming-talon-media-remote-xbox)
 
 
 

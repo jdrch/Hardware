@@ -40,7 +40,7 @@ Laptop
 
 ## Keyboard
 
-* ~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected via Bluetooth & shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#keyboard) and [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
+* ~~[Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo)~~ [Logitech MX Mechanical - Linear](https://www.logitech.com/en-us/products/keyboards/mx-mechanical.920-010548.html) connected via Bluetooth & shared with [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#keyboard) & [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md)
 * [Logitech K380 Multi-device Bluetooth Keyboard](https://www.logitech.com/en-us/products/keyboards/k380-multi-device.920-007558.html) connected via Bluetooth & shared with [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md#mouse)
 
 ## Headset

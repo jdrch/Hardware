@@ -27,7 +27,6 @@ Laptop
 # 24/7/52 Applications
 
 * [BeyondTrust Privilege Management](https://www.beyondtrust.com/docs/privilege-management/index.htm)
-* [BeyondTrust Remote Support Jump Client](https://www.beyondtrust.com/remote-support/features/jump-clients-remote-access)
 * Bluetooth Devices
 * [CyberArk Endpoint Privilege Manager](https://www.cyberark.com/resources/product-datasheets/cyberark-endpoint-privilege-manager)
 * [Dameware Mini Remote Control Server](https://www.dameware.com/dameware-mini-remote-control)

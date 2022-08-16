@@ -51,7 +51,7 @@ NVMe
 * [Logitech MK850 Performance](https://www.logitech.com/en-us/product/mk850-wireless-keyboard-mouse-combo) connected via Bluetooth & shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#keyboard)
 * [Logitech K380 Multi-device Bluetooth Keyboard](https://www.logitech.com/en-us/products/keyboards/k380-multi-device.920-007558.html) connected via Bluetooth & shared with [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#keyboard)
 
-# Mouse
+## Mouse
 
 * [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) connected via Bluetooth & shared with [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md#mouse)
 * [Logitech M720 Triathlon Multi-Computer Wireless Mouse](https://www.logitech.com/en-us/product/m720-triathlon.910-004790.html) connected via Bluetooth & shared with [Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#mouse)

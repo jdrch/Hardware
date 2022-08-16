@@ -72,7 +72,8 @@ Verizon
 
 ## Headset
 
-[Plantronics Voyager Edge](https://www.plantronics.com/us/en/product/voyager-edge)
+* [Plantronics Voyager Edge](https://www.plantronics.com/us/en/product/voyager-edge) shared with [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md#headset)
+* [Plantronics (Poly) 203500-101 Voyager 5200/R, Headset US](https://www.poly.com/us/en/products/headsets/voyager/voyager-5200) shared with [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md#headset)
 
 ## Headphones
 

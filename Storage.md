@@ -61,7 +61,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * ~~[SanDisk SDSQXVF-032G-GN6MA 32GB Extreme microSDHC UHS-I/U3 Class 10 Memory Card](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#bootos--user-folders)~~
 * [SanDisk SDSQUAR-400G-GN6MA Ultra microSD UHS-I 400 GB Card](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md#rpi-clone-backup-target)
 * 2x [SanDisk SDSQXA1-512G-AN6MA Extreme microSDXC™ UHS-I 512 GB CARD](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#bootos--user-folders)
-* ~~SanDisk Ultra microSD Class 10 128 GB Card~~[SanDisk SDSQUB3-128G-GN6MA Ultra Plus microSDXC UHS-I 128 GB Card](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#adopted)
+* ~~SanDisk Ultra microSD Class 10 128 GB Card~~ [SanDisk SDSQUB3-128G-GN6MA Ultra Plus microSDXC UHS-I 128 GB Card](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md#adopted)
 
 ### mSATA
 

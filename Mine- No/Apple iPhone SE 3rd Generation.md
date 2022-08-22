@@ -1,6 +1,6 @@
 # Model
 
-Apple iPhone SE 3rd Generation
+[Apple iPhone SE 3rd Generation](https://www.apple.com/iphone-se/specs/)
 
 # Purchase Condition
 

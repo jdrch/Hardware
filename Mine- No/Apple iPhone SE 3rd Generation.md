@@ -76,3 +76,7 @@ NVMe
 ### Desk
 
 [Lamicall LS04-US-W](https://www.amazon.com/dp/B07PKPDHX4)
+
+## Wireless Charger
+
+[Samsung 15W Wireless Charger Duo with Travel Adapter, Dark Gray](https://www.samsung.com/us/business/mobile/mobile-accessories/phones/15w-wireless-charger-duo-with-ta-dark-gray-ep-p5400tbegus/)

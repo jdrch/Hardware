@@ -80,6 +80,10 @@ Verizon
 * [SoundPEATS QY8 Wireless](https://www.rtings.com/headphones/reviews/soundpeats/qy8-wireless)
 * [Jabra Elite 3 (Dark Grey)](https://www.jabra.com/bluetooth-headsets/jabra-elite-3)
 
+## Smartwatch
+
+[Samsung Galaxy Watch5 Pro](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Watch5%20Pro.md#host-device)
+
 ## TV Tuner
 
 [MyGica PT682C ATSC Tuner](https://www.mygica.com/product/atsc-tuner/)

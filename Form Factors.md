@@ -22,10 +22,15 @@
 
 ## Smartphone
 
+* [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md)
 * [Google Pixel 3 XL](https://github.com/jdrch/Hardware/blob/master/Google%20Plixel%203%20XL.md)
 * [Samsung Galaxy Note9 512GB (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md)
-* [Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md)
+* ~~[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md)~~
 
-# Tablet
+## Smartwatch
+
+[Samsung Galaxy Watch5 Pro](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Watch5%20Pro.md)
+
+## Tablet
 
 [Samsung Galaxy Tab S7 11.0" SM-T870](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Tab%20S7%20SM-T870NZKEXAR.md)

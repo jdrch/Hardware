@@ -45,3 +45,4 @@ Samsung One UI Watch (Android Wear OS)
 
 # Host Device
 
+[Samsung Galaxy Note9](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Note9.md#smartwatch)

@@ -12,11 +12,11 @@ County sale
 
 # Operating System
 
-[OpenIndiana Hipster GUI](https://www.openindiana.org/download/)
+[TrueNAS CORE STABLE](https://www.truenas.com/truenas-core/)
 
 # Role(s)
 
-RAIDZ1 zpool backup repository (planned)
+RAIDZ1 zpool backup repository 
 
 # CPU
 
@@ -49,11 +49,8 @@ RAIDZ1 zpool backup repository (planned)
 
 # 24/7/52 Applications
 
-* [SSH](https://www.openssh.com/) (server)
-* VNC Server
-* NFS Server
-* NFS Client
-* [znapzend](https://github.com/oetiker/znapzend/)
+* NFS
+* S.M.A.R.T.
 
 # Peripherals
 

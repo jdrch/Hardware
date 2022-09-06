@@ -19,6 +19,14 @@
 
 [Samsung Galaxy Watch5 Pro](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Watch5%20Pro.md)
 
+## BSD
+
+### FreeBSD
+
+#### TrueNAS CORE
+
+[Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
+
 ## iOS
 
 [Apple iPhone SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md)
@@ -80,18 +88,8 @@
 
 Dell OptiPlex 390 MT (Unit 2)
 
-## Unix
+~~## Unix~~
 
+~~### Illumos~~
 
-
-### Illumos
-
-
-
-#### OpenIndiana Hipster GUI
-
-
-
-[Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md#operating-system)
-
-
+~~#### OpenIndiana Hipster GUI~~

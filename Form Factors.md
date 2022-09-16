@@ -8,9 +8,11 @@
 * [Dell OptiPlex 390 MT](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md)
 * [Dell OptiPlex 390 MT (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20MT.md)
 * [Dell OptiPlex 3010 SFF](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
+* [Dell Precision 5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md)
 
 ## Laptop
 
+* [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md)
 * [HP ProBook 4530s](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md)
 * [Lenovo Flex 5 1570 81CA000PUS](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md)
 * [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md)

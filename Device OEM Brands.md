@@ -1,6 +1,16 @@
 # Device OEM Brands
 
+## Apple
+
+### iPhone
+
+[SE 3rd Generation](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Apple%20iPhone%20SE%203rd%20Generation.md)
+
 ## Dell
+
+### Latitude
+
+[5401](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Latitude%205401.md)
 
 ### OptiPlex
 
@@ -14,6 +24,10 @@
 * [Dell OptiPlex 390 SFF](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md)
 * [Dell OptiPlex 390 SFF (Unit 2)](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md)
 * [Dell OptiPlex 3010 SFF](https://github.com/jdrch/Hardware/blob/master/Unused.md#unused-pcs)
+
+### Precision
+
+[5820 Tower](https://github.com/jdrch/Hardware/blob/master/Mine-%20No/Dell%20Precision%205820%20Tower.md)
 
 ### XPS
 
@@ -71,4 +85,8 @@
 
 #### S
 
-[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md)
+~~[Samsung Galaxy S5 (Verizon)](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20S5.md)~~
+
+#### Watch
+
+[5 Pro](https://github.com/jdrch/Hardware/blob/master/Samsung%20Galaxy%20Watch5%20Pro.md)

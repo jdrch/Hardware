@@ -60,7 +60,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 ### Connected Devices 
 
-* DisplayPort, 2560x1440, Right (Primary): Dell XPS 8500 Special Edition
+* DVI-D, 2560x1440, Right (Primary): Dell XPS 8500 Special Edition
 * HDMI, 1920x1080 or 1920x1200, Center (Primary): [Raspberry Pi 3 Model B+](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B+.md#external-monitors)
 * VGA, 2048x1152, Right: Dell OptiPlex 390 (Unit 2)
 

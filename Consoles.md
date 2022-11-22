@@ -6,7 +6,7 @@
 
 * Internal 1 TB NVMe SSD
 * [Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
-* [Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400](https://www.seagate.com/www-content/datasheets/pdfs/xbox-expansion-card-series-DS2042-3-2009-AMER-en_US.pdf)
+* [Seagate Storage Expansion Card for Xbox Series X|S 2TB STJR2000400](https://www.seagate.com/www-content/datasheets/pdfs/xbox-expansion-card-series-DS2042-3-2009-AMER-en_US.pdf)
 
 ### UPS
 

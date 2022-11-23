@@ -1,54 +1,17 @@
+# Listening Area
+
 ## Ceiling
-
-8
-
-
-
-9
 
 Fiberglass ceiling tile
 
-10
-
-
-
-11
-
 ## Dimensions: 11 ft x 11 ft x 7 ft
 
-12
-
-
-
-13
-
 * North border (relative to centrally positioned viewer looking directly ahead at TV): concrete basement wall
-
-14
-
 * East border: open
-
-15
-
 * South border: open
-
-16
-
 * West border: concrete basement wall
 
-17
-
-
-
-18
-
 ## Location
-
-19
-
-
-
-20
 
 Basement
 

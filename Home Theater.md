@@ -4,7 +4,9 @@
 
 Fiberglass ceiling tile
 
-## Dimensions: 11 ft x 11 ft x 7 ft
+## Dimensions
+
+11 ft (L) x 11 ft (W) x 7 ft (H)
 
 * North border (relative to centrally positioned viewer looking directly ahead at TV): concrete basement wall
 * East border: open
@@ -38,6 +40,10 @@ Polk Audio Monitor 50
 ## Subwoofer
 
 [BIC America Formula Series F-12 – 475W 12” Front-Firing Powered Subwoofer for Home Theater & Music](https://bicamerica.com/product/bic-formula-f-12-12-front-firing-powered-subwoofer/)
+
+## Placement
+
+Northwest corner, 4.75 in from north wall, 5.625 in from west wall
 
 ## Surround Left
 

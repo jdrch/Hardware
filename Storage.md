@@ -20,7 +20,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 #### SSD
 
-* [Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#bootos--user-known-folders)
+* ~[Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#bootos--user-known-folders)~
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390%20SFF.md#bootos--home)
 * [Crucial MX500 1 TB SATA 2.5" 7mm Internal SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#bootos--home)
 * [Samsung SSD 860 EVO 2.5" SATA III 1 TB](https://github.com/jdrch/Hardware/blob/master/Sony%20VAIO%20Fit%2015E%20SVF15212CXB.md#bootos--user-known-folders)

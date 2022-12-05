@@ -131,7 +131,7 @@ This drive serves as a backup to [Storage Pool](https://github.com/jdrch/Hardwar
 
 Known hardware problems that are impractical or impossible to fix.
 
-* Onboard SATA 3 Connector(SATA3) does not work
+* Onboard SATA 3 Connector (SATA3) does not work
 * Rear middle onboard USB 2.0 ports work for storage devices only. USB flash drive works, keyboards and UPS don't
 * Rear bottom right USB port causes intermittent disconnect/reconnect when UPS is connected to it
 * [StarTech 4-Port USB 3.1 PCIe Card](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#usb-31) has insufficient resources to service the [Logitech Brio Ultra HD Pro Webcam](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#webcam). A workaround is to use an onboard USB 2.0 port, but this limits the webcam to 1080p video

@@ -41,7 +41,7 @@ UPS backup: [APC Back UPS PRO BR 1500VA](https://github.com/jdrch/Hardware/blob/
 
 # Router
 
-[Netgear BR500 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/BR500.pdf)
+[Netgear BR500 Insight Instant VPN Router](https://www.netgear.com/images/datasheet/security/br500.pdf)
 
 * OpenVPN gateway
 * Not connected to Insight due to stability issues

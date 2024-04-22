@@ -27,6 +27,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 * [Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/HP%20ProBook%204530s.md#bootos--home)
 * [Samsung 870 EVO SATA 2.5" SSD 2TB](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20MT.md#bootos--user-known-folders)
 * [Samsung 870 EVO SATA 2.5" SSD 4TB](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#user-known-folders)
+* [Samsung 870 QVO SATA III 2.5" SSD 8TB](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-1)
 
 ### 3.5 in
 
@@ -50,6 +51,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 * [Samsung PM961 MZVLW256HEHP 256 GB SSD](https://github.com/jdrch/Hardware/blob/master/Lenovo%20Flex%205%201570%2081CA000PUS.md#bootos)
 * [Samsung SSD 970 EVO NVMe M.2 1TB](https://github.com/jdrch/Hardware/blob/master/Lenovo%20L380%20Yoga%20ThinkPad%2020M7CTO1WW.md#bootos--user-known-folders)
+* [Corsair MP600 CORE XT 4TB PCIe 4.0 (Gen4) x4 NVMe M.2 SSD](https://github.com/jdrch/Hardware/blob/master/Consoles.md#ssd)
 
 #### SATA
 
@@ -66,7 +68,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 ### mSATA
 
 * [Samsung 860 EVO mSATA 1 TB SSD](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#bootos)
-* [Samsung SSD PM830 mSATA 32 GB](https://www.pc-specs.com/storage/Samsung/PM830_mSATA_32GB/822)
+* ~[Samsung SSD PM830 mSATA 32 GB](https://www.pc-specs.com/storage/Samsung/PM830_mSATA_32GB/822)~
 
 ### USB
 
@@ -117,11 +119,13 @@ Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
-* Samsung SSD PM830 mSATA 32 GB
+* ~Samsung SSD PM830 mSATA 32 GB~
 * Samsung 860 EVO mSATA 1 TB SSD
 * Western Digital Blue™ WDS100T2B0A 3D NAND SATA 1 TB SSD
 * Samsung 870 EVO SATA 2.5" SSD 2TB
 * Samsung 870 EVO SATA 2.5" SSD 4TB
+* Samsung 870 QVO SATA III 2.5" SSD 8TB
+* Corsair MP600 CORE XT 4TB PCIe 4.0 (Gen4) x4 NVMe M.2 SSD
 
 #### USB
 
@@ -149,6 +153,10 @@ Seagate BarraCuda Pro ST12000DM0007 12 TB HDD
 
 ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 
+### Corsair
+
+Corsair MP600 CORE XT 4TB PCIe 4.0 (Gen4) x4 NVMe M.2 SSD
+
 ### Crucial 
 
 * Crucial MX500 500 GB SATA 2.5" 7mm Internal SSD
@@ -172,10 +180,11 @@ ADATA AUV128-32G-RBE 32 GB USB 3.1 Gen 1 Flash Drive
 * Samsung PM961 MZVLW256HEHP 256 GB SSD
 * Samsung SSD 970 EVO NVMe M.2 1TB
 * Samsung PM871b MZNLN128HAHQ 128 GB SSD
-* Samsung SSD PM830 mSATA 32 GB
+* ~Samsung SSD PM830 mSATA 32 GB~
 * Samsung 860 EVO mSATA 1 TB SSD
 * Samsung 870 EVO SATA 2.5" SSD 2TB
 * Samsung 870 EVO SATA 2.5" SSD 4TB
+* Samsung 870 QVO SATA III 2.5" SSD 8TB
 
 ### SanDisk
 

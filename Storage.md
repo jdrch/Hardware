@@ -43,7 +43,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 ### CFExpress
 
-[Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage)
+[Seagate Storage Expansion Card for Xbox Series X|S 2TB STJR2000400](https://github.com/jdrch/Hardware/blob/master/Consoles.md#storage-1)
 
 ### M.2
 
@@ -85,7 +85,7 @@ Only drives and cards whose specs and/or OEMs are known are included in this lis
 
 #### CFExpress
 
-Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
+Seagate Storage Expansion Card for Xbox Series X|S 2TB STJR2000400
 
 #### HDD
 
@@ -204,7 +204,7 @@ Corsair MP600 CORE XT 4TB PCIe 4.0 (Gen4) x4 NVMe M.2 SSD
 * Seagate Barracuda 7200.12 ST3250312AS 250 GB HDD
 * Seagate Barracuda ST250DM000 250 GB HDD
 * Seagate BarraCuda ST2000LM015 2 TB HDD
-* Seagate Storage Expansion Card for Xbox Series X|S 1TB STJR1000400
+* Seagate Storage Expansion Card for Xbox Series X|S 2TB STJR2000400
 
 ### Toshiba
 

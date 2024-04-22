@@ -54,7 +54,7 @@
 ### Storage
 
 * Internal 1 TB NVMe SSD
-* ~~[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf)~~ [Samsung 870 QVO SATA III 2.5" SSD 8TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-qvo-sata-iii-2-5-ssd-8tb-mz-77q8t0b-am/) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock))
+* ~~[Toshiba MG08ACA16TE Enterprise Capacity 16 TB HDD](https://toshiba.semicon-storage.com/content/dam/toshiba-ss/asia-pacific/docs/product/storage/product-manual/eHDD-MG08-Product-Overview.pdf)~~ [Samsung 870 QVO SATA III 2.5" SSD 8TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-qvo-sata-iii-2-5-ssd-8tb-mz-77q8t0b-am/) ([USB 3.1 Gen 1](https://github.com/jdrch/Hardware/blob/master/Consoles.md#dock-1))
 * [Seagate Storage Expansion Card for Xbox Series X|S 2TB STJR2000400](https://www.seagate.com/www-content/datasheets/pdfs/xbox-expansion-card-series-DS2042-3-2009-AMER-en_US.pdf)
 
 ### UPS

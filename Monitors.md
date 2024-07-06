@@ -37,6 +37,7 @@ VGA, 1366x768, Right: Dell OptiPlex 390 (Unit 1)
 
 * HDMI, 3840x2160, Left: [Dell Latitude 5401](https://github.com/jdrch/Hardware/blob/master/Mine:%20No/Dell%20Latitude%205401.md#external-monitors)
 * DisplayPort, 3840x2160, Left: [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
+* DVI-D, 3840x2160, Left (Primary): [Apple Mac Mini A2348](https://github.com/jdrch/Hardware/blob/master/Apple%20Mac%20Mini%20A2348.md#external-monitors)
 
 ### VESA Mount
 
@@ -89,8 +90,9 @@ USB 3.1 Gen 1, 1920x1080, Right: [Lenovo L380 Yoga ThinkPad 20M7CTO1WW](https://
 
 ### Connected Devices
 
-* HDMI, 1920x1080, Left (Primary): [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#external-monitors) (Unit 2)
+* HDMI 1, 1920x1080, Left (Primary): [Dell OptiPlex 390](https://github.com/jdrch/Hardware/blob/master/Dell%20OptiPlex%20390-1%20SFF.md#external-monitors) (Unit 2)
 * DisplayPort, 3840x2160, Center: [Dell XPS 8500 Special Edition](https://github.com/jdrch/Hardware/blob/master/Dell%20XPS%208500%20Special%20Edition.md#external-monitors)
+* HDMI 2, 3840x2160, Right: [Apple Mac Mini A2348](https://github.com/jdrch/Hardware/blob/master/Apple%20Mac%20Mini%20A2348.md#external-monitors)
 
 ### VESA Mount
 

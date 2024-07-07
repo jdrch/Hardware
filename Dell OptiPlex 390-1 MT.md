@@ -87,6 +87,7 @@ This drive serves as a backup to [Storage Pool](https://github.com/jdrch/Hardwar
 * [Windows Security](https://www.microsoft.com/en-us/windows/comprehensive-security)
 * Skype
 * SyncBackFree
+* [UniGetUI](https://github.com/marticliment/UniGetUI)
 
 # Peripherals
 

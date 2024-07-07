@@ -50,7 +50,7 @@ Client PC
 * [Pushbullet](https://www.pushbullet.com/)
 * Intel HD Graphics
 * [Intel Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/detect.html)
-* Skype
+* [UniGetUI](https://github.com/marticliment/UniGetUI)
 
 # Peripherals
 

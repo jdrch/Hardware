@@ -50,7 +50,7 @@ Lenovo.com
 * [John's Background Switcher for Windows](https://johnsad.ventures/software/backgroundswitcher/)
 * Intel HD Graphics
 * Intel Driver & Support Assistant
-* Skype
+* [UniGetUI](https://github.com/marticliment/UniGetUI)
 
 # Peripherals
 

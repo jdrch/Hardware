@@ -86,7 +86,7 @@ RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
 * OneDrive
 * Bluetooth Devices
 * Windows Security
-* Skype
+* [UniGetUI](https://github.com/marticliment/UniGetUI)
 
 # Peripherals
 

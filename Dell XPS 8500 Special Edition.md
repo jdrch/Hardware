@@ -151,4 +151,6 @@ External Monitors
 
 # Replacement
 
-[Performance Value PC - No GPU](https://pcpartpicker.com/user/jdrch/saved/qM8Bbv) with above GPU reused
+[Legion Tower 7i Gen 8 (Intel) Gaming Desktop](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007)
+* [Support](https://pcsupport.lenovo.com/us/en/products/desktops-and-all-in-ones/legion-series/legion-t7-34irz8/document-userguide)
+* [Expansion specs](https://download.lenovo.com/consumer/desktop_pub/legion_t7_34irz8_ug_en_202211.pdf)

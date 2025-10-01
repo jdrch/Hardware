@@ -24,7 +24,7 @@ Client PC
 
 # RAM
 
-16 GB (Cannot find receipt at this time)
+[Kingston 9905630-051.A00G 16GB 2400MHz DDR4 SDRAM Memory Module](https://esaitech.com/products/kingston-9905630-051-a00g-16gb-2400mhz-ddr4-memory-module)
 
 # Storage
 

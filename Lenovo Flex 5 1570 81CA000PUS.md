@@ -24,7 +24,7 @@ Client PC
 
 # RAM
 
-[Kingston 9905630-051.A00G 16GB 2400MHz DDR4 SDRAM Memory Module](https://esaitech.com/products/kingston-9905630-051-a00g-16gb-2400mhz-ddr4-memory-module)
+[Kingston 9905630-051.A00G 16GB 2400MHz DDR4 SDRAM Memory Module](https://esaitech.com/products/kingston-9905630-051-a00g-16gb-2400mhz-ddr4-memory-module) - 32 GB RAM may be supported, but current MSRP is greater than the residual value of the laptop
 
 # Storage
 

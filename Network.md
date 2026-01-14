@@ -63,7 +63,7 @@ Connected to [NETGEAR GS316PP 16-Port Gigabit Ethernet Unmanaged PoE+ Essentials
 * [Ubiquiti UniFi HD UAP-AC-HD 802.11ac Wave 2 Enterprise Wi-Fi Access Point](https://dl.ubnt.com/datasheets/unifi/UniFi_UAP-AC-HD_DS.pdf)
   * Managed by [UniFi Controller](https://github.com/jdrch/Hardware/blob/master/Raspberry%20Pi%203%20Model%20B%2B.md#roles)
   * ~~Connected to [NETGEAR GS108LP-100NAS 8-port Gigabit Ethernet Unmanaged PoE/PoE+ Switch](https://github.com/jdrch/Hardware/blob/master/Network.md#switches)~~
-* [TP-Link Omada EAP787(us)v1](https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap787/(us)%20v1/)
+* [TP-Link Omada EAP787(us) v1](https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap787/(us)%20v1/)
   * Managed by [Omada Software Controller](https://www.omadanetworks.com/us/business-networking/omada-controller-cloud-software/omada-software-controller/)
 
 # Switches
